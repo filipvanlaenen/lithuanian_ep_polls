@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sat, 24 Mar 2018 12:50:52 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 12–21 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-01-21-Vilmorus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 26.3–31.9%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 20.5–25.7%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (—): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Lietuvos Žaliųjų Partija (—): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Politinė partija “Lietuvos sąrašas” (—): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-01-21-Vilmorus.png"
+        length="305359"
+        type="image/png"/>
+      <pubDate>Sat, 24 Mar 2018 12:50:52 +0100</pubDate>
+      <dc:date>2018-03-24T12:50:52.581157+01:00</dc:date>
+    </item>
+    <dc:date>2018-03-24T12:50:52.581157+01:00</dc:date>
+  </channel>
+</rss>
