@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Aug 2018 10:09:24 +0200</pubDate>
+    <pubDate>Sat, 04 Aug 2018 17:20:51 +0200</pubDate>
     <item>
       <title>Opinion Poll by Spinter tyrimai, 19–27 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-06-27-Spintertyrimai.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2018-08-04T10:09:24.422666+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 8–17 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-06-17-Vilmorus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 3 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-06-17-Vilmorus-seats.png"
+        length="162348"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 17:20:51 +0200</pubDate>
+      <dc:date>2018-08-04T17:20:51.877782+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 8–17 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-06-17-Vilmorus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-06-17-Vilmorus-coalitions-seats.png"
+        length="114542"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 17:20:51 +0200</pubDate>
+      <dc:date>2018-08-04T17:20:51.877782+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 8–17 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-06-17-Vilmorus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 21.5–26.7%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 8.3–11.9%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (*): 3.9–6.5%&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 9.3–13.1%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 6.5–9.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-06-17-Vilmorus.png"
         length="314147"
         type="image/png"/>
-      <pubDate>Sat, 04 Aug 2018 10:07:01 +0200</pubDate>
-      <dc:date>2018-08-04T10:07:01.778197+02:00</dc:date>
+      <pubDate>Sat, 04 Aug 2018 17:20:51 +0200</pubDate>
+      <dc:date>2018-08-04T17:20:51.877782+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–12 May 2018 – Seat Projections for the Parties</title>
@@ -89,6 +109,6 @@
       <pubDate>Tue, 03 Apr 2018 14:29:40 +0200</pubDate>
       <dc:date>2018-04-03T14:29:40.310882+02:00</dc:date>
     </item>
-    <dc:date>2018-08-04T10:09:24.422666+02:00</dc:date>
+    <dc:date>2018-08-04T17:20:51.877782+02:00</dc:date>
   </channel>
 </rss>
