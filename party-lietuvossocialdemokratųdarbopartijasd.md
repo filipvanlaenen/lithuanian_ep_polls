@@ -45,8 +45,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
-| [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–17 June 2018](2018-06-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 1 | 1 | 1 | 1 |
 | [4–12 May 2018](2018-05-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 1 | 1 | 1 | 1 |
 | [12–21 January 2018](2018-01-21-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
