@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 Aug 2018 17:32:00 +0200</pubDate>
+    <pubDate>Sun, 02 Sep 2018 09:54:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai, 16–31 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-07-31-Baltijostyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 16.7–21.5%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 14.8–19.4%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 11.1–15.2%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 4.6–7.6%&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (*): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 7.4–11.0%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 4.6–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-07-31-Baltijostyrimai.png"
+        length="338498"
+        type="image/png"/>
+      <pubDate>Sun, 02 Sep 2018 09:54:03 +0200</pubDate>
+      <dc:date>2018-09-02T09:54:03.146064+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai, 19–27 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-06-27-Spintertyrimai.html#seats</link>
@@ -129,6 +139,6 @@
       <pubDate>Tue, 03 Apr 2018 14:29:40 +0200</pubDate>
       <dc:date>2018-04-03T14:29:40.310882+02:00</dc:date>
     </item>
-    <dc:date>2018-08-05T17:32:00.569902+02:00</dc:date>
+    <dc:date>2018-09-02T09:54:03.146064+02:00</dc:date>
   </channel>
 </rss>
