@@ -167,6 +167,8 @@
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2018-06-27-Spintertyrimai-coalitions-seats-pmf-lvžs.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
@@ -176,6 +178,8 @@
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-06-27-Spintertyrimai-coalitions-seats-pmf-ts-lkd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 24% | 100% | Last Result |
@@ -183,6 +187,8 @@
 | 4 | 0% | 0% |  |
 
 ### Darbo Partija (ALDE) – Liberalų Sąjūdis (ALDE)
+
+![Graph with seats probability mass function not yet produced](2018-06-27-Spintertyrimai-coalitions-seats-pmf-dp–lrls.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -193,6 +199,8 @@
 
 ### Lietuvos socialdemokratų partija (S&D) – Lietuvos socialdemokratų darbo partija (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-06-27-Spintertyrimai-coalitions-seats-pmf-lsdp–lsddp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 10% | 100% |  |
@@ -202,6 +210,8 @@
 
 ### Partija tvarka ir teisingumas (EFDD)
 
+![Graph with seats probability mass function not yet produced](2018-06-27-Spintertyrimai-coalitions-seats-pmf-tt.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 98% | 100% | Median |
@@ -209,6 +219,8 @@
 | 3 | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija (ECR)
+
+![Graph with seats probability mass function not yet produced](2018-06-27-Spintertyrimai-coalitions-seats-pmf-llra.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
