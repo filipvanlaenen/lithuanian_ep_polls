@@ -11,6 +11,7 @@ Last result: **8.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.0% | 3.7–6.5% | 3.4–6.9% | 3.2–7.2% | 2.8–7.8% |
+| [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [16–31 July 2018](2018-07-31-Baltijostyrimai.html) | Baltijos tyrimai | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.6–7.6% | 4.3–8.1% |
 | [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [8–17 June 2018](2018-06-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
@@ -42,6 +43,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–31 July 2018](2018-07-31-Baltijostyrimai.html) | Baltijos tyrimai | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–27 June 2018](2018-06-27-Spintertyrimai.html) | Spinter tyrimai | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–17 June 2018](2018-06-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -56,8 +58,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Median |
-| 1 | 36% | 36% | Last Result |
+| 0 | 71% | 100% | Median |
+| 1 | 29% | 29% | Last Result |
 | 2 | 0% | 0% |  |
 
 
