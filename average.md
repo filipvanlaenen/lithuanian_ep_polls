@@ -258,7 +258,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partija-tvarka-ir-teisingumas-(efdd)">Partija tvarka ir teisingumas (EFDD)</a> | 2 | 1 | 1 |1 | 1–2 | 1–2 |
 | <a href="#darbo-partija-(alde)">Darbo Partija (ALDE)</a> | 1 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
 | <a href="#lietuvos-lenkų-rinkimų-akcija-(ecr)">Lietuvos lenkų rinkimų akcija (ECR)</a> | 1 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(greens/efa)">Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)</a> | 1 | 3 | 2–3 |2–3 | 2–3 | 1–3 |
+| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(greens/efa)">Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)</a> | 1 | 2 | 2–3 |2–3 | 2–3 | 1–3 |
 | <a href="#lietuvos-žaliųjų-partija-(*)">Lietuvos Žaliųjų Partija (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lietuvos-centro-partija-(*)">Lietuvos Centro Partija (*)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#politinė-partija-“lietuvos-sąrašas”-(*)">Politinė partija “Lietuvos sąrašas” (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -272,8 +272,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 37% | 100% | Last Result |
-| 3 | 60% | 63% | Median |
+| 2 | 40% | 100% | Last Result |
+| 3 | 56% | 60% | Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
@@ -297,8 +297,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Median |
-| 1 | 38% | 38% |  |
+| 0 | 61% | 100% | Median |
+| 1 | 39% | 39% |  |
 | 2 | 0% | 0% | Last Result |
 
 ### Partija tvarka ir teisingumas (EFDD)
@@ -321,8 +321,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 89% | 99.2% | Last Result, Median |
+| 0 | 0.6% | 100% |  |
+| 1 | 89% | 99.4% | Last Result, Median |
 | 2 | 11% | 11% |  |
 | 3 | 0% | 0% |  |
 
@@ -334,8 +334,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Median |
-| 1 | 29% | 29% | Last Result |
+| 0 | 66% | 100% | Median |
+| 1 | 34% | 34% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
@@ -347,8 +347,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.9% | 100% | Last Result |
-| 2 | 46% | 99.1% |  |
-| 3 | 53% | 53% | Median |
+| 2 | 55% | 99.1% | Median |
+| 3 | 43% | 44% |  |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
@@ -360,8 +360,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% | Last Result |
-| 1 | 67% | 67% | Median |
+| 0 | 26% | 100% | Last Result |
+| 1 | 74% | 74% | Median |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos socialdemokratų darbo partija (S&D)
@@ -372,8 +372,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% | Last Result |
-| 1 | 79% | 79% | Median |
+| 0 | 22% | 100% | Last Result |
+| 1 | 78% | 78% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -387,7 +387,7 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 2 | 3 | 0% | 2–3 | 2–3 | 2–4 | 2–4 |
-| Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | 1 | 3 | 0% | 2–3 | 2–3 | 2–3 | 1–3 |
+| Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | 1 | 2 | 0% | 2–3 | 2–3 | 2–3 | 1–3 |
 | Liberalų Sąjūdis (ALDE) – Darbo Partija (ALDE) | 3 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija (S&D) – Lietuvos socialdemokratų darbo partija (S&D) | 2 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partija tvarka ir teisingumas (EFDD) | 2 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
@@ -400,8 +400,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 37% | 100% | Last Result |
-| 3 | 60% | 63% | Median |
+| 2 | 40% | 100% | Last Result |
+| 3 | 56% | 60% | Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
@@ -412,8 +412,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.9% | 100% | Last Result |
-| 2 | 46% | 99.1% |  |
-| 3 | 53% | 53% | Median |
+| 2 | 55% | 99.1% | Median |
+| 3 | 43% | 44% |  |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
@@ -423,9 +423,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 51% | 99.7% | Median |
-| 2 | 48% | 48% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 50% | 99.8% | Median |
+| 2 | 49% | 49% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Lietuvos socialdemokratų partija (S&D) – Lietuvos socialdemokratų darbo partija (S&D)
@@ -434,8 +434,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 21% | 100% |  |
-| 2 | 79% | 79% | Last Result, Median |
+| 1 | 22% | 100% |  |
+| 2 | 78% | 78% | Last Result, Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -455,8 +455,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% | Last Result |
-| 1 | 67% | 67% | Median |
+| 0 | 26% | 100% | Last Result |
+| 1 | 74% | 74% | Median |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija (ECR)
@@ -465,10 +465,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Median |
-| 1 | 29% | 29% | Last Result |
+| 0 | 66% | 100% | Median |
+| 1 | 34% | 34% | Last Result |
 | 2 | 0% | 0% |  |
 
 
 ## Technical Information
 
++ **Number of polls included in this average:** 3
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 2.44%
