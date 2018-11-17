@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 25 Oct 2018 13:41:38 +0200</pubDate>
+    <pubDate>Sat, 17 Nov 2018 16:26:10 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai, 16–30 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-10-30-Spintertyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 18.6–23.6%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 10.2–14.2%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 6.4–9.8%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (*): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-10-30-Spintertyrimai.png"
+        length="311115"
+        type="image/png"/>
+      <pubDate>Sat, 17 Nov 2018 16:26:10 +0100</pubDate>
+      <dc:date>2018-11-17T16:26:10.183659+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai, 19–26 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-09-26-Spintertyrimai.html#seats</link>
@@ -219,6 +229,6 @@
       <pubDate>Tue, 03 Apr 2018 14:29:40 +0200</pubDate>
       <dc:date>2018-04-03T14:29:40.310882+02:00</dc:date>
     </item>
-    <dc:date>2018-10-25T13:41:38.105588+02:00</dc:date>
+    <dc:date>2018-11-17T16:26:10.183659+01:00</dc:date>
   </channel>
 </rss>
