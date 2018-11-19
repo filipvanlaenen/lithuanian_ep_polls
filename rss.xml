@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Nov 2018 19:18:51 +0100</pubDate>
+    <pubDate>Sun, 18 Nov 2018 22:28:09 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai, 16–30 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-10-30-Spintertyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-10-30-Spintertyrimai-seats.png"
+        length="221954"
+        type="image/png"/>
+      <pubDate>Sun, 18 Nov 2018 22:28:09 +0100</pubDate>
+      <dc:date>2018-11-18T22:28:09.676053+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai, 16–30 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-10-30-Spintertyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-10-30-Spintertyrimai-coalitions-seats.png"
+        length="183767"
+        type="image/png"/>
+      <pubDate>Sun, 18 Nov 2018 22:28:09 +0100</pubDate>
+      <dc:date>2018-11-18T22:28:09.676053+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai, 16–30 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-10-30-Spintertyrimai.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-10-30-Spintertyrimai.png"
         length="311115"
         type="image/png"/>
-      <pubDate>Sun, 18 Nov 2018 19:18:51 +0100</pubDate>
-      <dc:date>2018-11-18T19:18:51.694189+01:00</dc:date>
+      <pubDate>Sun, 18 Nov 2018 22:28:09 +0100</pubDate>
+      <dc:date>2018-11-18T22:28:09.676053+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai, 19–26 September 2018 – Seat Projections for the Parties</title>
@@ -229,6 +249,6 @@
       <pubDate>Tue, 03 Apr 2018 14:29:40 +0200</pubDate>
       <dc:date>2018-04-03T14:29:40.310882+02:00</dc:date>
     </item>
-    <dc:date>2018-11-18T19:18:51.694189+01:00</dc:date>
+    <dc:date>2018-11-18T22:28:09.676053+01:00</dc:date>
   </channel>
 </rss>
