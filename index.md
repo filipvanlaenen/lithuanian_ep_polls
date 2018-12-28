@@ -22,7 +22,7 @@ Only polls for which at least the sample size has been published are included in
 + **LLRA:** Lietuvos lenkų rinkimų akcija (ECR)
 + **LVŽS:** Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
 + **LŽP:** Lietuvos Žaliųjų Partija (*)
-+ **LCP:** Lietuvos Centro Partija (*)
++ **LCP:** Lietuvos Centro Partija (ECR)
 + **LS:** Politinė partija “Lietuvos sąrašas” (*)
 + **LSDDP:** Lietuvos socialdemokratų darbo partija (S&D)
 + **N/A (single party):** Party not included the published results
