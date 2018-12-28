@@ -18,7 +18,7 @@
 | Darbo Partija (ALDE) | 12.4% | 6.0% | 5.1–7.0% |4.9–7.3% |4.7–7.6% |4.3–8.2% |
 | Liberalų Sąjūdis (ALDE) | 16.6% | 5.0% | 4.2–6.0% |4.0–6.2% |3.8–6.5% |3.4–7.0% |
 | Lietuvos socialdemokratų darbo partija (S&D) | 0.0% | 5.0% | 4.2–6.0% |4.0–6.2% |3.8–6.5% |3.4–7.0% |
-| Lietuvos Centro Partija (*) | 0.0% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.6–5.9% |
+| Lietuvos Centro Partija (ECR) | 0.0% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.6–5.9% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -38,7 +38,7 @@
 | <a href="#darbo-partija-(alde)">Darbo Partija (ALDE)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#liberalų-sąjūdis-(alde)">Liberalų Sąjūdis (ALDE)</a> | 2 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#lietuvos-socialdemokratų-darbo-partija-(s&d)">Lietuvos socialdemokratų darbo partija (S&D)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#lietuvos-centro-partija-(*)">Lietuvos Centro Partija (*)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
+| <a href="#lietuvos-centro-partija-(ecr)">Lietuvos Centro Partija (ECR)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
 
@@ -137,11 +137,11 @@
 | 1 | 40% | 40% |  |
 | 2 | 0% | 0% |  |
 
-### Lietuvos Centro Partija (*)
+### Lietuvos Centro Partija (ECR)
 
-*For a full overview of the results for this party, see the [Lietuvos Centro Partija (*)](party-lietuvoscentropartija.html) page.*
+*For a full overview of the results for this party, see the [Lietuvos Centro Partija (ECR)](party-lietuvoscentropartijaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-10-30-Spintertyrimai-seats-pmf-lietuvoscentropartija.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-10-30-Spintertyrimai-seats-pmf-lietuvoscentropartijaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -240,6 +240,6 @@
 ### Calculations
 
 + **Sample size:** 1005
-+ **Simulations done:** 1,048,576
++ **Simulations done:** 1,048,575
 + **Error estimate:** 1.84%
 

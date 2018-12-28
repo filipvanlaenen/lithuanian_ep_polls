@@ -16,7 +16,7 @@
 | Lietuvos socialdemokratų partija (S&D) | 17.3% | 10.0% | 8.9–11.4% |8.6–11.7% |8.3–12.0% |7.8–12.7% |
 | Darbo Partija (ALDE) | 12.4% | 9.0% | 8.0–10.3% |7.7–10.7% |7.4–11.0% |6.9–11.6% |
 | Liberalų Sąjūdis (ALDE) | 16.6% | 7.0% | 6.0–8.1% |5.8–8.4% |5.5–8.7% |5.1–9.3% |
-| Lietuvos Centro Partija (*) | 0.0% | 7.0% | 6.0–8.1% |5.8–8.4% |5.5–8.7% |5.1–9.3% |
+| Lietuvos Centro Partija (ECR) | 0.0% | 7.0% | 6.0–8.1% |5.8–8.4% |5.5–8.7% |5.1–9.3% |
 | Lietuvos lenkų rinkimų akcija (ECR) | 8.0% | 6.0% | 5.1–7.0% |4.9–7.3% |4.6–7.6% |4.3–8.1% |
 | Lietuvos socialdemokratų darbo partija (S&D) | 0.0% | 6.0% | 5.1–7.0% |4.9–7.3% |4.6–7.6% |4.3–8.1% |
 
@@ -36,7 +36,7 @@
 | <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 2 | 1 | 1 |1 |1 |1 |
 | <a href="#darbo-partija-(alde)">Darbo Partija (ALDE)</a> | 1 | 1 | 1 |1 |1 |1 |
 | <a href="#liberalų-sąjūdis-(alde)">Liberalų Sąjūdis (ALDE)</a> | 2 | 1 | 1 |1 |0–1 |0–1 |
-| <a href="#lietuvos-centro-partija-(*)">Lietuvos Centro Partija (*)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
+| <a href="#lietuvos-centro-partija-(ecr)">Lietuvos Centro Partija (ECR)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
 | <a href="#lietuvos-lenkų-rinkimų-akcija-(ecr)">Lietuvos lenkų rinkimų akcija (ECR)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#lietuvos-socialdemokratų-darbo-partija-(s&d)">Lietuvos socialdemokratų darbo partija (S&D)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 
@@ -109,11 +109,11 @@
 | 1 | 96% | 96% | Median |
 | 2 | 0% | 0% | Last Result |
 
-### Lietuvos Centro Partija (*)
+### Lietuvos Centro Partija (ECR)
 
-*For a full overview of the results for this party, see the [Lietuvos Centro Partija (*)](party-lietuvoscentropartija.html) page.*
+*For a full overview of the results for this party, see the [Lietuvos Centro Partija (ECR)](party-lietuvoscentropartijaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-07-31-Baltijostyrimai-seats-pmf-lietuvoscentropartija.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-07-31-Baltijostyrimai-seats-pmf-lietuvoscentropartijaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -233,6 +233,6 @@
 ### Calculations
 
 + **Sample size:** 1007
-+ **Simulations done:** 1,048,576
++ **Simulations done:** 1,048,575
 + **Error estimate:** 1.34%
 
