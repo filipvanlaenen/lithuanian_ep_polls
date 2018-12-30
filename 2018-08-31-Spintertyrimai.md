@@ -162,8 +162,8 @@
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 2 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Darbo Partija (ALDE) – Liberalų Sąjūdis (ALDE) | 3 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–2 |
 | Lietuvos socialdemokratų partija (S&D) – Lietuvos socialdemokratų darbo partija (S&D) | 2 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lietuvos Centro Partija (ECR) – Lietuvos lenkų rinkimų akcija (ECR) | 1 | 1 | 0% | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partija tvarka ir teisingumas (EFDD) | 2 | 1 | 0% | 1 | 1 | 1 | 1–2 |
-| Lietuvos lenkų rinkimų akcija (ECR) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
 
@@ -207,6 +207,17 @@
 | 2 | 78% | 78% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
+### Lietuvos Centro Partija (ECR) – Lietuvos lenkų rinkimų akcija (ECR)
+
+![Graph with seats probability mass function not yet produced](2018-08-31-Spintertyrimai-coalitions-seats-pmf-lcp–llra.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 11% | 100% |  |
+| 1 | 69% | 89% | Last Result, Median |
+| 2 | 20% | 20% |  |
+| 3 | 0% | 0% |  |
+
 ### Partija tvarka ir teisingumas (EFDD)
 
 ![Graph with seats probability mass function not yet produced](2018-08-31-Spintertyrimai-coalitions-seats-pmf-tt.png "Seats Probability Mass Function")
@@ -216,16 +227,6 @@
 | 1 | 99.3% | 100% | Median |
 | 2 | 0.7% | 0.7% | Last Result |
 | 3 | 0% | 0% |  |
-
-### Lietuvos lenkų rinkimų akcija (ECR)
-
-![Graph with seats probability mass function not yet produced](2018-08-31-Spintertyrimai-coalitions-seats-pmf-llra.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Median |
-| 1 | 27% | 27% | Last Result |
-| 2 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -239,6 +240,6 @@
 ### Calculations
 
 + **Sample size:** 1007
-+ **Simulations done:** 1,048,575
++ **Simulations done:** 1,048,576
 + **Error estimate:** 1.74%
 
