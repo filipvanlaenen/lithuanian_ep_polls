@@ -163,7 +163,7 @@
 | Lietuvos socialdemokratų partija (S&D) – Lietuvos socialdemokratų darbo partija (S&D) | 2 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partija tvarka ir teisingumas (EFDD) | 2 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija (ALDE) – Liberalų Sąjūdis (ALDE) | 3 | 1 | 0% | 1–2 | 0–2 | 0–2 | 0–2 |
-| Lietuvos lenkų rinkimų akcija (ECR) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija (ECR) – Lietuvos Centro Partija (ECR) | 1 | 1 | 0% | 1 | 0–1 | 0–2 | 0–2 |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
 
@@ -218,15 +218,16 @@
 | 2 | 33% | 33% |  |
 | 3 | 0% | 0% | Last Result |
 
-### Lietuvos lenkų rinkimų akcija (ECR)
+### Lietuvos lenkų rinkimų akcija (ECR) – Lietuvos Centro Partija (ECR)
 
-![Graph with seats probability mass function not yet produced](2018-10-30-Spintertyrimai-coalitions-seats-pmf-llra.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-10-30-Spintertyrimai-coalitions-seats-pmf-llra–lcp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 10% | 100% |  |
-| 1 | 90% | 90% | Last Result, Median |
-| 2 | 0% | 0% |  |
+| 1 | 87% | 90% | Last Result, Median |
+| 2 | 3% | 3% |  |
+| 3 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -240,6 +241,6 @@
 ### Calculations
 
 + **Sample size:** 1005
-+ **Simulations done:** 1,048,575
++ **Simulations done:** 1,048,576
 + **Error estimate:** 1.84%
 
