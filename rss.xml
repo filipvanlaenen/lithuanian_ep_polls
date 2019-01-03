@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 01 Jan 2019 17:04:39 +0100</pubDate>
+    <pubDate>Thu, 03 Jan 2019 20:45:03 +0100</pubDate>
     <item>
       <title>Opinion Poll by Spinter tyrimai, 19–30 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-11-30-Spintertyrimai.html#seats</link>
@@ -74,10 +74,10 @@
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-09-26-Spintertyrimai.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 21.5–26.8%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (ECR): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 4.7–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-09-26-Spintertyrimai.png"
-        length="310238"
+        length="310211"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 16:10:30 +0100</pubDate>
-      <dc:date>2018-12-28T16:10:30.558201+01:00</dc:date>
+      <pubDate>Thu, 03 Jan 2019 20:45:03 +0100</pubDate>
+      <dc:date>2019-01-03T20:45:03.825146+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai, 24–31 August 2018 – Seat Projections for the Parties</title>
@@ -259,6 +259,6 @@
       <pubDate>Fri, 28 Dec 2018 22:13:34 +0100</pubDate>
       <dc:date>2018-12-28T22:13:34.593019+01:00</dc:date>
     </item>
-    <dc:date>2019-01-01T17:04:39.230572+01:00</dc:date>
+    <dc:date>2019-01-03T20:45:03.825146+01:00</dc:date>
   </channel>
 </rss>
