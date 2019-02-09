@@ -30,13 +30,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai-(epp)">Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)</a> | 2 | 3 | 3 |3 |3 |3 |
-| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(greens/efa)">Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)</a> | 1 | 3 | 3 |3 |3 |2–3 |
-| <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 2 | 1 | 1 |1 |1 |1 |
+| <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai-(epp)">Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)</a> | 2 | 3 | 3 |3 |3 |3–4 |
+| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(greens/efa)">Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)</a> | 1 | 3 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 2 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#partija-tvarka-ir-teisingumas-(efdd)">Partija tvarka ir teisingumas (EFDD)</a> | 2 | 1 | 1 |1 |1 |1 |
 | <a href="#lietuvos-lenkų-rinkimų-akcija-(ecr)">Lietuvos lenkų rinkimų akcija (ECR)</a> | 1 | 1 | 1 |1 |1 |1 |
 | <a href="#darbo-partija-(alde)">Darbo Partija (ALDE)</a> | 1 | 1 | 1 |1 |1 |1 |
-| <a href="#liberalų-sąjūdis-(alde)">Liberalų Sąjūdis (ALDE)</a> | 2 | 0 | 0 |0 |0 |0–1 |
+| <a href="#liberalų-sąjūdis-(alde)">Liberalų Sąjūdis (ALDE)</a> | 2 | 0 | 0 |0–1 |0–1 |0–1 |
 | <a href="#lietuvos-centro-partija-(ecr)">Lietuvos Centro Partija (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#lietuvos-socialdemokratų-darbo-partija-(s&d)">Lietuvos socialdemokratų darbo partija (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -49,7 +49,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 100% | 100% | Median |
+| 3 | 98.6% | 100% | Median |
+| 4 | 1.4% | 1.4% |  |
+| 5 | 0% | 0% |  |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
 
@@ -60,8 +62,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 1.4% | 100% |  |
-| 3 | 98.6% | 98.6% | Median |
+| 2 | 11% | 100% |  |
+| 3 | 89% | 89% | Median |
 | 4 | 0% | 0% |  |
 
 ### Lietuvos socialdemokratų partija (S&D)
@@ -72,8 +74,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.6% | 100% | Median |
-| 2 | 0.4% | 0.4% | Last Result |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Partija tvarka ir teisingumas (EFDD)
@@ -84,9 +86,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.8% | 100% | Median |
-| 2 | 0.2% | 0.2% | Last Result |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Median |
+| 2 | 0% | 0% | Last Result |
 
 ### Lietuvos lenkų rinkimų akcija (ECR)
 
@@ -96,8 +97,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 99.9% | 99.9% | Last Result, Median |
+| 0 | 0.2% | 100% |  |
+| 1 | 99.8% | 99.8% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Darbo Partija (ALDE)
@@ -108,8 +109,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 99.8% | 99.8% | Last Result, Median |
+| 0 | 0.3% | 100% |  |
+| 1 | 99.7% | 99.7% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Liberalų Sąjūdis (ALDE)
@@ -120,8 +121,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Median |
-| 1 | 0.9% | 0.9% |  |
+| 0 | 94% | 100% | Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% | Last Result |
 
 ### Lietuvos Centro Partija (ECR)
@@ -155,23 +156,12 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | 1 | 3 | 0% | 3 | 3 | 3 | 2–3 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 2 | 3 | 0% | 3 | 3 | 3 | 3 |
-| Darbo Partija (ALDE) – Liberalų Sąjūdis (ALDE) | 3 | 1 | 0% | 1 | 1 | 1 | 1–2 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 2 | 3 | 0% | 3 | 3 | 3 | 3–4 |
+| Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | 1 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Darbo Partija (ALDE) – Liberalų Sąjūdis (ALDE) | 3 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
+| Lietuvos socialdemokratų partija (S&D) – Lietuvos socialdemokratų darbo partija (S&D) | 2 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
 | Lietuvos lenkų rinkimų akcija (ECR) – Lietuvos Centro Partija (ECR) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Lietuvos socialdemokratų partija (S&D) – Lietuvos socialdemokratų darbo partija (S&D) | 2 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Partija tvarka ir teisingumas (EFDD) | 2 | 1 | 0% | 1 | 1 | 1 | 1 |
-
-### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
-
-![Graph with seats probability mass function not yet produced](2019-01-26-Spintertyrimai-coalitions-seats-pmf-lvžs.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0% | 100% | Last Result |
-| 2 | 1.4% | 100% |  |
-| 3 | 98.6% | 98.6% | Median |
-| 4 | 0% | 0% |  |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
 
@@ -180,7 +170,20 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 100% | 100% | Median |
+| 3 | 98.6% | 100% | Median |
+| 4 | 1.4% | 1.4% |  |
+| 5 | 0% | 0% |  |
+
+### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2019-01-26-Spintertyrimai-coalitions-seats-pmf-lvžs.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0% | 100% | Last Result |
+| 2 | 11% | 100% |  |
+| 3 | 89% | 89% | Median |
+| 4 | 0% | 0% |  |
 
 ### Darbo Partija (ALDE) – Liberalų Sąjūdis (ALDE)
 
@@ -188,21 +191,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 98.9% | 99.8% | Median |
-| 2 | 0.9% | 0.9% |  |
+| 0 | 0.3% | 100% |  |
+| 1 | 94% | 99.7% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% | Last Result |
-
-### Lietuvos lenkų rinkimų akcija (ECR) – Lietuvos Centro Partija (ECR)
-
-![Graph with seats probability mass function not yet produced](2019-01-26-Spintertyrimai-coalitions-seats-pmf-llra–lcp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 99.8% | 99.9% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
 
 ### Lietuvos socialdemokratų partija (S&D) – Lietuvos socialdemokratų darbo partija (S&D)
 
@@ -210,8 +202,19 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.6% | 100% | Median |
-| 2 | 0.4% | 0.4% | Last Result |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% | Last Result |
+| 3 | 0% | 0% |  |
+
+### Lietuvos lenkų rinkimų akcija (ECR) – Lietuvos Centro Partija (ECR)
+
+![Graph with seats probability mass function not yet produced](2019-01-26-Spintertyrimai-coalitions-seats-pmf-llra–lcp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.2% | 100% |  |
+| 1 | 99.7% | 99.8% | Last Result, Median |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
 ### Partija tvarka ir teisingumas (EFDD)
@@ -220,9 +223,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.8% | 100% | Median |
-| 2 | 0.2% | 0.2% | Last Result |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Median |
+| 2 | 0% | 0% | Last Result |
 
 
 ## Technical Information
@@ -236,6 +238,6 @@
 ### Calculations
 
 + **Sample size:** 1011
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.07%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.80%
 

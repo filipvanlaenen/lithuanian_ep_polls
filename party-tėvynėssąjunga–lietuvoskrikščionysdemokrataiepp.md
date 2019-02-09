@@ -55,7 +55,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3 | 3 |
+| [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3 | 3–4 |
 | [11–20 January 2019](2019-01-20-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–30 November 2018](2018-11-30-Spintertyrimai.html) | Spinter tyrimai | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [16–30 October 2018](2018-10-30-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -76,8 +76,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% | Last Result |
-| 3 | 92% | 99.9% | Median |
-| 4 | 8% | 8% |  |
+| 3 | 91% | 99.9% | Median |
+| 4 | 9% | 9% |  |
 | 5 | 0% | 0% |  |
 
 
