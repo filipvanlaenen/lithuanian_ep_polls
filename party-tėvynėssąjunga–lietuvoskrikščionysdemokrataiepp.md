@@ -15,9 +15,9 @@ Last result: **17.4%** (General Election of 25 May 2014)
 | [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
 | [11–20 January 2019](2019-01-20-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.7–28.6% |
 | [19–30 November 2018](2018-11-30-Spintertyrimai.html) | Spinter tyrimai | 26.0% | 24.2–27.8% | 23.8–28.3% | 23.4–28.8% | 22.6–29.6% |
-| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai | 27.0% | N/A | N/A | N/A | N/A |
+| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.4–29.8% | 23.5–30.7% |
 | [16–30 October 2018](2018-10-30-Spintertyrimai.html) | Spinter tyrimai | 26.0% | 24.2–27.8% | 23.8–28.3% | 23.4–28.8% | 22.5–29.7% |
-| [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai | 24.0% | N/A | N/A | N/A | N/A |
+| [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.8% | 20.7–27.6% |
 | [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai | 25.0% | N/A | N/A | N/A | N/A |
 | [19–26 September 2018](2018-09-26-Spintertyrimai.html) | Spinter tyrimai | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.8% | 20.7–27.6% |
@@ -64,9 +64,9 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3 | 3–4 |
 | [11–20 January 2019](2019-01-20-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–30 November 2018](2018-11-30-Spintertyrimai.html) | Spinter tyrimai | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai |  |  |  |  |  |
+| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 3 | 3 | 3 |
 | [16–30 October 2018](2018-10-30-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3–4 | 2–4 |
-| [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai |  |  |  |  |  |
+| [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 3 | 3 | 2–3 |
 | [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai |  |  |  |  |  |
 | [19–26 September 2018](2018-09-26-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3 | 2–4 |
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
