@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Feb 2019 14:30:19 +0100</pubDate>
+    <pubDate>Tue, 26 Feb 2019 06:48:34 +0100</pubDate>
     <item>
       <title>Opinion Poll by Baltijos tyrimai, 23 January–3 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-02-03-Baltijostyrimai.html</link>
@@ -166,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-10-07-Baltijostyrimai.png"
         length="317804"
         type="image/png"/>
-      <pubDate>Sun, 24 Feb 2019 12:47:28 +0100</pubDate>
-      <dc:date>2019-02-24T12:47:28.655271+01:00</dc:date>
+      <pubDate>Tue, 26 Feb 2019 06:48:34 +0100</pubDate>
+      <dc:date>2019-02-26T06:48:34.862297+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai, 19–26 September 2018 – Seat Projections for the Parties</title>
@@ -389,6 +389,6 @@
       <pubDate>Fri, 28 Dec 2018 22:13:34 +0100</pubDate>
       <dc:date>2018-12-28T22:13:34.593019+01:00</dc:date>
     </item>
-    <dc:date>2019-02-24T14:30:19.333166+01:00</dc:date>
+    <dc:date>2019-02-26T06:48:34.862297+01:00</dc:date>
   </channel>
 </rss>
