@@ -64,9 +64,9 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3 | 3–4 |
 | [11–20 January 2019](2019-01-20-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–30 November 2018](2018-11-30-Spintertyrimai.html) | Spinter tyrimai | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 3 | 3 | 3 |
+| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 3 | 3–4 | 3–4 |
 | [16–30 October 2018](2018-10-30-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3–4 | 2–4 |
-| [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 3 | 3 | 2–3 |
+| [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [19–26 September 2018](2018-09-26-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3 | 2–4 |
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
