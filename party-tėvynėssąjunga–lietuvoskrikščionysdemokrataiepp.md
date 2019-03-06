@@ -67,17 +67,17 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–17 February 2019](2019-02-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [23 January–3 February 2019](2019-02-03-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 3 | 2–3 | 2–3 |
+| [23 January–3 February 2019](2019-02-03-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 3 | 3 | 2–3 |
 | [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3–4 | 3–4 |
-| [11–20 January 2019](2019-01-20-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [11–20 January 2019](2019-01-20-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [9 December 2018](2018-12-09-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–30 November 2018](2018-11-30-Spintertyrimai.html) | Spinter tyrimai | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 3 | 3–4 | 3–4 |
+| [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [16–30 October 2018](2018-10-30-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3–4 | 2–4 |
 | [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 3 | 3 | 2–3 | 2–3 |
 | [19–26 September 2018](2018-09-26-Spintertyrimai.html) | Spinter tyrimai | 3 | 3 | 3 | 3 | 2–4 |
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–31 August 2018](2018-08-31-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -95,8 +95,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.2% | 100% | Last Result |
-| 3 | 68% | 98.8% | Median |
+| 2 | 0.4% | 100% | Last Result |
+| 3 | 69% | 99.6% | Median |
 | 4 | 31% | 31% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% | Majority |

@@ -83,7 +83,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [9–26 November 2018](2018-11-26-Baltijostyrimai.html) | Baltijos tyrimai | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–30 October 2018](2018-10-30-Spintertyrimai.html) | Spinter tyrimai | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–26 October 2018](2018-10-26-Baltijostyrimai.html) | Baltijos tyrimai | 2 | 2 | 2 | 2 | 2 |
-| [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai | 2 | 2 | 2 | 2 | 2 |
+| [24 September–7 October 2018](2018-10-07-Baltijostyrimai.html) | Baltijos tyrimai | 2 | 2 | 2 | 2 | 2–3 |
 | [19–26 September 2018](2018-09-26-Spintertyrimai.html) | Spinter tyrimai | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–31 August 2018](2018-08-31-Spintertyrimai.html) | Spinter tyrimai | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–31 August 2018](2018-08-31-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -102,8 +102,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 16% | 100% |  |
-| 3 | 81% | 84% | Median |
+| 2 | 10% | 100% |  |
+| 3 | 87% | 90% | Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
