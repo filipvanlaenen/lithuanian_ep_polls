@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 07 Mar 2019 12:23:40 +0100</pubDate>
+    <pubDate>Thu, 07 Mar 2019 16:13:52 +0100</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 8–17 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-02-17-Vilmorus.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-01-26-Spintertyrimai.png"
         length="311503"
         type="image/png"/>
-      <pubDate>Sun, 03 Mar 2019 14:52:05 +0100</pubDate>
-      <dc:date>2019-03-03T14:52:05.191973+01:00</dc:date>
+      <pubDate>Thu, 07 Mar 2019 16:13:52 +0100</pubDate>
+      <dc:date>2019-03-07T16:13:52.049255+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 11–20 January 2019 – Voting Intentions</title>
@@ -330,14 +330,34 @@
       <dc:date>2018-12-30T13:49:13.685972+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Baltijos tyrimai, 21–31 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-08-31-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-08-31-Baltijostyrimai-seats.png"
+        length="196179"
+        type="image/png"/>
+      <pubDate>Thu, 07 Mar 2019 13:01:55 +0100</pubDate>
+      <dc:date>2019-03-07T13:01:55.215515+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai, 21–31 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-08-31-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-08-31-Baltijostyrimai-coalitions-seats.png"
+        length="161875"
+        type="image/png"/>
+      <pubDate>Thu, 07 Mar 2019 13:01:55 +0100</pubDate>
+      <dc:date>2019-03-07T13:01:55.215515+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Baltijos tyrimai, 21–31 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-08-31-Baltijostyrimai.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 19.6–24.7%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 18.5–23.6%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (ECR): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2018-08-31-Baltijostyrimai.png"
         length="327206"
         type="image/png"/>
-      <pubDate>Thu, 28 Feb 2019 11:42:54 +0100</pubDate>
-      <dc:date>2019-02-28T11:42:54.04205+01:00</dc:date>
+      <pubDate>Thu, 07 Mar 2019 13:01:55 +0100</pubDate>
+      <dc:date>2019-03-07T13:01:55.215515+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai, 16–31 July 2018 – Seat Projections for the Parties</title>
@@ -489,6 +509,6 @@
       <pubDate>Fri, 28 Dec 2018 22:13:34 +0100</pubDate>
       <dc:date>2018-12-28T22:13:34.593019+01:00</dc:date>
     </item>
-    <dc:date>2019-03-07T12:23:40.486937+01:00</dc:date>
+    <dc:date>2019-03-07T16:13:52.049255+01:00</dc:date>
   </channel>
 </rss>
