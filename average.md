@@ -12,7 +12,7 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 22–33% <br> 3–4 | 7–14% <br> 1–2 | 4–8% <br> 0–1 | 6–14% <br> 1–2 | 6–10% <br> 1 | 2–8% <br> 0–1 | 20–29% <br> 2–4 | N/A <br> N/A | 2–6% <br> 0–1 | N/A <br> N/A | 2–5% <br> 0 |
 | [8–17 February 2019](2019-02-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 28–34% <br> 3–4 | 7–10% <br> 1 | 4–7% <br> 0–1 | 6–9% <br> 1 | 6–10% <br> 1 | 2–5% <br> 0 | 25–30% <br> 3–4 | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0 |
 | [23 January–3 February 2019](2019-02-03-Baltijostyrimai.html) | Baltijos tyrimai | 21–27% <br> 3 | 11–15% <br> 1–2 | 5–8% <br> 1 | 10–14% <br> 1–2 | 7–10% <br> 1 | 2–4% <br> 0 | 19–24% <br> 2–3 | N/A <br> N/A | 4–6% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0 |
-| [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai | 24–29% <br> 3–4 | 9–13% <br> 1 | 3–6% <br> 0–1 | 7–10% <br> 1 | 6–9% <br> 1 | 5–8% <br> 1 | 20–25% <br> 2–3 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 |
+| [15–26 January 2019](2019-01-26-Spintertyrimai.html) | Spinter tyrimai | 24–29% <br> 3 | 9–13% <br> 1 | 3–6% <br> 0–1 | 7–10% <br> 1 | 6–9% <br> 1 | 5–8% <br> 1 | 20–25% <br> 2–3 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 |
 | 25 May 2014 | General Election | 17.4% <br> 2 | 17.3% <br> 2 | 16.6% <br> 2 | 14.2% <br> 2 | 12.4% <br> 1 | 8.0% <br> 1 | 6.6% <br> 1 | 3.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -273,7 +273,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.4% | 100% | Last Result |
-| 3 | 67% | 99.6% | Median |
+| 3 | 68% | 99.6% | Median |
 | 4 | 32% | 32% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% | Majority |
@@ -324,7 +324,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% |  |
-| 1 | 99.7% | 99.8% | Last Result, Median |
+| 1 | 99.8% | 99.8% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija (ECR)
@@ -401,7 +401,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.4% | 100% | Last Result |
-| 3 | 67% | 99.6% | Median |
+| 3 | 68% | 99.6% | Median |
 | 4 | 32% | 32% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% | Majority |
@@ -457,8 +457,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 49% | 100% | Median |
-| 1 | 51% | 51% | Last Result |
+| 0 | 50% | 100% | Median |
+| 1 | 50% | 50% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos Žaliųjų Partija (*) – Politinė partija “Lietuvos sąrašas” (*)
@@ -473,6 +473,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 2,621,440
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
 + **Error estimate:** 1.89%
