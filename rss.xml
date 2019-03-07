@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 07 Mar 2019 16:13:52 +0100</pubDate>
+    <pubDate>Thu, 07 Mar 2019 16:24:51 +0100</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 8–17 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-02-17-Vilmorus.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-03-06T19:32:42.114414+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Spinter tyrimai, 15–26 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-01-26-Spintertyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-01-26-Spintertyrimai-seats.png"
+        length="184413"
+        type="image/png"/>
+      <pubDate>Thu, 07 Mar 2019 16:24:51 +0100</pubDate>
+      <dc:date>2019-03-07T16:24:51.386671+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai, 15–26 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-01-26-Spintertyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-01-26-Spintertyrimai-coalitions-seats.png"
+        length="112175"
+        type="image/png"/>
+      <pubDate>Thu, 07 Mar 2019 16:24:51 +0100</pubDate>
+      <dc:date>2019-03-07T16:24:51.386671+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Spinter tyrimai, 15–26 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-01-26-Spintertyrimai.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 23.9–29.3%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 20.0–25.1%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 6.7–10.1%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 3.3–5.9%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 5.2–8.2%&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (ECR): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 2.2–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-01-26-Spintertyrimai.png"
         length="311503"
         type="image/png"/>
-      <pubDate>Thu, 07 Mar 2019 16:13:52 +0100</pubDate>
-      <dc:date>2019-03-07T16:13:52.049255+01:00</dc:date>
+      <pubDate>Thu, 07 Mar 2019 16:24:51 +0100</pubDate>
+      <dc:date>2019-03-07T16:24:51.386671+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 11–20 January 2019 – Voting Intentions</title>
@@ -509,6 +529,6 @@
       <pubDate>Fri, 28 Dec 2018 22:13:34 +0100</pubDate>
       <dc:date>2018-12-28T22:13:34.593019+01:00</dc:date>
     </item>
-    <dc:date>2019-03-07T16:13:52.049255+01:00</dc:date>
+    <dc:date>2019-03-07T16:24:51.386671+01:00</dc:date>
   </channel>
 </rss>
