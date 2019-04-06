@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 05 Apr 2019 14:26:57 +0200</pubDate>
+    <pubDate>Sat, 06 Apr 2019 09:12:11 +0200</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 7–15 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-03-15-Vilmorus.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-03-15-Vilmorus.png"
         length="290528"
         type="image/png"/>
-      <pubDate>Fri, 05 Apr 2019 13:52:47 +0200</pubDate>
-      <dc:date>2019-04-05T13:52:47.929042+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 08:54:32 +0200</pubDate>
+      <dc:date>2019-04-06T08:54:32.223348+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai, 18–28 February 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-02-28-Spintertyrimai.png"
         length="258577"
         type="image/png"/>
-      <pubDate>Fri, 05 Apr 2019 14:15:34 +0200</pubDate>
-      <dc:date>2019-04-05T14:15:34.427812+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 09:03:08 +0200</pubDate>
+      <dc:date>2019-04-06T09:03:08.645157+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai, 15–26 February 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-02-26-Baltijostyrimai.png"
         length="301045"
         type="image/png"/>
-      <pubDate>Fri, 05 Apr 2019 14:26:57 +0200</pubDate>
-      <dc:date>2019-04-05T14:26:57.979827+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 09:12:11 +0200</pubDate>
+      <dc:date>2019-04-06T09:12:11.296071+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 8–17 February 2019 – Seat Projections for the Parties</title>
@@ -579,6 +579,6 @@
       <pubDate>Fri, 28 Dec 2018 22:13:34 +0100</pubDate>
       <dc:date>2018-12-28T22:13:34.593019+01:00</dc:date>
     </item>
-    <dc:date>2019-04-05T14:26:57.979827+02:00</dc:date>
+    <dc:date>2019-04-06T09:12:11.296071+02:00</dc:date>
   </channel>
 </rss>
