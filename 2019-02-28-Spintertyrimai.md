@@ -44,9 +44,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% | Last Result |
-| 3 | 98% | 99.8% | Median |
-| 4 | 1.3% | 1.3% |  |
+| 2 | 0.3% | 100% | Last Result |
+| 3 | 98.5% | 99.7% | Median |
+| 4 | 1.2% | 1.2% |  |
 | 5 | 0% | 0% |  |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
@@ -58,8 +58,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 66% | 100% | Median |
-| 3 | 34% | 34% |  |
+| 2 | 69% | 100% | Median |
+| 3 | 31% | 31% |  |
 | 4 | 0% | 0% |  |
 
 ### Lietuvos socialdemokratų partija (S&D)
@@ -81,8 +81,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 99.2% | 99.2% | Last Result, Median |
+| 0 | 1.1% | 100% |  |
+| 1 | 98.9% | 98.9% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija (ECR)
@@ -117,8 +117,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Median |
-| 1 | 37% | 37% |  |
+| 0 | 60% | 100% | Median |
+| 1 | 40% | 40% |  |
 | 2 | 0% | 0% | Last Result |
 
 
@@ -132,7 +132,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 2 | 3 | 0% | 3 | 3 | 3 | 3–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | 1 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Darbo Partija (ALDE) – Liberalų Sąjūdis (ALDE) | 3 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Darbo Partija (ALDE) – Liberalų Sąjūdis (ALDE) | 3 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partija tvarka ir teisingumas (EFDD) | 2 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
@@ -141,9 +141,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% | Last Result |
-| 3 | 98% | 99.8% | Median |
-| 4 | 1.3% | 1.3% |  |
+| 2 | 0.3% | 100% | Last Result |
+| 3 | 98.5% | 99.7% | Median |
+| 4 | 1.2% | 1.2% |  |
 | 5 | 0% | 0% |  |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
@@ -153,8 +153,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 66% | 100% | Median |
-| 3 | 34% | 34% |  |
+| 2 | 69% | 100% | Median |
+| 3 | 31% | 31% |  |
 | 4 | 0% | 0% |  |
 
 ### Darbo Partija (ALDE) – Liberalų Sąjūdis (ALDE)
@@ -163,9 +163,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 63% | 99.6% | Median |
-| 2 | 37% | 37% |  |
+| 0 | 0.5% | 100% |  |
+| 1 | 60% | 99.5% | Median |
+| 2 | 39% | 39% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Partija tvarka ir teisingumas (EFDD)
@@ -190,6 +190,6 @@
 ### Calculations
 
 + **Sample size:** 1006
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.19%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.79%
 
