@@ -10,7 +10,9 @@ Last result: **6.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.0% | 20.6–27.5% | 20.0–28.2% | 19.6–28.8% | 18.7–29.9% |
+| N/A | [Poll Average](average.html) | 26.8% | 25.0–28.6% | 24.6–29.1% | 24.1–29.5% | 23.3–30.4% |
+| [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai | 25.0% | N/A | N/A | N/A | N/A |
+| [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai | 21.0% | N/A | N/A | N/A | N/A |
 | [7–15 March 2019](2019-03-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.8% | 25.0–28.6% | 24.6–29.1% | 24.1–29.6% | 23.3–30.5% |
 | [18–28 February 2019](2019-02-28-Spintertyrimai.html) | Spinter tyrimai | 22.6% | 20.9–24.3% | 20.5–24.8% | 20.1–25.3% | 19.3–26.1% |
 | [15–26 February 2019](2019-02-26-Baltijostyrimai.html) | Baltijos tyrimai | 21.4% | 19.9–23.2% | 19.4–23.7% | 19.0–24.1% | 18.3–25.0% |
@@ -50,20 +52,20 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.3% | 100% |  |
-| 18.5–19.5% | 2% | 99.7% |  |
-| 19.5–20.5% | 7% | 98% |  |
-| 20.5–21.5% | 15% | 90% |  |
-| 21.5–22.5% | 18% | 76% |  |
-| 22.5–23.5% | 14% | 57% | Median |
-| 23.5–24.5% | 9% | 43% |  |
-| 24.5–25.5% | 7% | 34% |  |
-| 25.5–26.5% | 9% | 28% |  |
-| 26.5–27.5% | 9% | 19% |  |
-| 27.5–28.5% | 6% | 10% |  |
-| 28.5–29.5% | 3% | 3% |  |
-| 29.5–30.5% | 0.7% | 0.8% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.7% | 99.9% |  |
+| 23.5–24.5% | 4% | 99.2% |  |
+| 24.5–25.5% | 13% | 95% |  |
+| 25.5–26.5% | 25% | 82% |  |
+| 26.5–27.5% | 28% | 57% | Median |
+| 27.5–28.5% | 19% | 29% |  |
+| 28.5–29.5% | 8% | 10% |  |
+| 29.5–30.5% | 2% | 2% |  |
+| 30.5–31.5% | 0.4% | 0.4% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
@@ -75,7 +77,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 3–4 |
+| [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai |  |  |  |  |  |
+| [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai |  |  |  |  |  |
 | [7–15 March 2019](2019-03-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3 | 3 | 3 | 3–4 |
 | [18–28 February 2019](2019-02-28-Spintertyrimai.html) | Spinter tyrimai | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–26 February 2019](2019-02-26-Baltijostyrimai.html) | Baltijos tyrimai | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -107,9 +111,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 33% | 100% |  |
-| 3 | 67% | 67% | Median |
-| 4 | 0.5% | 0.5% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 98% | 99.8% | Median |
+| 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
 
