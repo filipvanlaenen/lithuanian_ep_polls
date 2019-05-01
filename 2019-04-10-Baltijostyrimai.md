@@ -1,4 +1,4 @@
-# Opinion Poll by Baltijos tyrimai, 15 March–10 April 2019
+# Opinion Poll by Baltijos tyrimai for Delfi, 15 March–10 April 2019
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -32,7 +32,7 @@
 | <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(greens/efa)">Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)</a> | 1 | 3 | 3–4 |3–4 |3–4 |2–4 |
 | <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai-(epp)">Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)</a> | 2 | 3 | 3 |2–3 |2–4 |2–4 |
 | <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 2 | 2 | 2 |2 |1–2 |1–3 |
-| <a href="#darbo-partija-(alde)">Darbo Partija (ALDE)</a> | 1 | 1 | 1 |1 |1–2 |1–2 |
+| <a href="#darbo-partija-(alde)">Darbo Partija (ALDE)</a> | 1 | 1 | 1 |1 |1 |1–2 |
 | <a href="#partija-tvarka-ir-teisingumas-(efdd)">Partija tvarka ir teisingumas (EFDD)</a> | 2 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#liberalų-sąjūdis-(alde)">Liberalų Sąjūdis (ALDE)</a> | 2 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#lietuvos-socialdemokratų-darbo-partija-(s&d)">Lietuvos socialdemokratų darbo partija (S&D)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
@@ -60,8 +60,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 7% | 100% | Last Result |
-| 3 | 88% | 93% | Median |
+| 2 | 8% | 100% | Last Result |
+| 3 | 88% | 92% | Median |
 | 4 | 5% | 5% |  |
 | 5 | 0% | 0% |  |
 
@@ -74,8 +74,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% |  |
-| 2 | 95% | 96% | Last Result, Median |
-| 3 | 1.0% | 1.0% |  |
+| 2 | 93% | 96% | Last Result, Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 ### Darbo Partija (ALDE)
@@ -86,8 +86,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 97% | 100% | Last Result, Median |
-| 2 | 3% | 3% |  |
+| 1 | 98% | 100% | Last Result, Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### Partija tvarka ir teisingumas (EFDD)
@@ -98,8 +98,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Median |
-| 1 | 47% | 47% |  |
+| 0 | 55% | 100% | Median |
+| 1 | 45% | 45% |  |
 | 2 | 0% | 0% | Last Result |
 
 ### Liberalų Sąjūdis (ALDE)
@@ -110,8 +110,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Median |
-| 1 | 15% | 15% |  |
+| 0 | 84% | 100% | Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% | Last Result |
 
 ### Lietuvos socialdemokratų darbo partija (S&D)
@@ -122,8 +122,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 29% | 29% |  |
+| 0 | 70% | 100% | Last Result, Median |
+| 1 | 30% | 30% |  |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija (ECR)
@@ -134,8 +134,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Median |
-| 1 | 4% | 4% | Last Result |
+| 0 | 97% | 100% | Median |
+| 1 | 3% | 3% | Last Result |
 | 2 | 0% | 0% |  |
 
 
@@ -171,8 +171,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 7% | 100% | Last Result |
-| 3 | 88% | 93% | Median |
+| 2 | 8% | 100% | Last Result |
+| 3 | 88% | 92% | Median |
 | 4 | 5% | 5% |  |
 | 5 | 0% | 0% |  |
 
@@ -183,8 +183,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% |  |
-| 2 | 67% | 97% | Last Result, Median |
-| 3 | 29% | 29% |  |
+| 2 | 65% | 97% | Last Result, Median |
+| 3 | 32% | 32% |  |
 | 4 | 0% | 0% |  |
 
 ### Darbo Partija (ALDE) – Liberalų Sąjūdis (ALDE)
@@ -203,8 +203,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Median |
-| 1 | 47% | 47% |  |
+| 0 | 55% | 100% | Median |
+| 1 | 45% | 45% |  |
 | 2 | 0% | 0% | Last Result |
 
 
@@ -213,12 +213,12 @@
 ### Opinion Poll
 
 + **Polling firm:** Baltijos tyrimai
-+ **Commissioner(s):** —
++ **Commissioner(s):** Delfi
 + **Fieldwork period:** 15 March–10 April 2019
 
 ### Calculations
 
 + **Sample size:** 1007
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.54%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.70%
 
