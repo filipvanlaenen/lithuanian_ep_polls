@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 12 May 2019 16:26:41 +0200</pubDate>
+    <pubDate>Sun, 12 May 2019 17:32:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 20–29 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-04-29-Spintertyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 3 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (EFDD): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (ALDE): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-04-29-Spintertyrimai-seats.png"
+        length="163504"
+        type="image/png"/>
+      <pubDate>Sun, 12 May 2019 17:32:56 +0200</pubDate>
+      <dc:date>2019-05-12T17:32:56.807601+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 20–29 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-04-29-Spintertyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-04-29-Spintertyrimai-coalitions-seats.png"
+        length="100267"
+        type="image/png"/>
+      <pubDate>Sun, 12 May 2019 17:32:56 +0200</pubDate>
+      <dc:date>2019-05-12T17:32:56.807601+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 20–29 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-04-29-Spintertyrimai.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-04-29-Spintertyrimai.png"
         length="282273"
         type="image/png"/>
-      <pubDate>Sun, 12 May 2019 16:26:41 +0200</pubDate>
-      <dc:date>2019-05-12T16:26:41.403407+02:00</dc:date>
+      <pubDate>Sun, 12 May 2019 17:32:56 +0200</pubDate>
+      <dc:date>2019-05-12T17:32:56.807601+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–15 April 2019 – Seat Projections for the Parties</title>
@@ -739,6 +759,6 @@
       <pubDate>Fri, 28 Dec 2018 22:13:34 +0100</pubDate>
       <dc:date>2018-12-28T22:13:34.593019+01:00</dc:date>
     </item>
-    <dc:date>2019-05-12T16:26:41.403407+02:00</dc:date>
+    <dc:date>2019-05-12T17:32:56.807601+02:00</dc:date>
   </channel>
 </rss>
