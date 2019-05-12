@@ -10,8 +10,8 @@ Last result: **17.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.5% | 22.9–32.2% | 22.4–32.9% | 21.9–33.4% | 21.0–34.4% |
-| [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 28.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 28.0% | 23.4–31.8% | 22.7–32.5% | 22.2–33.1% | 21.2–34.2% |
+| [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 28.0% | 26.3–29.9% | 25.8–30.5% | 25.4–30.9% | 24.5–31.8% |
 | [4–15 April 2019](2019-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 31.0% | 29.1–32.9% | 28.6–33.4% | 28.2–33.9% | 27.3–34.8% |
 | [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.8% | 20.7–27.6% |
 | [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 25.0% | 23.4–26.9% | 22.9–27.4% | 22.5–27.8% | 21.7–28.7% |
@@ -46,24 +46,23 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% | Last Result |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.2% | 100% |  |
-| 20.5–21.5% | 1.2% | 99.8% |  |
-| 21.5–22.5% | 5% | 98.6% |  |
-| 22.5–23.5% | 11% | 94% |  |
-| 23.5–24.5% | 15% | 83% |  |
-| 24.5–25.5% | 11% | 68% |  |
-| 25.5–26.5% | 5% | 57% |  |
-| 26.5–27.5% | 2% | 52% | Median |
-| 27.5–28.5% | 2% | 50% |  |
-| 28.5–29.5% | 6% | 48% |  |
-| 29.5–30.5% | 11% | 42% |  |
-| 30.5–31.5% | 14% | 31% |  |
-| 31.5–32.5% | 10% | 17% |  |
-| 32.5–33.5% | 5% | 7% |  |
-| 33.5–34.5% | 2% | 2% |  |
-| 34.5–35.5% | 0.3% | 0.4% |  |
-| 35.5–36.5% | 0% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 19.5–20.5% | 0.1% | 100% |  |
+| 20.5–21.5% | 0.8% | 99.9% |  |
+| 21.5–22.5% | 3% | 99.1% |  |
+| 22.5–23.5% | 7% | 96% |  |
+| 23.5–24.5% | 10% | 88% |  |
+| 24.5–25.5% | 8% | 78% |  |
+| 25.5–26.5% | 7% | 70% |  |
+| 26.5–27.5% | 8% | 63% |  |
+| 27.5–28.5% | 11% | 55% | Median |
+| 28.5–29.5% | 11% | 44% |  |
+| 29.5–30.5% | 11% | 33% |  |
+| 30.5–31.5% | 10% | 22% |  |
+| 31.5–32.5% | 7% | 12% |  |
+| 32.5–33.5% | 3% | 5% |  |
+| 33.5–34.5% | 1.1% | 1.3% |  |
+| 34.5–35.5% | 0.2% | 0.3% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -74,8 +73,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 2–4 | 2–5 |
-| [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [4–15 April 2019](2019-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 4 | 4 | 3–4 | 3–5 |
 | [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 3 | 3 | 2–3 | 2–3 |
@@ -109,10 +108,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 4% | 100% | Last Result |
-| 3 | 46% | 96% |  |
-| 4 | 49% | 50% | Median |
-| 5 | 0.9% | 0.9% |  |
+| 2 | 3% | 100% | Last Result |
+| 3 | 61% | 97% | Median |
+| 4 | 36% | 36% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% | Majority |
 
 
