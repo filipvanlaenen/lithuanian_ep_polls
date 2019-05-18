@@ -41,7 +41,7 @@ Only polls for which at least the sample size has been published are included in
 + **TS-LKD:** Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
 + **LSDP:** Lietuvos socialdemokratų partija (S&D)
 + **LRLS:** Liberalų Sąjūdis (ALDE)
-+ **TT:** Partija tvarka ir teisingumas (EFDD)
++ **TT:** Partija tvarka ir teisingumas (ECR)
 + **DP:** Darbo Partija (ALDE)
 + **LLRA:** Lietuvos lenkų rinkimų akcija (ECR)
 + **LVŽS:** Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
