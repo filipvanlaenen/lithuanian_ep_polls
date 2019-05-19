@@ -12,7 +12,7 @@ Last result: **12.4%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.6% | 7.3–9.9% | 7.0–10.3% | 6.7–10.6% | 6.2–11.3% |
 | [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.1–10.5% |
-| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 6.0% | N/A | N/A | N/A | N/A |
+| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 6.0% | N/A | N/A | N/A | N/A |
 | [4–15 April 2019](2019-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.5% |
 | [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 6.9–11.6% |
 | [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
@@ -65,7 +65,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
 | [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 1 |
-| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi |  |  |  |  |  |
+| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
 | [4–15 April 2019](2019-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 1 | 1 | 1 | 1–2 |
 | [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 1–2 |
 | [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 0–1 |

@@ -12,7 +12,7 @@ Last result: **17.4%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29.5% | 26.9–32.2% | 26.3–32.9% | 25.8–33.4% | 24.9–34.4% |
 | [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 28.0% | 26.3–29.9% | 25.8–30.5% | 25.4–30.9% | 24.5–31.8% |
-| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 23.0% | N/A | N/A | N/A | N/A |
+| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 23.0% | N/A | N/A | N/A | N/A |
 | [4–15 April 2019](2019-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 31.0% | 29.1–32.9% | 28.6–33.4% | 28.2–33.9% | 27.3–34.8% |
 | [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.8% | 20.7–27.6% |
 | [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 25.0% | 23.4–26.9% | 22.9–27.4% | 22.5–27.8% | 21.7–28.7% |
@@ -77,7 +77,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi |  |  |  |  |  |
+| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
 | [4–15 April 2019](2019-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 4 | 4 | 3–4 | 3–5 |
 | [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 3 | 3 | 2–3 | 2–3 |

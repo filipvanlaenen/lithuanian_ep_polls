@@ -12,7 +12,7 @@ Last result: **6.6%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.7% | 20.7–27.6% |
 | [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
-| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 25.0% | N/A | N/A | N/A | N/A |
+| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 25.0% | N/A | N/A | N/A | N/A |
 | [4–15 April 2019](2019-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.7% | 20.7–27.6% |
 | [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 25.0% | 23.3–26.8% | 22.8–27.4% | 22.4–27.8% | 21.7–28.7% |
 | [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 21.0% | 19.4–22.7% | 18.9–23.2% | 18.6–23.6% | 17.8–24.4% |
@@ -80,7 +80,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 2–4 |
 | [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 3 | 3 | 3 | 2–3 |
-| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi |  |  |  |  |  |
+| [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
 | [4–15 April 2019](2019-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3 | 3 | 3–4 | 3–4 |
 | [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
