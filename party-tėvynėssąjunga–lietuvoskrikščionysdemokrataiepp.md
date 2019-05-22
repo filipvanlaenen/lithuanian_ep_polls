@@ -77,7 +77,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [20–29 April 2019](2019-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [12–26 April 2019](2019-04-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3 | 3 | 3–4 | 2–4 | 2–4 |
-| [4–15 April 2019](2019-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 4 | 4 | 3–5 | 3–5 |
+| [4–15 April 2019](2019-04-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 4 | 4 | 3–4 | 3–5 |
 | [15 March–10 April 2019](2019-04-10-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [18–28 March 2019](2019-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 3 | 3 | 2–3 | 2–3 |
 | [7–15 March 2019](2019-03-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -113,7 +113,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 1.3% | 100% | Last Result |
 | 3 | 63% | 98.7% | Median |
 | 4 | 35% | 36% |  |
-| 5 | 1.0% | 1.0% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% | Majority |
 
 
