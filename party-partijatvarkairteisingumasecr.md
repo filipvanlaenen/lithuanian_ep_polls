@@ -14,7 +14,7 @@ Last result: **14.2%** (General Election of 26 May 2019)
 | [14–28 June 2019](2019-06-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 8.5% | 7.5–9.8% | 7.2–10.1% | 7.0–10.4% | 6.5–11.0% |
 | [18–27 June 2019](2019-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 6.5% | 5.6–7.6% | 5.4–7.9% | 5.2–8.2% | 4.7–8.8% |
 | [7–15 June 2019](2019-06-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.8–11.6% |
-| [27 May–9 June 2019](2019-06-09-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 6.8% | N/A | N/A | N/A | N/A |
+| [27 May–9 June 2019](2019-06-09-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 6.8% | 5.8–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
 
 ### Probability Mass Function
 
@@ -47,7 +47,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [14–28 June 2019](2019-06-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1 | 1 | 1 | 1 |
 | [18–27 June 2019](2019-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [7–15 June 2019](2019-06-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 1 | 1 | 1 | 1–2 |
-| [27 May–9 June 2019](2019-06-09-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
+| [27 May–9 June 2019](2019-06-09-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1 | 1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
