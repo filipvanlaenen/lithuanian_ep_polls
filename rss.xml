@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 13 Jul 2019 13:37:32 +0200</pubDate>
+    <pubDate>Mon, 15 Jul 2019 06:47:32 +0200</pubDate>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 14–28 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-06-28-Baltijostyrimai.html#seats</link>
@@ -99,6 +99,16 @@
       <pubDate>Sun, 30 Jun 2019 16:49:36 +0200</pubDate>
       <dc:date>2019-06-30T16:49:36.542129+02:00</dc:date>
     </item>
-    <dc:date>2019-07-13T13:37:32.145757+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 27 May–9 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-06-09-Baltijostyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 20.0–25.1%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 17.8–22.8%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (ECR): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 15.5–20.3%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 4.6–7.6%&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (ECR): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 6.9–10.3%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 3.7–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-06-09-Baltijostyrimai.png"
+        length="331484"
+        type="image/png"/>
+      <pubDate>Mon, 15 Jul 2019 06:47:32 +0200</pubDate>
+      <dc:date>2019-07-15T06:47:32.294669+02:00</dc:date>
+    </item>
+    <dc:date>2019-07-15T06:47:32.294669+02:00</dc:date>
   </channel>
 </rss>
