@@ -26,6 +26,8 @@
 
 ![Graph with seats not yet produced](2019-06-09-Baltijostyrimai-seats.png "Seats")
 
+![Graph with seating plan not yet produced](2019-06-09-Baltijostyrimai-seating-plan.png "Seating Plan")
+
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
@@ -48,8 +50,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 32% | 100% | Last Result |
-| 3 | 68% | 68% | Median |
+| 2 | 35% | 100% | Last Result |
+| 3 | 65% | 65% | Median |
 | 4 | 0% | 0% |  |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
@@ -61,8 +63,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 87% | 100% | Median |
-| 3 | 13% | 13% |  |
+| 2 | 80% | 100% | Median |
+| 3 | 20% | 20% |  |
 | 4 | 0% | 0% |  |
 
 ### Lietuvos socialdemokratų partija (S&D)
@@ -73,8 +75,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 99.1% | 99.9% | Last Result, Median |
+| 2 | 99.1% | 100% | Last Result, Median |
 | 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
@@ -108,8 +109,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 89% | 89% | Last Result, Median |
+| 0 | 17% | 100% |  |
+| 1 | 83% | 83% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Liberalų Sąjūdis (RE)
@@ -120,8 +121,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% |  |
-| 1 | 79% | 79% | Median |
+| 0 | 25% | 100% |  |
+| 1 | 75% | 75% | Median |
 | 2 | 0% | 0% | Last Result |
 
 ### Lietuvos socialdemokratų darbo partija (S&D)
@@ -132,8 +133,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 29% | 29% |  |
+| 0 | 69% | 100% | Last Result, Median |
+| 1 | 31% | 31% |  |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos Centro Partija (ECR)
@@ -167,9 +168,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 70% | 100% | Last Result, Median |
-| 3 | 30% | 30% |  |
-| 4 | 0% | 0% |  |
+| 2 | 68% | 100% | Last Result, Median |
+| 3 | 32% | 32% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
 
@@ -178,8 +180,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 87% | 100% | Median |
-| 3 | 13% | 13% |  |
+| 2 | 80% | 100% | Median |
+| 3 | 20% | 20% |  |
 | 4 | 0% | 0% |  |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
@@ -188,8 +190,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 32% | 100% | Last Result |
-| 3 | 68% | 68% | Median |
+| 2 | 35% | 100% | Last Result |
+| 3 | 65% | 65% | Median |
 | 4 | 0% | 0% |  |
 
 ### Darbo Partija (RE) – Liberalų Sąjūdis (RE)
@@ -198,8 +200,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 21% | 100% |  |
-| 2 | 79% | 79% | Median |
+| 1 | 25% | 100% |  |
+| 2 | 75% | 75% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Partija tvarka ir teisingumas (ECR) – Lietuvos lenkų rinkimų akcija (ECR) – Lietuvos Centro Partija (ECR)
@@ -208,9 +210,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 14% | 99.9% |  |
-| 2 | 86% | 86% | Median |
+| 0 | 0.2% | 100% |  |
+| 1 | 20% | 99.8% |  |
+| 2 | 80% | 80% | Median |
 | 3 | 0% | 0% | Last Result |
 
 
@@ -225,6 +227,6 @@
 ### Calculations
 
 + **Sample size:** 1007
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.95%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.34%
 
