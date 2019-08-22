@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 27 Jul 2019 21:51:42 +0200</pubDate>
+    <pubDate>Thu, 22 Aug 2019 19:13:43 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 15–29 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-07-29-Baltijostyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 17.9–22.9%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 15.3–20.0%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (ECR): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 16.3–21.1%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (ECR): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Laisvės partija (*): 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-07-29-Baltijostyrimai.png"
+        length="357903"
+        type="image/png"/>
+      <pubDate>Thu, 22 Aug 2019 19:13:43 +0200</pubDate>
+      <dc:date>2019-08-22T19:13:43.226391+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 5–13 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-07-13-Vilmorus.html#seats</link>
@@ -159,6 +169,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2019-07-27T21:51:42.661255+02:00</dc:date>
+    <dc:date>2019-08-22T19:13:43.226391+02:00</dc:date>
   </channel>
 </rss>
