@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 27 Jul 2019 21:51:42 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 11:53:28 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 6–14 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-14-Vilmorus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 20.7–26.0%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 21.0–26.3%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (ECR): 5.7–8.9%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 11.5–15.8%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 3.9–6.8%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (ECR): 2.8–5.3%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 9.9–13.9%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 3.9–6.8%&lt;/li&gt;&lt;li&gt;Laisvės partija (*): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-14-Vilmorus.png"
+        length="345828"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 11:53:28 +0200</pubDate>
+      <dc:date>2019-09-23T11:53:28.400963+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 5–13 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-07-13-Vilmorus.html#seats</link>
@@ -159,6 +169,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2019-07-27T21:51:42.661255+02:00</dc:date>
+    <dc:date>2019-09-23T11:53:28.400963+02:00</dc:date>
   </channel>
 </rss>
