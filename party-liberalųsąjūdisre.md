@@ -10,11 +10,11 @@ Last result: **16.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.6–5.2% | 3.4–5.5% | 3.2–5.8% | 2.9–6.2% |
+| N/A | [Poll Average](average.html) | 6.6% | 4.0–8.1% | 3.7–8.4% | 3.5–8.7% | 3.1–9.4% |
 | [6–14 September 2019](2019-09-14-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 5.2% | 4.4–6.2% | 4.1–6.5% | 3.9–6.8% | 3.6–7.3% |
-| [26 August–8 September 2019](2019-09-08-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 7.7% | N/A | N/A | N/A | N/A |
-| [15–29 July 2019](2019-07-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 7.0% | N/A | N/A | N/A | N/A |
-| [17–26 July 2019](2019-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 7.2% | N/A | N/A | N/A | N/A |
+| [26 August–8 September 2019](2019-09-08-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 7.7% | 6.7–8.8% | 6.4–9.2% | 6.2–9.5% | 5.7–10.0% |
+| [15–29 July 2019](2019-07-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [17–26 July 2019](2019-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 7.2% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.4–9.6% |
 | [5–13 July 2019](2019-07-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.8% | 2.9–6.2% |
 | [14–28 June 2019](2019-06-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 7.8% | 6.8–9.0% | 6.6–9.4% | 6.3–9.6% | 5.9–10.3% |
 | [18–27 June 2019](2019-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
@@ -27,15 +27,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 9% | 99.9% |  |
-| 3.5–4.5% | 53% | 91% | Median |
-| 4.5–5.5% | 33% | 38% |  |
-| 5.5–6.5% | 4% | 4% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
-| 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 18% | 97% |  |
+| 4.5–5.5% | 12% | 79% |  |
+| 5.5–6.5% | 15% | 67% |  |
+| 6.5–7.5% | 30% | 52% | Median |
+| 7.5–8.5% | 18% | 22% |  |
+| 8.5–9.5% | 4% | 4% |  |
+| 9.5–10.5% | 0.3% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -53,11 +53,11 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–14 September 2019](2019-09-14-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26 August–8 September 2019](2019-09-08-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [15–29 July 2019](2019-07-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [17–26 July 2019](2019-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
+| [26 August–8 September 2019](2019-09-08-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1 | 1 | 1 | 1 |
+| [15–29 July 2019](2019-07-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1 | 1 | 1 | 1 |
+| [17–26 July 2019](2019-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 1 |
 | [5–13 July 2019](2019-07-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [14–28 June 2019](2019-06-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1 | 1 | 1 | 1 |
 | [18–27 June 2019](2019-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -72,8 +72,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Median |
-| 1 | 8% | 8% |  |
+| 0 | 31% | 100% |  |
+| 1 | 69% | 69% | Median |
 | 2 | 0% | 0% | Last Result |
 
 
