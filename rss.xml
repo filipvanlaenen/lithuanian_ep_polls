@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Sep 2019 15:22:19 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 16:50:49 +0200</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 6–14 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-14-Vilmorus.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-14-Vilmorus.png"
         length="345828"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 11:53:28 +0200</pubDate>
-      <dc:date>2019-09-23T11:53:28.400963+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2019 16:47:26 +0200</pubDate>
+      <dc:date>2019-09-23T16:47:26.641409+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 26 August–8 September 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-07-26-Spintertyrimai.png"
         length="331913"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 14:36:30 +0200</pubDate>
-      <dc:date>2019-09-23T14:36:30.204267+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2019 16:50:49 +0200</pubDate>
+      <dc:date>2019-09-23T16:50:49.695517+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 5–13 July 2019 – Seat Projections for the Parties</title>
@@ -199,6 +199,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2019-09-23T15:22:19.928235+02:00</dc:date>
+    <dc:date>2019-09-23T16:50:49.695517+02:00</dc:date>
   </channel>
 </rss>
