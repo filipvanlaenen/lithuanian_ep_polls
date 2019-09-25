@@ -55,7 +55,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [6–14 September 2019](2019-09-14-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [26 August–8 September 2019](2019-09-08-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [26 August–8 September 2019](2019-09-08-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–29 July 2019](2019-07-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–26 July 2019](2019-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 3 | 3 | 3 | 3–4 |
 | [5–13 July 2019](2019-07-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -72,8 +72,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 30% | 100% | Last Result |
-| 3 | 69% | 70% | Median |
+| 2 | 20% | 100% | Last Result |
+| 3 | 79% | 80% | Median |
 | 4 | 0.8% | 0.8% |  |
 | 5 | 0% | 0% |  |
 
