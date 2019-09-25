@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Sep 2019 20:52:32 +0200</pubDate>
+    <pubDate>Wed, 25 Sep 2019 17:41:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 6–14 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-14-Vilmorus.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2019-09-23T16:47:26.641409+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 26 August–8 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-08-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-08-Baltijostyrimai-seats.png"
+        length="209952"
+        type="image/png"/>
+      <pubDate>Wed, 25 Sep 2019 17:41:44 +0200</pubDate>
+      <dc:date>2019-09-25T17:41:44.061495+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 26 August–8 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-08-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-08-Baltijostyrimai-coalitions-seats.png"
+        length="200823"
+        type="image/png"/>
+      <pubDate>Wed, 25 Sep 2019 17:41:44 +0200</pubDate>
+      <dc:date>2019-09-25T17:41:44.061495+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 26 August–8 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-08-Baltijostyrimai.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 17.7–22.6%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 16.8–21.7%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (ECR): 6.9–10.3%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 16.3–21.1%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 6.2–9.5%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Lietuvos Centro Partija (ECR): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 9.1–13.0%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Laisvės partija (*): 2.6–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-08-Baltijostyrimai.png"
         length="363075"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 15:19:24 +0200</pubDate>
-      <dc:date>2019-09-23T15:19:24.287145+02:00</dc:date>
+      <pubDate>Wed, 25 Sep 2019 17:41:44 +0200</pubDate>
+      <dc:date>2019-09-25T17:41:44.061495+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 15–29 July 2019 – Seat Projections for the Parties</title>
@@ -239,6 +259,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2019-09-24T20:52:32.900371+02:00</dc:date>
+    <dc:date>2019-09-25T17:41:44.061495+02:00</dc:date>
   </channel>
 </rss>
