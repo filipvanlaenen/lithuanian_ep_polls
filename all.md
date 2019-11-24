@@ -26,15 +26,15 @@ Only polls for which at least the sample size has been published are included in
 + **TS-LKD:** Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
 + **LSDP:** Lietuvos socialdemokratų partija (S&D)
 + **LRLS:** Liberalų Sąjūdis (RE)
-+ **TT:** Partija tvarka ir teisingumas (ECR)
++ **TT:** Partija tvarka ir teisingumas (*)
 + **DP:** Darbo Partija (RE)
 + **LLRA:** Lietuvos lenkų rinkimų akcija (ECR)
 + **LVŽS:** Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
-+ **LŽP:** Lietuvos Žaliųjų Partija (*)
-+ **LCP:** Lietuvos Centro Partija (ECR)
++ **LŽP:** Lietuvos Žaliųjų Partija (Greens/EFA)
++ **LCP:** Centro partija „Gerovės Lietuva“ (ECR)
 + **LS:** Politinė partija “Lietuvos sąrašas” (*)
 + **LSDDP:** Lietuvos socialdemokratų darbo partija (S&D)
-+ **LP:** Laisvės partija (*)
++ **LP:** Laisvės partija (RE)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
