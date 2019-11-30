@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 Nov 2019 20:51:19 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 17:29:25 +0100</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 8–16 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-11-16-Vilmorus.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-11-16-Vilmorus.png"
         length="336541"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 20:51:19 +0100</pubDate>
-      <dc:date>2019-11-29T20:51:19.641357+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 17:08:42 +0100</pubDate>
+      <dc:date>2019-11-30T17:08:42.525932+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 15–29 October 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-29-Baltijostyrimai.png"
         length="343065"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 06:54:23 +0100</pubDate>
-      <dc:date>2019-11-29T06:54:23.842158+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 17:18:57 +0100</pubDate>
+      <dc:date>2019-11-30T17:18:57.764432+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 17–28 October 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-28-Spintertyrimai.png"
         length="360106"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 17:26:15 +0100</pubDate>
-      <dc:date>2019-11-29T17:26:15.050832+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 17:29:25 +0100</pubDate>
+      <dc:date>2019-11-30T17:29:25.262604+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–13 October 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-13-Vilmorus.png"
         length="333806"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 17:50:32 +0100</pubDate>
-      <dc:date>2019-11-29T17:50:32.713439+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 11:38:48 +0100</pubDate>
+      <dc:date>2019-11-30T11:38:48.981688+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 21 September–5 October 2019 – Voting Intentions</title>
@@ -319,6 +319,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2019-11-29T20:51:19.641357+01:00</dc:date>
+    <dc:date>2019-11-30T17:29:25.262604+01:00</dc:date>
   </channel>
 </rss>
