@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 15 Dec 2019 18:37:08 +0100</pubDate>
+    <pubDate>Sun, 29 Dec 2019 19:36:25 +0100</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 29 November–7 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-12-07-Vilmorus.html#seats</link>
@@ -160,14 +160,54 @@
       <dc:date>2019-11-30T11:38:48.981688+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 21 September–5 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-05-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-05-Baltijostyrimai-seats.png"
+        length="222413"
+        type="image/png"/>
+      <pubDate>Sun, 29 Dec 2019 19:36:25 +0100</pubDate>
+      <dc:date>2019-12-29T19:36:25.612883+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 21 September–5 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-05-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-05-Baltijostyrimai-coalitions-seats.png"
+        length="147385"
+        type="image/png"/>
+      <pubDate>Sun, 29 Dec 2019 19:36:25 +0100</pubDate>
+      <dc:date>2019-12-29T19:36:25.612883+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 21 September–5 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-05-Baltijostyrimai.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 23.9–29.4%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 14.5–19.1%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 6.9–10.4%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 15.3–20.1%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 4.0–6.8%&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 7.0–10.5%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-05-Baltijostyrimai.png"
         length="334782"
         type="image/png"/>
-      <pubDate>Sun, 24 Nov 2019 14:51:15 +0100</pubDate>
-      <dc:date>2019-11-24T14:51:15.031122+01:00</dc:date>
+      <pubDate>Sun, 29 Dec 2019 19:36:25 +0100</pubDate>
+      <dc:date>2019-12-29T19:36:25.612883+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 18–27 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-27-Spintertyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos Žaliųjų Partija (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-27-Spintertyrimai-seats.png"
+        length="238695"
+        type="image/png"/>
+      <pubDate>Sun, 29 Dec 2019 15:57:39 +0100</pubDate>
+      <dc:date>2019-12-29T15:57:39.497075+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 18–27 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-27-Spintertyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-27-Spintertyrimai-coalitions-seats.png"
+        length="158846"
+        type="image/png"/>
+      <pubDate>Sun, 29 Dec 2019 15:57:39 +0100</pubDate>
+      <dc:date>2019-12-29T15:57:39.497075+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–27 September 2019 – Voting Intentions</title>
@@ -176,8 +216,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-27-Spintertyrimai.png"
         length="356185"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 17:49:49 +0100</pubDate>
-      <dc:date>2019-11-29T17:49:49.509124+01:00</dc:date>
+      <pubDate>Sun, 29 Dec 2019 15:57:39 +0100</pubDate>
+      <dc:date>2019-12-29T15:57:39.497075+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 6–14 September 2019 – Voting Intentions</title>
@@ -429,6 +469,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2019-12-15T18:37:08.585978+01:00</dc:date>
+    <dc:date>2019-12-29T19:36:25.612883+01:00</dc:date>
   </channel>
 </rss>
