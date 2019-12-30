@@ -10,7 +10,7 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.2% | 11.0–20.5% | 10.5–21.2% | 10.1–21.7% | 9.5–22.7% |
+| N/A | [Poll Average](average.html) | 14.3% | 11.0–20.5% | 10.5–21.2% | 10.1–21.7% | 9.5–22.7% |
 | [29 November–7 December 2019](2019-12-07-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 14.2% | 12.9–15.8% | 12.5–16.2% | 12.2–16.6% | 11.6–17.3% |
 | [19–29 November 2019](2019-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
 | [14–27 November 2019](2019-11-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 19.8% | 18.3–21.5% | 17.8–22.0% | 17.4–22.4% | 16.7–23.2% |
@@ -39,13 +39,13 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.6% | 100% |  |
 | 9.5–10.5% | 5% | 99.4% |  |
-| 10.5–11.5% | 14% | 95% |  |
-| 11.5–12.5% | 19% | 81% |  |
-| 12.5–13.5% | 17% | 62% | Median |
-| 13.5–14.5% | 9% | 45% |  |
-| 14.5–15.5% | 3% | 36% |  |
-| 15.5–16.5% | 0.5% | 34% |  |
-| 16.5–17.5% | 0.9% | 33% | Last Result |
+| 10.5–11.5% | 12% | 95% |  |
+| 11.5–12.5% | 13% | 83% |  |
+| 12.5–13.5% | 11% | 70% |  |
+| 13.5–14.5% | 12% | 59% | Median |
+| 14.5–15.5% | 9% | 47% |  |
+| 15.5–16.5% | 4% | 38% |  |
+| 16.5–17.5% | 2% | 34% | Last Result |
 | 17.5–18.5% | 4% | 32% |  |
 | 18.5–19.5% | 9% | 28% |  |
 | 19.5–20.5% | 10% | 20% |  |
@@ -92,8 +92,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 14% | 100% |  |
-| 2 | 76% | 86% | Last Result, Median |
+| 1 | 10% | 100% |  |
+| 2 | 80% | 90% | Last Result, Median |
 | 3 | 10% | 10% |  |
 | 4 | 0% | 0% |  |
 
