@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 29 Dec 2019 19:36:25 +0100</pubDate>
+    <pubDate>Thu, 02 Jan 2020 16:50:35 +0100</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 29 November–7 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-12-07-Vilmorus.html#seats</link>
@@ -150,14 +150,34 @@
       <dc:date>2019-11-30T17:29:25.262604+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–13 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-13-Vilmorus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-13-Vilmorus-seats.png"
+        length="197960"
+        type="image/png"/>
+      <pubDate>Wed, 01 Jan 2020 21:34:59 +0100</pubDate>
+      <dc:date>2020-01-01T21:34:59.151614+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–13 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-13-Vilmorus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-13-Vilmorus-coalitions-seats.png"
+        length="140535"
+        type="image/png"/>
+      <pubDate>Wed, 01 Jan 2020 21:34:59 +0100</pubDate>
+      <dc:date>2020-01-01T21:34:59.151614+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–13 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-13-Vilmorus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 24.1–29.6%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 16.7–21.6%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 6.7–10.1%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 9.8–13.8%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 6.4–9.8%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 7.5–11.1%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 4.3–7.2%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 2.8–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-10-13-Vilmorus.png"
-        length="333806"
+        length="333870"
         type="image/png"/>
-      <pubDate>Sat, 30 Nov 2019 11:38:48 +0100</pubDate>
-      <dc:date>2019-11-30T11:38:48.981688+01:00</dc:date>
+      <pubDate>Wed, 01 Jan 2020 21:34:59 +0100</pubDate>
+      <dc:date>2020-01-01T21:34:59.151614+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 21 September–5 October 2019 – Seat Projections for the Parties</title>
@@ -220,14 +240,34 @@
       <dc:date>2019-12-29T15:57:39.497075+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 6–14 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-14-Vilmorus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-14-Vilmorus-seats.png"
+        length="305240"
+        type="image/png"/>
+      <pubDate>Thu, 02 Jan 2020 16:50:35 +0100</pubDate>
+      <dc:date>2020-01-02T16:50:35.087412+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 6–14 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-14-Vilmorus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-14-Vilmorus-coalitions-seats.png"
+        length="236471"
+        type="image/png"/>
+      <pubDate>Thu, 02 Jan 2020 16:50:35 +0100</pubDate>
+      <dc:date>2020-01-02T16:50:35.087412+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 6–14 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-14-Vilmorus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 20.7–26.0%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 21.0–26.3%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 5.7–8.9%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 11.5–15.8%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 3.9–6.8%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 2.8–5.3%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 9.9–13.9%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 3.9–6.8%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2019-09-14-Vilmorus.png"
-        length="347044"
+        length="347094"
         type="image/png"/>
-      <pubDate>Sun, 24 Nov 2019 15:09:25 +0100</pubDate>
-      <dc:date>2019-11-24T15:09:25.2856+01:00</dc:date>
+      <pubDate>Thu, 02 Jan 2020 16:50:35 +0100</pubDate>
+      <dc:date>2020-01-02T16:50:35.087412+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 26 August–8 September 2019 – Seat Projections for the Parties</title>
@@ -469,6 +509,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2019-12-29T19:36:25.612883+01:00</dc:date>
+    <dc:date>2020-01-02T16:50:35.087412+01:00</dc:date>
   </channel>
 </rss>
