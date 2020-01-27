@@ -10,7 +10,8 @@ Last result: **8.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 2.0–6.5% | 1.8–6.9% | 1.7–7.2% | 1.4–7.8% |
+| N/A | [Poll Average](average.html) | 4.8% | 2.7–6.5% | 2.4–6.9% | 2.3–7.2% | 2.0–7.8% |
+| [10–18 January 2020](2020-01-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 2.9% | 2.3–3.7% | 2.2–4.0% | 2.0–4.2% | 1.8–4.6% |
 | [10–21 December 2019](2019-12-21-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
 | [29 November–7 December 2019](2019-12-07-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 2.2% | 1.7–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.7% |
 | [19–29 November 2019](2019-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.6–6.2% | 3.3–6.8% |
@@ -37,11 +38,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.4% | 100% |  |
-| 1.5–2.5% | 22% | 98.6% |  |
-| 2.5–3.5% | 10% | 77% |  |
-| 3.5–4.5% | 12% | 66% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 7% | 100% |  |
+| 2.5–3.5% | 22% | 93% |  |
+| 3.5–4.5% | 17% | 71% |  |
 | 4.5–5.5% | 25% | 55% | Median |
 | 5.5–6.5% | 21% | 30% |  |
 | 6.5–7.5% | 8% | 9% |  |
@@ -58,6 +58,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–18 January 2020](2020-01-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0 |
 | [10–21 December 2019](2019-12-21-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [29 November–7 December 2019](2019-12-07-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0 |
 | [19–29 November 2019](2019-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
