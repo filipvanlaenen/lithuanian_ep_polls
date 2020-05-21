@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 20 May 2020 17:49:34 +0200</pubDate>
+    <pubDate>Thu, 21 May 2020 17:46:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 20–30 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-04-30-Spintertyrimai.html#seats</link>
@@ -50,14 +50,54 @@
       <dc:date>2020-05-20T17:01:20.603699+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 6–13 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-03-13-Vilmorus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-03-13-Vilmorus-seats.png"
+        length="383290"
+        type="image/png"/>
+      <pubDate>Thu, 21 May 2020 12:54:23 +0200</pubDate>
+      <dc:date>2020-05-21T12:54:23.424367+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 6–13 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-03-13-Vilmorus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-03-13-Vilmorus-coalitions-seats.png"
+        length="258710"
+        type="image/png"/>
+      <pubDate>Thu, 21 May 2020 12:54:23 +0200</pubDate>
+      <dc:date>2020-05-21T12:54:23.424367+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 6–13 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-03-13-Vilmorus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 26.2–31.9%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 18.7–23.9%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 5.1–8.3%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 12.1–16.5%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 7.1–10.6%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 2.7–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-03-13-Vilmorus.png"
         length="371581"
         type="image/png"/>
-      <pubDate>Wed, 20 May 2020 17:09:59 +0200</pubDate>
-      <dc:date>2020-05-20T17:09:59.704462+02:00</dc:date>
+      <pubDate>Thu, 21 May 2020 12:54:23 +0200</pubDate>
+      <dc:date>2020-05-21T12:54:23.424367+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 13–26 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-02-26-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-02-26-Baltijostyrimai-seats.png"
+        length="252562"
+        type="image/png"/>
+      <pubDate>Thu, 21 May 2020 17:46:38 +0200</pubDate>
+      <dc:date>2020-05-21T17:46:38.213897+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 13–26 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-02-26-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-02-26-Baltijostyrimai-coalitions-seats.png"
+        length="133144"
+        type="image/png"/>
+      <pubDate>Thu, 21 May 2020 17:46:38 +0200</pubDate>
+      <dc:date>2020-05-21T17:46:38.213897+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 13–26 February 2020 – Voting Intentions</title>
@@ -66,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-02-26-Baltijostyrimai.png"
         length="379320"
         type="image/png"/>
-      <pubDate>Wed, 20 May 2020 17:25:38 +0200</pubDate>
-      <dc:date>2020-05-20T17:25:38.986754+02:00</dc:date>
+      <pubDate>Thu, 21 May 2020 17:46:38 +0200</pubDate>
+      <dc:date>2020-05-21T17:46:38.213897+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–25 February 2020 – Voting Intentions</title>
@@ -90,14 +130,34 @@
       <dc:date>2020-05-20T17:41:29.312117+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 20–28 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-01-28-Spintertyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-01-28-Spintertyrimai-seats.png"
+        length="314293"
+        type="image/png"/>
+      <pubDate>Thu, 21 May 2020 13:31:23 +0200</pubDate>
+      <dc:date>2020-05-21T13:31:23.959621+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 20–28 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-01-28-Spintertyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-01-28-Spintertyrimai-coalitions-seats.png"
+        length="213363"
+        type="image/png"/>
+      <pubDate>Thu, 21 May 2020 13:31:23 +0200</pubDate>
+      <dc:date>2020-05-21T13:31:23.959621+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 20–28 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-01-28-Spintertyrimai.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 24.1–29.5%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 12.4–16.7%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 3.7–6.4%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 9.5–13.4%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 7.4–11.0%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 3.3–5.9%&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 2.7–5.1%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 8.2–11.9%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 4.4–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-01-28-Spintertyrimai.png"
         length="373830"
         type="image/png"/>
-      <pubDate>Wed, 20 May 2020 17:49:34 +0200</pubDate>
-      <dc:date>2020-05-20T17:49:34.457148+02:00</dc:date>
+      <pubDate>Thu, 21 May 2020 13:31:23 +0200</pubDate>
+      <dc:date>2020-05-21T13:31:23.959621+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 10–18 January 2020 – Seat Projections for the Parties</title>
@@ -699,6 +759,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2020-05-20T17:49:34.457148+02:00</dc:date>
+    <dc:date>2020-05-21T17:46:38.213897+02:00</dc:date>
   </channel>
 </rss>
