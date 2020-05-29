@@ -49,8 +49,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 55% | 100% | Median |
-| 4 | 45% | 45% |  |
+| 3 | 56% | 100% | Median |
+| 4 | 44% | 44% |  |
 | 5 | 0% | 0% |  |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
@@ -61,8 +61,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 6% | 100% | Last Result |
-| 2 | 94% | 94% | Median |
+| 1 | 7% | 100% | Last Result |
+| 2 | 93% | 93% | Median |
 | 3 | 0% | 0% |  |
 
 ### Lietuvos socialdemokratų partija (S&D)
@@ -73,8 +73,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 85% | 100% | Median |
-| 2 | 15% | 15% | Last Result |
+| 1 | 89% | 100% | Median |
+| 2 | 11% | 11% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Liberalų Sąjūdis (RE)
@@ -85,8 +85,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 99.8% | 99.8% | Median |
+| 0 | 0.3% | 100% |  |
+| 1 | 99.7% | 99.7% | Median |
 | 2 | 0% | 0% | Last Result |
 
 ### Darbo Partija (RE)
@@ -97,8 +97,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 95% | 95% | Last Result, Median |
+| 0 | 3% | 100% |  |
+| 1 | 97% | 97% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Laisvės partija (RE)
@@ -109,8 +109,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 96% | 96% | Median |
+| 0 | 3% | 100% | Last Result |
+| 1 | 97% | 97% | Median |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija (ECR)
@@ -121,8 +121,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% |  |
-| 1 | 53% | 53% | Last Result, Median |
+| 0 | 44% | 100% |  |
+| 1 | 56% | 56% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos socialdemokratų darbo partija (S&D)
@@ -133,8 +133,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Last Result, Median |
-| 1 | 1.3% | 1.3% |  |
+| 0 | 98.8% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.2% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -157,8 +157,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 55% | 100% | Median |
-| 4 | 45% | 45% |  |
+| 3 | 56% | 100% | Median |
+| 4 | 44% | 44% |  |
 | 5 | 0% | 0% |  |
 
 ### Liberalų Sąjūdis (RE) – Darbo Partija (RE) – Laisvės partija (RE)
@@ -167,8 +167,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 9% | 100% |  |
-| 3 | 91% | 91% | Last Result, Median |
+| 2 | 6% | 100% |  |
+| 3 | 94% | 94% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 ### Lietuvos socialdemokratų partija (S&D) – Lietuvos socialdemokratų darbo partija (S&D)
@@ -177,8 +177,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 84% | 100% | Median |
-| 2 | 16% | 16% | Last Result |
+| 1 | 88% | 100% | Median |
+| 2 | 12% | 12% | Last Result |
 | 3 | 0% | 0% |  |
 
 
@@ -193,6 +193,6 @@
 ### Calculations
 
 + **Sample size:** 1012
-+ **Simulations done:** 262,144
-+ **Error estimate:** 2.32%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.94%
 
