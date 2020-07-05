@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 May 2020 20:09:47 +0200</pubDate>
+    <pubDate>Sun, 05 Jul 2020 14:30:47 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 5–13 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 22.3–27.6%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 20.8–26.0%&lt;/li&gt;&lt;li&gt;Partija tvarka ir teisingumas (*): 4.2–7.0%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 13.8–18.3%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 6.1–9.3%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 2.7–5.1%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 2.6–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus.png"
+        length="379603"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jul 2020 14:30:47 +0200</pubDate>
+      <dc:date>2020-07-05T14:30:47.38582+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 20–30 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-04-30-Spintertyrimai.html#seats</link>
@@ -819,6 +829,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2020-05-28T20:09:47.081969+02:00</dc:date>
+    <dc:date>2020-07-05T14:30:47.38582+02:00</dc:date>
   </channel>
 </rss>
