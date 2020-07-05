@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 2.0–3.3% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.5–3.8% | 2.3–4.1% | 2.2–4.3% | 1.9–4.7% |
+| [5–13 June 2020](2020-06-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [20–30 April 2020](2020-04-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
 | [17–30 March 2020](2020-03-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
 | [6–13 March 2020](2020-03-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 2.5% | 2.0–3.3% | 1.9–3.6% | 1.7–3.7% | 1.5–4.1% |
@@ -46,11 +47,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.6% | 100% |  |
-| 1.5–2.5% | 41% | 99.4% |  |
-| 2.5–3.5% | 53% | 58% | Median |
-| 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 14% | 100% |  |
+| 2.5–3.5% | 65% | 86% | Median |
+| 3.5–4.5% | 20% | 21% |  |
+| 4.5–5.5% | 0.9% | 0.9% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -63,6 +64,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–13 June 2020](2020-06-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0 |
 | [20–30 April 2020](2020-04-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [17–30 March 2020](2020-03-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [6–13 March 2020](2020-03-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 0 | 0 | 0 | 0 | 0 |
