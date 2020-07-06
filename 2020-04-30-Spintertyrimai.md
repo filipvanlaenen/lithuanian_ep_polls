@@ -147,7 +147,6 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 2 | 3 | 0% | 3 | 3 | 3 | 3–4 |
-| Liberalų Sąjūdis (RE) – Darbo Partija (RE) – Laisvės partija (RE) | 3 | 2 | 0% | 2 | 2–3 | 2–3 | 1–3 |
 | Lietuvos socialdemokratų partija (S&D) – Lietuvos socialdemokratų darbo partija (S&D) | 2 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
@@ -160,17 +159,6 @@
 | 3 | 98% | 99.8% | Median |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
-
-### Liberalų Sąjūdis (RE) – Darbo Partija (RE) – Laisvės partija (RE)
-
-![Graph with seats probability mass function not yet produced](2020-04-30-Spintertyrimai-coalitions-seats-pmf-lrls–dp–lp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 88% | 98% | Median |
-| 3 | 10% | 10% | Last Result |
-| 4 | 0% | 0% |  |
 
 ### Lietuvos socialdemokratų partija (S&D) – Lietuvos socialdemokratų darbo partija (S&D)
 
