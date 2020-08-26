@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Aug 2020 12:15:02 +0200</pubDate>
+    <pubDate>Sat, 22 Aug 2020 17:19:28 +0200</pubDate>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 16–26 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-07-26-Spintertyrimai.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2020-08-22T12:15:02.198221+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 10–18 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-07-18-Vilmorus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-07-18-Vilmorus-seats.png"
+        length="286653"
+        type="image/png"/>
+      <pubDate>Sat, 22 Aug 2020 17:19:28 +0200</pubDate>
+      <dc:date>2020-08-22T17:19:28.044593+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 10–18 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-07-18-Vilmorus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-07-18-Vilmorus-coalitions-seats.png"
+        length="184714"
+        type="image/png"/>
+      <pubDate>Sat, 22 Aug 2020 17:19:28 +0200</pubDate>
+      <dc:date>2020-08-22T17:19:28.044593+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 10–18 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-07-18-Vilmorus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 22.7–28.0%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 23.2–28.5%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 8.7–12.4%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 5.5–8.6%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 7.5–11.0%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 4.2–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-07-18-Vilmorus.png"
         length="373538"
         type="image/png"/>
-      <pubDate>Sat, 22 Aug 2020 11:08:06 +0200</pubDate>
-      <dc:date>2020-08-22T11:08:06.353783+02:00</dc:date>
+      <pubDate>Sat, 22 Aug 2020 17:19:28 +0200</pubDate>
+      <dc:date>2020-08-22T17:19:28.044593+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–26 June 2020 – Seat Projections for the Parties</title>
@@ -949,6 +969,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2020-08-22T12:15:02.198221+02:00</dc:date>
+    <dc:date>2020-08-22T17:19:28.044593+02:00</dc:date>
   </channel>
 </rss>
