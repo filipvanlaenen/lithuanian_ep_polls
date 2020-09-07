@@ -10,7 +10,8 @@ Last result: **17.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.7% | 17.6–26.1% | 17.0–26.7% | 16.5–27.3% | 15.7–28.3% |
+| N/A | [Poll Average](average.html) | 24.1% | 17.9–33.2% | 17.2–34.1% | 16.7–34.7% | 15.8–35.9% |
+| [29 July–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> LRT | 32.8% | 30.9–34.8% | 30.4–35.3% | 29.9–35.8% | 29.1–36.7% |
 | [16–26 July 2020](2020-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.6–26.4% |
 | [10–18 July 2020](2020-07-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 25.3% | 23.6–27.1% | 23.1–27.6% | 22.7–28.0% | 21.9–28.9% |
 | [18–26 June 2020](2020-06-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 25.1% | 23.5–27.0% | 23.0–27.5% | 22.6–27.9% | 21.8–28.8% |
@@ -51,22 +52,30 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 2% | 99.6% |  |
-| 16.5–17.5% | 7% | 97% | Last Result |
-| 17.5–18.5% | 11% | 91% |  |
-| 18.5–19.5% | 9% | 80% |  |
-| 19.5–20.5% | 5% | 71% |  |
-| 20.5–21.5% | 5% | 67% |  |
-| 21.5–22.5% | 9% | 61% |  |
-| 22.5–23.5% | 12% | 52% | Median |
-| 23.5–24.5% | 13% | 40% |  |
-| 24.5–25.5% | 12% | 27% |  |
-| 25.5–26.5% | 9% | 15% |  |
-| 26.5–27.5% | 4% | 6% |  |
-| 27.5–28.5% | 1.4% | 2% |  |
-| 28.5–29.5% | 0.3% | 0.3% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 14.5–15.5% | 0.2% | 100% |  |
+| 15.5–16.5% | 2% | 99.7% |  |
+| 16.5–17.5% | 5% | 98% | Last Result |
+| 17.5–18.5% | 8% | 93% |  |
+| 18.5–19.5% | 7% | 85% |  |
+| 19.5–20.5% | 4% | 79% |  |
+| 20.5–21.5% | 4% | 75% |  |
+| 21.5–22.5% | 7% | 71% |  |
+| 22.5–23.5% | 9% | 64% |  |
+| 23.5–24.5% | 10% | 55% | Median |
+| 24.5–25.5% | 9% | 45% |  |
+| 25.5–26.5% | 7% | 36% |  |
+| 26.5–27.5% | 3% | 30% |  |
+| 27.5–28.5% | 1.1% | 26% |  |
+| 28.5–29.5% | 0.5% | 25% |  |
+| 29.5–30.5% | 1.2% | 25% |  |
+| 30.5–31.5% | 3% | 24% |  |
+| 31.5–32.5% | 6% | 20% |  |
+| 32.5–33.5% | 6% | 14% |  |
+| 33.5–34.5% | 5% | 8% |  |
+| 34.5–35.5% | 2% | 3% |  |
+| 35.5–36.5% | 0.7% | 0.9% |  |
+| 36.5–37.5% | 0.1% | 0.2% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -77,7 +86,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [29 July–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> LRT | 4 | 4 | 4 | 3–4 | 3–5 |
 | [16–26 July 2020](2020-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–18 July 2020](2020-07-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [18–26 June 2020](2020-06-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -119,9 +129,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 42% | 100% | Last Result |
-| 3 | 52% | 58% | Median |
-| 4 | 6% | 6% |  |
-| 5 | 0% | 0% |  |
+| 2 | 32% | 100% | Last Result |
+| 3 | 40% | 68% | Median |
+| 4 | 28% | 28% |  |
+| 5 | 0.2% | 0.2% |  |
+| 6 | 0% | 0% | Majority |
 
 
