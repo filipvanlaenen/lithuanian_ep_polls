@@ -10,10 +10,14 @@ Last result: **6.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.3% | 15.2–26.2% | 14.5–27.0% | 14.0–27.6% | 13.2–28.7% |
+| N/A | [Poll Average](average.html) | 22.4% | 15.2–26.2% | 14.5–27.0% | 14.0–27.6% | 13.2–28.7% |
+| [4–12 September 2020](2020-09-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 20.9% | 19.4–22.6% | 18.9–23.1% | 18.5–23.6% | 17.8–24.4% |
+| [26 August–4 September 2020](2020-09-04-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 19.4% | 17.9–21.1% | 17.5–21.6% | 17.1–22.0% | 16.4–22.8% |
+| [22 August–4 September 2020](2020-09-04-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 19.8% | 18.3–21.5% | 17.9–22.0% | 17.5–22.4% | 16.8–23.2% |
 | [29 July–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> LRT | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
+| [16–30 July 2020](2020-07-30-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.4–26.2% |
 | [16–26 July 2020](2020-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 22.1% | 20.5–23.9% | 20.0–24.4% | 19.7–24.8% | 18.9–25.6% |
-| [10–18 July 2020](2020-07-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 25.8% | 24.1–27.6% | 23.6–28.1% | 23.2–28.5% | 22.4–29.4% |
+| [10–18 July 2020](2020-07-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 27.0% | 24.1–27.6% | 23.6–28.1% | 23.2–28.5% | 22.4–29.4% |
 | [18–26 June 2020](2020-06-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 19.8% | 18.3–21.5% | 17.8–22.0% | 17.5–22.4% | 16.8–23.2% |
 | [15–25 June 2020](2020-06-25-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 22.5% | 20.9–24.3% | 20.4–24.8% | 20.0–25.2% | 19.3–26.1% |
 | [5–13 June 2020](2020-06-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 23.5% | 21.8–25.3% | 21.3–25.8% | 20.9–26.2% | 20.1–27.1% |
@@ -63,14 +67,14 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 7% | 87% |  |
 | 16.5–17.5% | 3% | 79% |  |
 | 17.5–18.5% | 0.9% | 76% |  |
-| 18.5–19.5% | 0.8% | 75% |  |
+| 18.5–19.5% | 0.7% | 75% |  |
 | 19.5–20.5% | 3% | 74% |  |
-| 20.5–21.5% | 10% | 71% |  |
-| 21.5–22.5% | 15% | 61% | Median |
+| 20.5–21.5% | 9% | 71% |  |
+| 21.5–22.5% | 15% | 62% | Median |
 | 22.5–23.5% | 14% | 47% |  |
-| 23.5–24.5% | 10% | 33% |  |
+| 23.5–24.5% | 10% | 34% |  |
 | 24.5–25.5% | 8% | 23% |  |
-| 25.5–26.5% | 7% | 15% |  |
+| 25.5–26.5% | 8% | 15% |  |
 | 26.5–27.5% | 5% | 7% |  |
 | 27.5–28.5% | 2% | 3% |  |
 | 28.5–29.5% | 0.5% | 0.6% |  |
@@ -87,7 +91,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
+| [4–12 September 2020](2020-09-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [26 August–4 September 2020](2020-09-04-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [22 August–4 September 2020](2020-09-04-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 July–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> LRT | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [16–30 July 2020](2020-07-30-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3 | 3 | 3 | 2–3 | 2–3 |
 | [16–26 July 2020](2020-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–18 July 2020](2020-07-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [18–26 June 2020](2020-06-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -131,7 +139,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% | Last Result |
 | 2 | 36% | 98% |  |
-| 3 | 56% | 62% | Median |
+| 3 | 57% | 62% | Median |
 | 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
