@@ -10,7 +10,7 @@ Last result: **16.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 5.8–9.3% | 5.5–9.7% | 5.2–10.1% | 4.7–10.8% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.5–8.9% | 5.2–9.3% | 4.9–9.7% | 4.5–10.4% |
 | [4–12 September 2020](2020-09-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 7.6% | 6.7–8.8% | 6.4–9.2% | 6.2–9.4% | 5.7–10.0% |
 | [26 August–4 September 2020](2020-09-04-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 6.0% | 5.1–7.0% | 4.8–7.3% | 4.6–7.6% | 4.3–8.1% |
 | [22 August–4 September 2020](2020-09-04-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
@@ -56,15 +56,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.3% | 100% |  |
-| 4.5–5.5% | 6% | 99.7% |  |
-| 5.5–6.5% | 20% | 94% |  |
-| 6.5–7.5% | 26% | 74% | Median |
-| 7.5–8.5% | 25% | 48% |  |
-| 8.5–9.5% | 17% | 24% |  |
-| 9.5–10.5% | 6% | 7% |  |
-| 10.5–11.5% | 0.9% | 1.0% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0.7% | 100% |  |
+| 4.5–5.5% | 11% | 99.3% |  |
+| 5.5–6.5% | 27% | 88% |  |
+| 6.5–7.5% | 24% | 61% | Median |
+| 7.5–8.5% | 22% | 38% |  |
+| 8.5–9.5% | 12% | 16% |  |
+| 9.5–10.5% | 3% | 3% |  |
+| 10.5–11.5% | 0.3% | 0.3% |  |
+| 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -127,8 +127,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 94% | 94% | Median |
+| 0 | 9% | 100% |  |
+| 1 | 90% | 91% | Median |
 | 2 | 0% | 0% | Last Result |
 
 

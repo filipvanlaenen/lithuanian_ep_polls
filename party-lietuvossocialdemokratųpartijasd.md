@@ -10,7 +10,7 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.2% | 10.2–15.0% | 9.6–15.5% | 9.2–15.9% | 8.6–16.7% |
+| N/A | [Poll Average](average.html) | 13.0% | 11.3–18.8% | 10.8–19.6% | 10.5–20.1% | 9.8–21.1% |
 | [4–12 September 2020](2020-09-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 11.8% | 10.6–13.2% | 10.2–13.6% | 10.0–13.9% | 9.4–14.6% |
 | [26 August–4 September 2020](2020-09-04-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 12.6% | 11.3–14.0% | 11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
 | [22 August–4 September 2020](2020-09-04-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 18.5% | 17.0–20.1% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
@@ -55,19 +55,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 4% | 99.5% |  |
-| 9.5–10.5% | 10% | 96% |  |
-| 10.5–11.5% | 10% | 86% |  |
-| 11.5–12.5% | 13% | 76% |  |
-| 12.5–13.5% | 22% | 63% | Median |
-| 13.5–14.5% | 24% | 41% |  |
-| 14.5–15.5% | 13% | 18% |  |
-| 15.5–16.5% | 4% | 5% |  |
-| 16.5–17.5% | 0.6% | 0.7% | Last Result |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.2% | 100% |  |
+| 9.5–10.5% | 3% | 99.8% |  |
+| 10.5–11.5% | 12% | 97% |  |
+| 11.5–12.5% | 23% | 85% |  |
+| 12.5–13.5% | 23% | 62% | Median |
+| 13.5–14.5% | 11% | 39% |  |
+| 14.5–15.5% | 3% | 28% |  |
+| 15.5–16.5% | 1.4% | 25% |  |
+| 16.5–17.5% | 4% | 24% | Last Result |
+| 17.5–18.5% | 8% | 20% |  |
+| 18.5–19.5% | 7% | 12% |  |
+| 19.5–20.5% | 4% | 5% |  |
+| 20.5–21.5% | 1.1% | 1.3% |  |
+| 21.5–22.5% | 0.2% | 0.2% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -78,7 +81,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [4–12 September 2020](2020-09-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 August–4 September 2020](2020-09-04-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22 August–4 September 2020](2020-09-04-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -125,8 +128,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 43% | 100% |  |
-| 2 | 57% | 57% | Last Result, Median |
-| 3 | 0% | 0% |  |
+| 1 | 34% | 100% |  |
+| 2 | 55% | 66% | Last Result, Median |
+| 3 | 11% | 11% |  |
+| 4 | 0% | 0% |  |
 
 
