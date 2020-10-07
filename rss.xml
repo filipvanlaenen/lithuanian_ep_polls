@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 21 Sep 2020 17:40:58 +0200</pubDate>
+    <pubDate>Wed, 07 Oct 2020 18:09:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 17–27 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 3 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos Žaliųjų Partija (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai-seats.png"
+        length="302962"
+        type="image/png"/>
+      <pubDate>Wed, 07 Oct 2020 18:09:48 +0200</pubDate>
+      <dc:date>2020-10-07T18:09:48.718941+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 17–27 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai-coalitions-seats.png"
+        length="150931"
+        type="image/png"/>
+      <pubDate>Wed, 07 Oct 2020 18:09:48 +0200</pubDate>
+      <dc:date>2020-10-07T18:09:48.718941+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 17–27 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 15.5–20.2%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 20.7–25.9%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 11.9–16.2%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 7.4–11.0%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 7.2–10.8%&lt;/li&gt;&lt;li&gt;Lietuvos Žaliųjų Partija (Greens/EFA): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų darbo partija (S&amp;amp;D): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 6.4–9.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.png"
+        length="406887"
+        type="image/png"/>
+      <pubDate>Wed, 07 Oct 2020 18:09:48 +0200</pubDate>
+      <dc:date>2020-10-07T18:09:48.718941+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–12 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-12-Vilmorus.html#seats</link>
@@ -1119,6 +1149,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2020-09-21T17:40:58.678874+02:00</dc:date>
+    <dc:date>2020-10-07T18:09:48.718941+02:00</dc:date>
   </channel>
 </rss>
