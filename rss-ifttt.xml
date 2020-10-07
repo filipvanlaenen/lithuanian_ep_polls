@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:36:38 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 17–27 September 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>6 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 17–27 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai-seating-plan.png" length="453818" type="image/png"/>
+      <pubDate>Wed, 7 Oct 2020 18:09:48 +0200</pubDate>
+      <dc:date>2020-10-07T18:09:48.718941+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 17–27 September 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>6 seats needed for a majority<br/>Opinion poll by Baltijos tyrimai for ELTA, 17–27 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai-seats.png" length="302962" type="image/png"/>
+      <pubDate>Wed, 7 Oct 2020 18:09:48 +0200</pubDate>
+      <dc:date>2020-10-07T18:09:48.718941+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 17–27 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Baltijos tyrimai for ELTA, 17–27 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-27-Baltijostyrimai.png" length="406887" type="image/png"/>
+      <pubDate>Wed, 7 Oct 2020 18:09:48 +0200</pubDate>
+      <dc:date>2020-10-07T18:09:48.718941+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 4–12 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-12-Vilmorus.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>6 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 4–12 September 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-12-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-09-12-Vilmorus-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-25-Baltijostyrimai.png" length="384205" type="image/png"/>
       <pubDate>Fri, 24 Jul 2020 22:50:49 +0200</pubDate>
       <dc:date>2020-07-24T22:50:49.578354+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 5–13 June 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>6 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 5–13 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus-seating-plan.png" length="422960" type="image/png"/>
-      <pubDate>Fri, 24 Jul 2020 23:24:04 +0200</pubDate>
-      <dc:date>2020-07-24T23:24:04.358097+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 5–13 June 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>6 seats needed for a majority<br/>Opinion poll by Vilmorus for Lietuvos rytas, 5–13 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus-seats.png" length="274298" type="image/png"/>
-      <pubDate>Fri, 24 Jul 2020 23:24:04 +0200</pubDate>
-      <dc:date>2020-07-24T23:24:04.358097+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Vilmorus for Lietuvos rytas, 5–13 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Vilmorus for Lietuvos rytas, 5–13 June 2020<br/>Details on https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus.html<br/><img src="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2020-06-13-Vilmorus.png" length="378511" type="image/png"/>
-      <pubDate>Fri, 24 Jul 2020 23:24:04 +0200</pubDate>
-      <dc:date>2020-07-24T23:24:04.358097+02:00</dc:date>
     </item>
   </channel>
 </rss>
