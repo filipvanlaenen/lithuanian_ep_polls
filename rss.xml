@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 11 Feb 2021 18:12:21 +0100</pubDate>
+    <pubDate>Sat, 13 Feb 2021 10:18:35 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 18–27 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-01-27-Spintertyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-01-27-Spintertyrimai-seats.png"
+        length="231751"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 10:18:35 +0100</pubDate>
+      <dc:date>2021-02-13T10:18:35.107836+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 18–27 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-01-27-Spintertyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-01-27-Spintertyrimai-coalitions-seats.png"
+        length="128641"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 10:18:35 +0100</pubDate>
+      <dc:date>2021-02-13T10:18:35.107836+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–27 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-01-27-Spintertyrimai.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-01-27-Spintertyrimai.png"
         length="288077"
         type="image/png"/>
-      <pubDate>Thu, 11 Feb 2021 18:12:21 +0100</pubDate>
-      <dc:date>2021-02-11T18:12:21.757129+01:00</dc:date>
+      <pubDate>Sat, 13 Feb 2021 10:18:35 +0100</pubDate>
+      <dc:date>2021-02-13T10:18:35.107836+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 10–20 December 2020 – Seat Projections for the Parties</title>
@@ -1219,6 +1239,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2021-02-11T18:12:21.757129+01:00</dc:date>
+    <dc:date>2021-02-13T10:18:35.107836+01:00</dc:date>
   </channel>
 </rss>
