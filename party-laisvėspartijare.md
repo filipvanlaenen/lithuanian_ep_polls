@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.6% | 10.3–12.9% | 9.9–13.3% | 9.7–13.7% | 9.1–14.4% |
+| N/A | [Poll Average](average.html) | 11.6% | 10.3–13.0% | 10.0–13.4% | 9.7–13.8% | 9.1–14.5% |
+| [17–26 February 2021](2021-02-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 11.8% | 10.6–13.2% | 10.3–13.6% | 10.0–14.0% | 9.4–14.7% |
 | [18–27 January 2021](2021-01-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 11.7% | 10.5–13.1% | 10.2–13.5% | 9.9–13.9% | 9.3–14.6% |
 | [10–20 December 2020](2020-12-20-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 11.7% | 10.5–13.1% | 10.2–13.5% | 9.9–13.9% | 9.3–14.6% |
 | [6–30 November 2020](2020-11-30-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
@@ -70,11 +71,11 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0.1% | 100% |  |
 | 8.5–9.5% | 2% | 99.9% |  |
 | 9.5–10.5% | 13% | 98% |  |
-| 10.5–11.5% | 34% | 85% |  |
-| 11.5–12.5% | 33% | 51% | Median |
-| 12.5–13.5% | 15% | 18% |  |
-| 13.5–14.5% | 3% | 3% |  |
-| 14.5–15.5% | 0.3% | 0.3% |  |
+| 10.5–11.5% | 33% | 85% |  |
+| 11.5–12.5% | 33% | 52% | Median |
+| 12.5–13.5% | 15% | 19% |  |
+| 13.5–14.5% | 3% | 4% |  |
+| 14.5–15.5% | 0.4% | 0.4% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -87,7 +88,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18–27 January 2021](2021-01-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [17–26 February 2021](2021-02-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–27 January 2021](2021-01-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–20 December 2020](2020-12-20-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–30 November 2020](2020-11-30-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–27 September 2020](2020-09-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0 |
@@ -138,8 +140,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 84% | 100% | Median |
-| 2 | 16% | 16% |  |
+| 1 | 78% | 100% | Median |
+| 2 | 22% | 22% |  |
 | 3 | 0% | 0% |  |
 
 
