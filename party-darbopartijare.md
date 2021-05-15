@@ -10,7 +10,8 @@ Last result: **12.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 6.0–8.3% | 5.7–8.6% | 5.5–9.0% | 5.0–9.6% |
+| N/A | [Poll Average](average.html) | 7.1% | 6.0–8.3% | 5.7–8.6% | 5.5–8.9% | 5.0–9.5% |
+| [19–28 April 2021](2021-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 7.4% | 6.4–8.5% | 6.1–8.9% | 5.9–9.1% | 5.5–9.7% |
 | [8–17 April 2021](2021-04-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 6.7% | 5.7–7.8% | 5.5–8.1% | 5.3–8.4% | 4.8–9.0% |
 | [17–23 March 2021](2021-03-23-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 7.4% | 6.4–8.6% | 6.2–8.9% | 6.0–9.2% | 5.5–9.8% |
 | [17–26 February 2021](2021-02-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.2–8.0% |
@@ -65,10 +66,10 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 3% | 99.9% |  |
 | 5.5–6.5% | 24% | 97% |  |
-| 6.5–7.5% | 42% | 73% | Median |
-| 7.5–8.5% | 25% | 32% |  |
-| 8.5–9.5% | 6% | 6% |  |
-| 9.5–10.5% | 0.5% | 0.5% |  |
+| 6.5–7.5% | 42% | 72% | Median |
+| 7.5–8.5% | 24% | 30% |  |
+| 8.5–9.5% | 5% | 6% |  |
+| 9.5–10.5% | 0.4% | 0.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% | Last Result |
 
@@ -82,6 +83,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| [19–28 April 2021](2021-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 1 |
 | [8–17 April 2021](2021-04-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 1 | 1 | 0–1 | 0–1 |
 | [17–23 March 2021](2021-03-23-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 1 |
 | [17–26 February 2021](2021-02-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

@@ -10,7 +10,8 @@ Last result: **17.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.3% | 22.5–30.4% | 21.9–31.1% | 21.4–31.6% | 20.6–32.6% |
+| N/A | [Poll Average](average.html) | 26.4% | 22.6–30.4% | 22.0–31.1% | 21.5–31.6% | 20.7–32.6% |
+| [19–28 April 2021](2021-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23.7% | 22.0–25.4% | 21.5–26.0% | 21.1–26.4% | 20.4–27.3% |
 | [8–17 April 2021](2021-04-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 29.2% | 27.3–31.1% | 26.8–31.6% | 26.4–32.1% | 25.5–33.0% |
 | [17–23 March 2021](2021-03-23-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23.5% | 21.9–25.3% | 21.4–25.8% | 21.0–26.3% | 20.3–27.1% |
 | [17–26 February 2021](2021-02-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 25.5% | 23.8–27.4% | 23.4–27.9% | 23.0–28.3% | 22.1–29.2% |
@@ -65,14 +66,14 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% | Last Result |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.4% | 100% |  |
-| 20.5–21.5% | 3% | 99.5% |  |
-| 21.5–22.5% | 8% | 97% |  |
-| 22.5–23.5% | 14% | 89% |  |
-| 23.5–24.5% | 14% | 75% |  |
-| 24.5–25.5% | 8% | 62% |  |
-| 25.5–26.5% | 4% | 53% | Median |
-| 26.5–27.5% | 5% | 49% |  |
+| 19.5–20.5% | 0.3% | 100% |  |
+| 20.5–21.5% | 2% | 99.6% |  |
+| 21.5–22.5% | 7% | 97% |  |
+| 22.5–23.5% | 13% | 90% |  |
+| 23.5–24.5% | 14% | 77% |  |
+| 24.5–25.5% | 9% | 63% |  |
+| 25.5–26.5% | 5% | 54% | Median |
+| 26.5–27.5% | 6% | 49% |  |
 | 27.5–28.5% | 10% | 44% |  |
 | 28.5–29.5% | 13% | 34% |  |
 | 29.5–30.5% | 11% | 20% |  |
@@ -91,7 +92,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [19–28 April 2021](2021-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–17 April 2021](2021-04-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3 | 3 | 3–4 | 3–4 |
 | [17–23 March 2021](2021-03-23-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 3 | 3 | 2–3 | 2–3 |
 | [17–26 February 2021](2021-02-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 3 | 3 | 3 | 2–4 |
@@ -145,8 +147,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 2% | 100% | Last Result |
-| 3 | 95% | 98% | Median |
+| 2 | 10% | 100% | Last Result |
+| 3 | 87% | 90% | Median |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
