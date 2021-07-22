@@ -10,7 +10,9 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.0% | 10.4–17.9% | 10.0–18.5% | 9.7–19.0% | 9.1–19.8% |
+| N/A | [Poll Average](average.html) | 18.9% | 14.4–23.9% | 13.9–24.5% | 13.5–25.0% | 12.8–26.0% |
+| [17–28 June 2021](2021-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 15.3% | 13.9–16.8% | 13.5–17.2% | 13.2–17.6% | 12.5–18.4% |
+| [9–18 June 2021](2021-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 22.8% | 21.1–24.6% | 20.7–25.1% | 20.2–25.5% | 19.5–26.4% |
 | [18–28 May 2021](2021-05-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 11.2% | 10.0–12.5% | 9.7–12.9% | 9.4–13.3% | 8.8–14.0% |
 | [11–21 May 2021](2021-05-21-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 16.9% | 15.4–18.5% | 15.0–19.0% | 14.6–19.4% | 14.0–20.1% |
 | [19–28 April 2021](2021-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8.2% | 7.1–9.4% | 6.9–9.7% | 6.6–10.0% | 6.2–10.6% |
@@ -65,22 +67,24 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 2% | 99.9% |  |
-| 9.5–10.5% | 10% | 98% |  |
-| 10.5–11.5% | 19% | 88% |  |
-| 11.5–12.5% | 14% | 69% |  |
-| 12.5–13.5% | 4% | 55% |  |
-| 13.5–14.5% | 2% | 51% | Median |
-| 14.5–15.5% | 5% | 49% |  |
-| 15.5–16.5% | 13% | 44% |  |
-| 16.5–17.5% | 16% | 31% | Last Result |
-| 17.5–18.5% | 11% | 15% |  |
-| 18.5–19.5% | 4% | 5% |  |
-| 19.5–20.5% | 0.7% | 0.8% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 3% | 99.7% |  |
+| 13.5–14.5% | 10% | 97% |  |
+| 14.5–15.5% | 17% | 87% |  |
+| 15.5–16.5% | 14% | 71% |  |
+| 16.5–17.5% | 6% | 57% | Last Result |
+| 17.5–18.5% | 1.3% | 51% |  |
+| 18.5–19.5% | 0.4% | 50% | Median |
+| 19.5–20.5% | 2% | 50% |  |
+| 20.5–21.5% | 6% | 48% |  |
+| 21.5–22.5% | 13% | 41% |  |
+| 22.5–23.5% | 14% | 29% |  |
+| 23.5–24.5% | 10% | 14% |  |
+| 24.5–25.5% | 4% | 5% |  |
+| 25.5–26.5% | 1.0% | 1.1% |  |
+| 26.5–27.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -91,7 +95,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [17–28 June 2021](2021-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [9–18 June 2021](2021-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [18–28 May 2021](2021-05-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1–2 | 1–2 |
 | [11–21 May 2021](2021-05-21-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 2 | 2 | 2 | 2 | 1–2 |
 | [19–28 April 2021](2021-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 1 |
@@ -148,9 +154,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 49% | 100% |  |
-| 2 | 51% | 51% | Last Result, Median |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 1 | 3% | 100% |  |
+| 2 | 51% | 97% | Last Result, Median |
+| 3 | 46% | 46% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 

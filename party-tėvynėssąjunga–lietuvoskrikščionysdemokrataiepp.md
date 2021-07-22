@@ -10,7 +10,9 @@ Last result: **17.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.1% | 22.3–26.0% | 21.8–26.5% | 21.3–27.0% | 20.5–27.9% |
+| N/A | [Poll Average](average.html) | 20.6% | 18.9–22.3% | 18.4–22.8% | 18.1–23.2% | 17.3–24.1% |
+| [17–28 June 2021](2021-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 20.8% | 19.3–22.6% | 18.8–23.0% | 18.4–23.5% | 17.7–24.3% |
+| [9–18 June 2021](2021-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 20.2% | 18.7–21.9% | 18.2–22.4% | 17.8–22.9% | 17.1–23.7% |
 | [18–28 May 2021](2021-05-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23.5% | 21.9–25.3% | 21.4–25.8% | 21.0–26.3% | 20.3–27.1% |
 | [11–21 May 2021](2021-05-21-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 24.5% | 22.8–26.4% | 22.4–26.9% | 21.9–27.3% | 21.1–28.2% |
 | [19–28 April 2021](2021-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23.7% | 22.0–25.4% | 21.5–26.0% | 21.1–26.4% | 20.4–27.3% |
@@ -65,20 +67,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 16.5–17.5% | 0% | 100% | Last Result |
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.5% | 100% |  |
-| 20.5–21.5% | 3% | 99.5% |  |
-| 21.5–22.5% | 11% | 96% |  |
-| 22.5–23.5% | 21% | 86% |  |
-| 23.5–24.5% | 27% | 64% | Median |
-| 24.5–25.5% | 21% | 37% |  |
-| 25.5–26.5% | 11% | 16% |  |
-| 26.5–27.5% | 4% | 5% |  |
-| 27.5–28.5% | 0.8% | 1.0% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.8% | 99.9% | Last Result |
+| 17.5–18.5% | 5% | 99.1% |  |
+| 18.5–19.5% | 16% | 94% |  |
+| 19.5–20.5% | 27% | 78% |  |
+| 20.5–21.5% | 28% | 51% | Median |
+| 21.5–22.5% | 16% | 23% |  |
+| 22.5–23.5% | 6% | 7% |  |
+| 23.5–24.5% | 1.2% | 1.4% |  |
+| 24.5–25.5% | 0.2% | 0.2% |  |
+| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -89,7 +88,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [17–28 June 2021](2021-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [9–18 June 2021](2021-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–28 May 2021](2021-05-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–21 May 2021](2021-05-21-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–28 April 2021](2021-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -146,9 +147,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 12% | 100% | Last Result |
-| 3 | 88% | 88% | Median |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 2 | 69% | 100% | Last Result, Median |
+| 3 | 31% | 31% |  |
+| 4 | 0% | 0% |  |
 
 
