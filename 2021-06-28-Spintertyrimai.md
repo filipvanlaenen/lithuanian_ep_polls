@@ -15,7 +15,7 @@
 | Lietuvos socialdemokratų partija (S&D) | 17.3% | 15.3% | 13.9–16.8% |13.5–17.2% |13.2–17.6% |12.5–18.4% |
 | Liberalų Sąjūdis (RE) | 16.6% | 11.0% | 9.8–12.3% |9.4–12.7% |9.2–13.1% |8.6–13.7% |
 | Laisvės partija (RE) | 0.0% | 8.5% | 7.4–9.7% |7.1–10.1% |6.9–10.4% |6.4–11.0% |
-| Darbo Partija (RE) | 12.4% | 6.3% | 5.4–7.4% |5.2–7.7% |4.9–8.0% |4.5–8.5% |
+| Darbo Partija (NI) | 12.4% | 6.3% | 5.4–7.4% |5.2–7.7% |4.9–8.0% |4.5–8.5% |
 | Lietuvos lenkų rinkimų akcija (ECR) | 8.0% | 2.8% | 2.2–3.6% |2.1–3.8% |1.9–4.0% |1.7–4.4% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -35,7 +35,7 @@
 | <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 2 | 2 | 2 |1–2 |1–2 |1–2 |
 | <a href="#liberalų-sąjūdis-(re)">Liberalų Sąjūdis (RE)</a> | 2 | 1 | 1 |1 |1 |1–2 |
 | <a href="#laisvės-partija-(re)">Laisvės partija (RE)</a> | 0 | 1 | 1 |1 |1 |1 |
-| <a href="#darbo-partija-(re)">Darbo Partija (RE)</a> | 1 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#darbo-partija-(ni)">Darbo Partija (NI)</a> | 1 | 1 | 1 |1 |0–1 |0–1 |
 | <a href="#lietuvos-lenkų-rinkimų-akcija-(ecr)">Lietuvos lenkų rinkimų akcija (ECR)</a> | 1 | 0 | 0 |0 |0 |0 |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
@@ -98,11 +98,11 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 100% | 100% | Median |
 
-### Darbo Partija (RE)
+### Darbo Partija (NI)
 
-*For a full overview of the results for this party, see the [Darbo Partija (RE)](party-darbopartijare.html) page.*
+*For a full overview of the results for this party, see the [Darbo Partija (NI)](party-darbopartijani.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-28-Spintertyrimai-seats-pmf-darbopartijare.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-28-Spintertyrimai-seats-pmf-darbopartijani.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -131,6 +131,7 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 2 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Darbo Partija (NI) | 1 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
 
@@ -141,6 +142,16 @@
 | 2 | 83% | 100% | Last Result, Median |
 | 3 | 17% | 17% |  |
 | 4 | 0% | 0% |  |
+
+### Darbo Partija (NI)
+
+![Graph with seats probability mass function not yet produced](2021-06-28-Spintertyrimai-coalitions-seats-pmf-dp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 4% | 100% |  |
+| 1 | 96% | 96% | Last Result, Median |
+| 2 | 0% | 0% |  |
 
 
 ## Technical Information
