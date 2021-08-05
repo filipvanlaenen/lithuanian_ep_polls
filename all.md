@@ -65,7 +65,7 @@ Only polls for which at least the sample size has been published are included in
 + **LSDP:** Lietuvos socialdemokratų partija (S&D)
 + **LRLS:** Liberalų Sąjūdis (RE)
 + **TT:** Partija tvarka ir teisingumas (*)
-+ **DP:** Darbo Partija (RE)
++ **DP:** Darbo Partija (NI)
 + **LLRA:** Lietuvos lenkų rinkimų akcija (ECR)
 + **LVŽS:** Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
 + **LŽP:** Lietuvos Žaliųjų Partija (Greens/EFA)
