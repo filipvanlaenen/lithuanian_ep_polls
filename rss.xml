@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 15 Aug 2021 16:53:45 +0200</pubDate>
+    <pubDate>Fri, 17 Sep 2021 18:28:27 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 24–31 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-08-31-Spintertyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 16.6–21.5%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 15.2–19.8%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 16.4–21.2%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 9.2–13.0%&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Lietuvos regionų partija (S&amp;amp;D): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 6.7–10.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-08-31-Spintertyrimai.png"
+        length="307630"
+        type="image/png"/>
+      <pubDate>Fri, 17 Sep 2021 18:28:27 +0200</pubDate>
+      <dc:date>2021-09-17T18:28:27.130904+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 29 July–5 August 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-08-05-Vilmorus.html#seats</link>
@@ -1509,6 +1519,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2021-08-15T16:53:45.509376+02:00</dc:date>
+    <dc:date>2021-09-17T18:28:27.130904+02:00</dc:date>
   </channel>
 </rss>
