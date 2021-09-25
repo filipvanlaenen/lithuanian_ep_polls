@@ -10,11 +10,14 @@ Last result: **16.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 7.6–11.8% | 7.2–12.3% | 6.9–12.7% | 6.4–13.4% |
+| N/A | [Poll Average](average.html) | 10.0% | 8.3–11.9% | 8.0–12.3% | 7.7–12.7% | 7.1–13.4% |
+| [9–16 September 2021](2021-09-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 10.1% | N/A | N/A | N/A | N/A |
 | [24–31 August 2021](2021-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 10.9% | 9.8–12.3% | 9.4–12.7% | 9.2–13.0% | 8.6–13.7% |
+| [20–31 August 2021](2021-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 6.9–11.6% |
 | [29 July–5 August 2021](2021-08-05-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.7–10.1% | 6.2–10.7% |
 | [17–28 June 2021](2021-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 11.0% | 9.8–12.3% | 9.4–12.7% | 9.2–13.1% | 8.6–13.7% |
 | [9–18 June 2021](2021-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 10.3% | 9.1–11.6% | 8.8–12.0% | 8.5–12.3% | 8.0–13.0% |
+| [20 May–2 June 2021](2021-06-02-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.5–15.9% |
 | [18–28 May 2021](2021-05-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.4–15.9% |
 | [11–21 May 2021](2021-05-21-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 10.2% | 9.1–11.6% | 8.7–11.9% | 8.5–12.3% | 8.0–13.0% |
 | [19–28 April 2021](2021-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.2% | 9.6–14.9% |
@@ -69,14 +72,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.9% | 100% |  |
-| 6.5–7.5% | 9% | 99.1% |  |
-| 7.5–8.5% | 22% | 90% |  |
-| 8.5–9.5% | 18% | 69% |  |
-| 9.5–10.5% | 17% | 51% | Median |
-| 10.5–11.5% | 20% | 34% |  |
-| 11.5–12.5% | 11% | 14% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 2% | 100% |  |
+| 7.5–8.5% | 12% | 98% |  |
+| 8.5–9.5% | 24% | 86% |  |
+| 9.5–10.5% | 25% | 62% | Median |
+| 10.5–11.5% | 22% | 37% |  |
+| 11.5–12.5% | 11% | 15% |  |
 | 12.5–13.5% | 3% | 3% |  |
 | 13.5–14.5% | 0.3% | 0.4% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -93,10 +95,13 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| [9–16 September 2021](2021-09-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
 | [24–31 August 2021](2021-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [20–31 August 2021](2021-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1 | 1 | 1 | 1 |
 | [29 July–5 August 2021](2021-08-05-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 1 | 1 | 1 | 1 |
 | [17–28 June 2021](2021-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 1–2 |
 | [9–18 June 2021](2021-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [20 May–2 June 2021](2021-06-02-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–28 May 2021](2021-05-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–21 May 2021](2021-05-21-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 1 | 1 | 1 | 1–2 |
 | [19–28 April 2021](2021-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1–2 | 1–2 | 1–2 |
