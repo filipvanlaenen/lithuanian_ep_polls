@@ -5,9 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | TS-LKD | LSDP | LRLS | TT | DP | LLRA | LVŽS | LŽP | LCP | LS | LRP | LP | LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 17.4% <br> 2 | 17.3% <br> 2 | 16.6% <br> 2 | 14.2% <br> 2 | 12.4% <br> 1 | 8.0% <br> 1 | 6.6% <br> 1 | 3.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 17–22% <br> 2–3 | 17–26% <br> 2–3 | 7–13% <br> 1–2 | N/A <br> N/A | 7–10% <br> 1 | 2–4% <br> 0 | 16–26% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 4–10% <br> 0–1 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 14–21% <br> 2 | 17–28% <br> 2–3 | 8–13% <br> 1–2 | N/A <br> N/A | 6–10% <br> 1 | 4–7% <br> 0–1 | 15–20% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0–1 | 4–10% <br> 0–1 | 7–10% <br> 1 |
+| [9–16 September 2021](2021-09-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–31 August 2021](2021-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 17–21% <br> 2 | 16–21% <br> 2–3 | 9–13% <br> 1–2 | N/A <br> N/A | 7–10% <br> 1 | N/A <br> N/A | 15–20% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 7–10% <br> 1 | N/A <br> N/A |
-| [29 July–5 August 2021](2021-08-05-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 17–22% <br> 2–3 | 21–26% <br> 2–3 | 7–10% <br> 1 | N/A <br> N/A | 7–11% <br> 1 | 2–4% <br> 0 | 21–26% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 3–6% <br> 0–1 | N/A <br> N/A |
+| [20–31 August 2021](2021-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 14–18% <br> 2 | 23–29% <br> 3–4 | 7–11% <br> 1 | N/A <br> N/A | 6–9% <br> 1 | 4–7% <br> 0–1 | 15–20% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 4–7% <br> 0–1 | 7–10% <br> 1 |
 | 26 May 2019 | General Election | 17.4% <br> 2 | 17.3% <br> 2 | 16.6% <br> 2 | 14.2% <br> 2 | 12.4% <br> 1 | 8.0% <br> 1 | 6.6% <br> 1 | 3.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
