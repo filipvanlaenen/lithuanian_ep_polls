@@ -10,8 +10,8 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.2% | 17.7–27.0% | 17.2–27.7% | 16.7–28.2% | 16.0–29.2% |
-| [9–16 September 2021](2021-09-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 29.6% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 25.9% | 18.0–30.4% | 17.4–31.1% | 17.0–31.7% | 16.1–32.8% |
+| [9–16 September 2021](2021-09-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 29.6% | 27.7–31.5% | 27.2–32.0% | 26.8–32.5% | 25.9–33.4% |
 | [24–31 August 2021](2021-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 18.6% | 17.1–20.3% | 16.7–20.8% | 16.4–21.2% | 15.7–22.0% |
 | [20–31 August 2021](2021-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 25.8% | 24.1–27.7% | 23.6–28.2% | 23.2–28.7% | 22.4–29.5% |
 | [29 July–5 August 2021](2021-08-05-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 23.7% | 22.1–25.5% | 21.6–26.0% | 21.2–26.5% | 20.4–27.4% |
@@ -73,23 +73,27 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 2% | 99.8% |  |
-| 16.5–17.5% | 7% | 98% | Last Result |
-| 17.5–18.5% | 14% | 91% |  |
-| 18.5–19.5% | 15% | 77% |  |
-| 19.5–20.5% | 9% | 62% |  |
-| 20.5–21.5% | 3% | 53% |  |
-| 21.5–22.5% | 0.8% | 51% | Median |
-| 22.5–23.5% | 2% | 50% |  |
-| 23.5–24.5% | 6% | 48% |  |
-| 24.5–25.5% | 12% | 42% |  |
-| 25.5–26.5% | 14% | 30% |  |
-| 26.5–27.5% | 10% | 16% |  |
-| 27.5–28.5% | 4% | 6% |  |
-| 28.5–29.5% | 1.2% | 1.4% |  |
-| 29.5–30.5% | 0.2% | 0.2% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 14.5–15.5% | 0.1% | 100% |  |
+| 15.5–16.5% | 1.1% | 99.9% |  |
+| 16.5–17.5% | 5% | 98.8% | Last Result |
+| 17.5–18.5% | 9% | 94% |  |
+| 18.5–19.5% | 10% | 85% |  |
+| 19.5–20.5% | 6% | 75% |  |
+| 20.5–21.5% | 2% | 69% |  |
+| 21.5–22.5% | 0.6% | 67% |  |
+| 22.5–23.5% | 1.2% | 66% |  |
+| 23.5–24.5% | 4% | 65% |  |
+| 24.5–25.5% | 8% | 61% |  |
+| 25.5–26.5% | 10% | 53% | Median |
+| 26.5–27.5% | 9% | 43% |  |
+| 27.5–28.5% | 8% | 34% |  |
+| 28.5–29.5% | 9% | 26% |  |
+| 29.5–30.5% | 9% | 17% |  |
+| 30.5–31.5% | 5% | 9% |  |
+| 31.5–32.5% | 2% | 3% |  |
+| 32.5–33.5% | 0.6% | 0.7% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -100,8 +104,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [9–16 September 2021](2021-09-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [9–16 September 2021](2021-09-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [24–31 August 2021](2021-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2 | 2–3 | 2–3 |
 | [20–31 August 2021](2021-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3 | 3 | 3 | 3–4 | 2–4 |
 | [29 July–5 August 2021](2021-08-05-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3 | 3 | 2–3 | 2–4 |
@@ -164,9 +168,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 49% | 100% | Last Result |
-| 3 | 50% | 51% | Median |
-| 4 | 2% | 2% |  |
+| 2 | 33% | 100% | Last Result |
+| 3 | 39% | 67% | Median |
+| 4 | 29% | 29% |  |
 | 5 | 0% | 0% |  |
 
 
