@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 26 Sep 2021 21:59:57 +0200</pubDate>
+    <pubDate>Fri, 01 Oct 2021 20:54:04 +0200</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 9–16 September 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-09-16-Vilmorus.html#seats</link>
@@ -190,14 +190,34 @@
       <dc:date>2021-08-05T12:55:01.95018+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 20 May–2 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-06-02-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-06-02-Baltijostyrimai-seats.png"
+        length="296445"
+        type="image/png"/>
+      <pubDate>Fri, 01 Oct 2021 20:54:04 +0200</pubDate>
+      <dc:date>2021-10-01T20:54:04.613676+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 20 May–2 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-06-02-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-06-02-Baltijostyrimai-coalitions-seats.png"
+        length="198546"
+        type="image/png"/>
+      <pubDate>Fri, 01 Oct 2021 20:54:04 +0200</pubDate>
+      <dc:date>2021-10-01T20:54:04.613676+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 20 May–2 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-06-02-Baltijostyrimai.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 15.1–19.7%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 19.6–24.7%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 17.8–22.7%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 11.0–15.2%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 10.0–14.0%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 4.2–7.0%&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 3.9–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2021-06-02-Baltijostyrimai.png"
         length="325476"
         type="image/png"/>
-      <pubDate>Fri, 24 Sep 2021 21:16:45 +0200</pubDate>
-      <dc:date>2021-09-24T21:16:45.999108+02:00</dc:date>
+      <pubDate>Fri, 01 Oct 2021 20:54:04 +0200</pubDate>
+      <dc:date>2021-10-01T20:54:04.613676+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–28 May 2021 – Seat Projections for the Parties</title>
@@ -1609,6 +1629,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42.722675+02:00</dc:date>
     </item>
-    <dc:date>2021-09-26T21:59:57.248976+02:00</dc:date>
+    <dc:date>2021-10-01T20:54:04.613676+02:00</dc:date>
   </channel>
 </rss>
