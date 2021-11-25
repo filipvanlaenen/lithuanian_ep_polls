@@ -10,7 +10,11 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 18.0–30.4% | 17.4–31.1% | 17.0–31.7% | 16.1–32.8% |
+| N/A | [Poll Average](average.html) | 26.5% | 20.6–29.7% | 19.9–30.5% | 19.4–31.0% | 18.5–32.1% |
+| [15 October–5 November 2021](2021-11-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 26.7% | 24.9–28.5% | 24.4–29.0% | 24.0–29.5% | 23.2–30.4% |
+| [15–22 October 2021](2021-10-22-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.3–32.7% |
+| [17 September–3 October 2021](2021-10-03-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 25.7% | N/A | N/A | N/A | N/A |
+| [17–26 September 2021](2021-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.1–24.7% |
 | [9–16 September 2021](2021-09-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 29.6% | 27.7–31.5% | 27.2–32.0% | 26.8–32.5% | 25.9–33.4% |
 | [24–31 August 2021](2021-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 18.6% | 17.1–20.3% | 16.7–20.8% | 16.4–21.2% | 15.7–22.0% |
 | [20–31 August 2021](2021-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 25.8% | 24.1–27.7% | 23.6–28.2% | 23.2–28.7% | 22.4–29.5% |
@@ -72,28 +76,24 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 1.1% | 99.9% |  |
-| 16.5–17.5% | 5% | 98.8% | Last Result |
-| 17.5–18.5% | 9% | 94% |  |
-| 18.5–19.5% | 10% | 85% |  |
-| 19.5–20.5% | 6% | 75% |  |
-| 20.5–21.5% | 2% | 69% |  |
-| 21.5–22.5% | 0.6% | 67% |  |
-| 22.5–23.5% | 1.2% | 66% |  |
-| 23.5–24.5% | 4% | 65% |  |
-| 24.5–25.5% | 8% | 61% |  |
-| 25.5–26.5% | 10% | 53% | Median |
-| 26.5–27.5% | 9% | 43% |  |
-| 27.5–28.5% | 8% | 34% |  |
-| 28.5–29.5% | 9% | 26% |  |
-| 29.5–30.5% | 9% | 17% |  |
-| 30.5–31.5% | 5% | 9% |  |
-| 31.5–32.5% | 2% | 3% |  |
-| 32.5–33.5% | 0.6% | 0.7% |  |
-| 33.5–34.5% | 0.1% | 0.1% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% | Last Result |
+| 17.5–18.5% | 0.5% | 100% |  |
+| 18.5–19.5% | 2% | 99.5% |  |
+| 19.5–20.5% | 7% | 97% |  |
+| 20.5–21.5% | 10% | 90% |  |
+| 21.5–22.5% | 8% | 80% |  |
+| 22.5–23.5% | 4% | 72% |  |
+| 23.5–24.5% | 3% | 68% |  |
+| 24.5–25.5% | 5% | 65% |  |
+| 25.5–26.5% | 10% | 60% |  |
+| 26.5–27.5% | 13% | 50% | Median |
+| 27.5–28.5% | 13% | 37% |  |
+| 28.5–29.5% | 12% | 23% |  |
+| 29.5–30.5% | 7% | 12% |  |
+| 30.5–31.5% | 3% | 5% |  |
+| 31.5–32.5% | 1.0% | 1.2% |  |
+| 32.5–33.5% | 0.2% | 0.2% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -105,6 +105,10 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [15 October–5 November 2021](2021-11-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [15–22 October 2021](2021-10-22-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [17 September–3 October 2021](2021-10-03-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
+| [17–26 September 2021](2021-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–16 September 2021](2021-09-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [24–31 August 2021](2021-08-31-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2 | 2 | 2–3 |
 | [20–31 August 2021](2021-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -168,9 +172,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 33% | 100% | Last Result |
-| 3 | 38% | 67% | Median |
-| 4 | 29% | 29% |  |
+| 2 | 26% | 100% | Last Result |
+| 3 | 53% | 74% | Median |
+| 4 | 21% | 21% |  |
 | 5 | 0% | 0% |  |
 
 
