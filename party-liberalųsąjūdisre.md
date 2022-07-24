@@ -10,15 +10,15 @@ Last result: **16.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.2–9.6% | 5.8–10.2% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.6–9.2% | 6.3–9.6% | 6.0–9.9% | 5.6–10.6% |
 | [18–28 June 2022](2022-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [9–18 June 2022](2022-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
-| [16–28 May 2022](2022-05-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 8.5% | N/A | N/A | N/A | N/A |
+| [16–28 May 2022](2022-05-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 8.5% | 7.5–9.8% | 7.2–10.1% | 7.0–10.4% | 6.5–11.0% |
 | [18–27 May 2022](2022-05-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8.1% | N/A | N/A | N/A | N/A |
 | [12–18 May 2022](2022-05-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 8.7% | N/A | N/A | N/A | N/A |
 | [20–28 April 2022](2022-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 9.3% | N/A | N/A | N/A | N/A |
 | [13–28 April 2022](2022-04-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 9.5% | N/A | N/A | N/A | N/A |
-| [15–22 April 2022](2022-04-22-Norstat.html) | Norstat <br> Delfi | 7.1% | N/A | N/A | N/A | N/A |
+| [15–22 April 2022](2022-04-22-Norstat.html) | Norstat <br> Delfi | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [17–25 March 2022](2022-03-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 8.9% | N/A | N/A | N/A | N/A |
 | [10–24 March 2022](2022-03-24-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 10.7% | N/A | N/A | N/A | N/A |
 | [10–19 March 2022](2022-03-19-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 8.2% | N/A | N/A | N/A | N/A |
@@ -98,13 +98,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.2% | 100% |  |
-| 5.5–6.5% | 6% | 99.8% |  |
-| 6.5–7.5% | 31% | 94% |  |
-| 7.5–8.5% | 42% | 63% | Median |
-| 8.5–9.5% | 18% | 21% |  |
-| 9.5–10.5% | 3% | 3% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 0.5% | 100% |  |
+| 5.5–6.5% | 8% | 99.5% |  |
+| 6.5–7.5% | 29% | 91% |  |
+| 7.5–8.5% | 37% | 62% | Median |
+| 8.5–9.5% | 20% | 25% |  |
+| 9.5–10.5% | 5% | 5% |  |
+| 10.5–11.5% | 0.5% | 0.5% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -124,12 +124,12 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
 | [18–28 June 2022](2022-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 1 |
 | [9–18 June 2022](2022-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 1 | 1 | 1 | 1 |
-| [16–28 May 2022](2022-05-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
+| [16–28 May 2022](2022-05-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1 | 1 | 1 | 1 |
 | [18–27 May 2022](2022-05-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [12–18 May 2022](2022-05-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
 | [20–28 April 2022](2022-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [13–28 April 2022](2022-04-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
-| [15–22 April 2022](2022-04-22-Norstat.html) | Norstat <br> Delfi |  |  |  |  |  |
+| [15–22 April 2022](2022-04-22-Norstat.html) | Norstat <br> Delfi | 1 | 1 | 1 | 1 | 1 |
 | [17–25 March 2022](2022-03-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [10–24 March 2022](2022-03-24-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
 | [10–19 March 2022](2022-03-19-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
