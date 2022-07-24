@@ -2,14 +2,15 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | TS-LKD | LSDP | LRLS | TT | DP | LLRA | LVŽS | LŽP | LCP | LS | LRP | LP | LT |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 17.4% <br> 2 | 17.3% <br> 2 | 16.6% <br> 2 | 14.2% <br> 2 | 12.4% <br> 1 | 8.0% <br> 1 | 6.6% <br> 1 | 3.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 14–21% <br> 2–3 | 18–29% <br> 2–4 | 8–14% <br> 1–2 | N/A <br> N/A | 7–11% <br> 1 | 2–5% <br> 0 | 12–19% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–6% <br> 0–1 | 2–6% <br> 0–1 | 4–12% <br> 0–2 |
-| [16 November–2 December 2021](2021-12-02-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 13–18% <br> 2 | 21–27% <br> 3 | 10–14% <br> 1–2 | N/A <br> N/A | 7–11% <br> 1 | 3–5% <br> 0–1 | 13–17% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 3–6% <br> 0–1 | 9–13% <br> 1–2 |
-| [11–28 November 2021](2021-11-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 14–19% <br> 2 | 17–22% <br> 2–3 | 7–11% <br> 1 | N/A <br> N/A | 7–11% <br> 1 | N/A <br> N/A | 11–16% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | 4–7% <br> 0–1 |
-| [18–27 November 2021](2021-11-27-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 17–22% <br> 2–3 | 25–30% <br> 3–4 | 8–11% <br> 1 | N/A <br> N/A | 7–11% <br> 1 | 2–4% <br> 0 | 15–20% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 4–6% <br> 0–1 | N/A <br> N/A |
-| 26 May 2019 | General Election | 17.4% <br> 2 | 17.3% <br> 2 | 16.6% <br> 2 | 14.2% <br> 2 | 12.4% <br> 1 | 8.0% <br> 1 | 6.6% <br> 1 | 3.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | TS-LKD | LSDP | LRLS | TT | DP | LLRA | LVŽS | LŽP | LCP | LS | LRP | LP | LT | DSVL |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 17.4% <br> 2 | 17.3% <br> 2 | 16.6% <br> 2 | 14.2% <br> 2 | 12.4% <br> 1 | 8.0% <br> 1 | 6.6% <br> 1 | 3.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 16–22% <br> 2–3 | 14–25% <br> 2–3 | 6–10% <br> 1 | N/A <br> N/A | 3–6% <br> 0–1 | 1–2% <br> 0 | 8–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 6–10% <br> 1 | 13–19% <br> 2 |
+| [18–28 June 2022](2022-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 17–22% <br> 2–3 | 14–19% <br> 2 | 6–10% <br> 1 | N/A <br> N/A | 3–6% <br> 0–1 | N/A <br> N/A | 8–11% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | 6–9% <br> 1 | 15–19% <br> 2 |
+| [9–18 June 2022](2022-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 16–21% <br> 2–3 | 20–25% <br> 3 | 6–9% <br> 1 | N/A <br> N/A | 4–6% <br> 0–1 | 1–2% <br> 0 | 10–14% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 7–10% <br> 1 | 13–17% <br> 2 |
+| [16–28 May 2022](2022-05-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–22 April 2022](2022-04-22-Norstat.html) | Norstat <br> Delfi | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 26 May 2019 | General Election | 17.4% <br> 2 | 17.3% <br> 2 | 16.6% <br> 2 | 14.2% <br> 2 | 12.4% <br> 1 | 8.0% <br> 1 | 6.6% <br> 1 | 3.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -29,6 +30,7 @@ Only polls for which at least the sample size has been published are included in
 + **LRP:** Lietuvos regionų partija (S&D)
 + **LP:** Laisvės partija (RE)
 + **LT:** Partija „Laisvė ir teisingumas“ (RE)
++ **DSVL:** Demokratų sąjunga „Vardan Lietuvos“ (S&D)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
