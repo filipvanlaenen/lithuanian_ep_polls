@@ -10,7 +10,9 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 15.4–22.9% | 15.0–23.7% | 14.6–24.3% | 13.9–25.4% |
+| N/A | [Poll Average](average.html) | 17.2% | 14.3–21.6% | 13.7–22.2% | 13.3–22.8% | 12.5–23.7% |
+| [18–28 July 2022](2022-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 14.8% | 13.5–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
+| [15–23 July 2022](2022-07-23-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 20.8% | 19.3–22.6% | 18.8–23.0% | 18.4–23.5% | 17.7–24.3% |
 | [18–28 June 2022](2022-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 16.4% | 14.9–17.9% | 14.5–18.4% | 14.2–18.8% | 13.5–19.5% |
 | [9–18 June 2022](2022-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 22.5% | 20.9–24.3% | 20.4–24.8% | 20.0–25.2% | 19.3–26.1% |
 | [16–28 May 2022](2022-05-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 17.1% | 15.7–18.7% | 15.3–19.2% | 15.0–19.6% | 14.3–20.4% |
@@ -97,23 +99,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 2% | 99.8% |  |
-| 14.5–15.5% | 10% | 98% |  |
-| 15.5–16.5% | 21% | 88% |  |
-| 16.5–17.5% | 23% | 67% | Last Result, Median |
-| 17.5–18.5% | 14% | 44% |  |
-| 18.5–19.5% | 5% | 31% |  |
-| 19.5–20.5% | 2% | 26% |  |
-| 20.5–21.5% | 4% | 24% |  |
-| 21.5–22.5% | 7% | 20% |  |
-| 22.5–23.5% | 7% | 13% |  |
-| 23.5–24.5% | 4% | 6% |  |
-| 24.5–25.5% | 1.4% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.4% |  |
-| 26.5–27.5% | 0% | 0% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.5% | 100% |  |
+| 12.5–13.5% | 3% | 99.5% |  |
+| 13.5–14.5% | 10% | 96% |  |
+| 14.5–15.5% | 13% | 87% |  |
+| 15.5–16.5% | 14% | 73% |  |
+| 16.5–17.5% | 13% | 59% | Last Result, Median |
+| 17.5–18.5% | 10% | 46% |  |
+| 18.5–19.5% | 7% | 37% |  |
+| 19.5–20.5% | 9% | 29% |  |
+| 20.5–21.5% | 10% | 20% |  |
+| 21.5–22.5% | 7% | 10% |  |
+| 22.5–23.5% | 3% | 3% |  |
+| 23.5–24.5% | 0.6% | 0.7% |  |
+| 24.5–25.5% | 0.1% | 0.1% |  |
+| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -124,7 +125,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [18–28 July 2022](2022-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–23 July 2022](2022-07-23-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–28 June 2022](2022-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2 | 2 | 1–2 |
 | [9–18 June 2022](2022-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [16–28 May 2022](2022-05-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2 | 2 | 2 | 2 | 2–3 |
@@ -213,10 +216,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.3% | 100% |  |
-| 2 | 76% | 99.7% | Last Result, Median |
+| 1 | 13% | 100% |  |
+| 2 | 62% | 87% | Last Result, Median |
 | 3 | 24% | 24% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 4 | 0% | 0% |  |
 
 
