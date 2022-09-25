@@ -10,8 +10,10 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.2% | 14.3–21.6% | 13.7–22.2% | 13.3–22.8% | 12.5–23.7% |
+| N/A | [Poll Average](average.html) | 19.5% | 12.2–21.9% | 11.7–22.4% | 11.3–22.9% | 10.6–23.8% |
+| [25 August–2 September 2022](2022-09-02-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 12.7% | 11.5–14.2% | 11.1–14.6% | 10.8–14.9% | 10.2–15.7% |
 | [18–28 July 2022](2022-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 14.8% | 13.5–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
+| [12–28 July 2022](2022-07-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 20.0% | 18.4–21.7% | 18.0–22.1% | 17.6–22.6% | 16.9–23.4% |
 | [15–23 July 2022](2022-07-23-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 20.8% | 19.3–22.6% | 18.8–23.0% | 18.4–23.5% | 17.7–24.3% |
 | [18–28 June 2022](2022-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 16.4% | 14.9–17.9% | 14.5–18.4% | 14.2–18.8% | 13.5–19.5% |
 | [9–18 June 2022](2022-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 22.5% | 20.9–24.3% | 20.4–24.8% | 20.0–25.2% | 19.3–26.1% |
@@ -19,7 +21,7 @@ Last result: **17.3%** (General Election of 26 May 2019)
 | [18–27 May 2022](2022-05-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 18.7% | N/A | N/A | N/A | N/A |
 | [12–18 May 2022](2022-05-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 25.8% | N/A | N/A | N/A | N/A |
 | [20–28 April 2022](2022-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 13.9% | N/A | N/A | N/A | N/A |
-| [13–28 April 2022](2022-04-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 19.0% | N/A | N/A | N/A | N/A |
+| [13–27 April 2022](2022-04-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 19.0% | N/A | N/A | N/A | N/A |
 | [15–22 April 2022](2022-04-22-Norstat.html) | Norstat <br> Delfi | 16.6% | 15.2–18.2% | 14.8–18.6% | 14.4–19.0% | 13.8–19.8% |
 | [17–25 March 2022](2022-03-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 15.1% | N/A | N/A | N/A | N/A |
 | [10–24 March 2022](2022-03-24-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 18.0% | N/A | N/A | N/A | N/A |
@@ -31,10 +33,12 @@ Last result: **17.3%** (General Election of 26 May 2019)
 | [17–29 January 2022](2022-01-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 14.8% | N/A | N/A | N/A | N/A |
 | [13–25 December 2021](2021-12-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 17.0% | N/A | N/A | N/A | N/A |
 | [10–18 December 2021](2021-12-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 32.0% | N/A | N/A | N/A | N/A |
+| [10–18 December 2021](2021-12-18-Norstat.html) | Norstat <br> Delfi | 17.8% | N/A | N/A | N/A | N/A |
 | [16 November–2 December 2021](2021-12-02-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 23.8% | 22.1–25.6% | 21.7–26.1% | 21.3–26.5% | 20.5–27.4% |
 | [11–28 November 2021](2021-11-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 19.4% | 17.9–21.1% | 17.5–21.6% | 17.1–22.0% | 16.4–22.8% |
 | [18–27 November 2021](2021-11-27-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 27.3% | 25.5–29.2% | 25.0–29.7% | 24.6–30.1% | 23.8–31.1% |
 | [15 October–5 November 2021](2021-11-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 26.7% | 24.9–28.5% | 24.4–29.0% | 24.0–29.5% | 23.2–30.4% |
+| [18–28 October 2021](2021-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 19.5% | N/A | N/A | N/A | N/A |
 | [15–22 October 2021](2021-10-22-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.3–32.7% |
 | [17 September–3 October 2021](2021-10-03-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 25.7% | N/A | N/A | N/A | N/A |
 | [17–26 September 2021](2021-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.1–24.7% |
@@ -99,20 +103,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.5% | 100% |  |
-| 12.5–13.5% | 3% | 99.5% |  |
-| 13.5–14.5% | 10% | 96% |  |
-| 14.5–15.5% | 13% | 87% |  |
-| 15.5–16.5% | 14% | 73% |  |
-| 16.5–17.5% | 13% | 59% | Last Result, Median |
-| 17.5–18.5% | 10% | 46% |  |
-| 18.5–19.5% | 7% | 37% |  |
-| 19.5–20.5% | 9% | 29% |  |
-| 20.5–21.5% | 10% | 20% |  |
-| 21.5–22.5% | 7% | 10% |  |
-| 22.5–23.5% | 3% | 3% |  |
-| 23.5–24.5% | 0.6% | 0.7% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.4% | 100% |  |
+| 10.5–11.5% | 3% | 99.6% |  |
+| 11.5–12.5% | 10% | 96% |  |
+| 12.5–13.5% | 12% | 86% |  |
+| 13.5–14.5% | 6% | 74% |  |
+| 14.5–15.5% | 1.5% | 68% |  |
+| 15.5–16.5% | 0.3% | 67% |  |
+| 16.5–17.5% | 0.7% | 67% | Last Result |
+| 17.5–18.5% | 4% | 66% |  |
+| 18.5–19.5% | 12% | 62% |  |
+| 19.5–20.5% | 19% | 50% | Median |
+| 20.5–21.5% | 18% | 31% |  |
+| 21.5–22.5% | 10% | 14% |  |
+| 22.5–23.5% | 3% | 4% |  |
+| 23.5–24.5% | 0.7% | 0.8% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
@@ -126,7 +132,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [25 August–2 September 2022](2022-09-02-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–28 July 2022](2022-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–28 July 2022](2022-07-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–23 July 2022](2022-07-23-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–28 June 2022](2022-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2 | 2 | 1–2 |
 | [9–18 June 2022](2022-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -134,7 +142,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [18–27 May 2022](2022-05-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [12–18 May 2022](2022-05-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
 | [20–28 April 2022](2022-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
-| [13–28 April 2022](2022-04-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
+| [13–27 April 2022](2022-04-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
 | [15–22 April 2022](2022-04-22-Norstat.html) | Norstat <br> Delfi | 2 | 2 | 2 | 2 | 2 |
 | [17–25 March 2022](2022-03-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [10–24 March 2022](2022-03-24-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
@@ -146,10 +154,12 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [17–29 January 2022](2022-01-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [13–25 December 2021](2021-12-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [10–18 December 2021](2021-12-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
+| [10–18 December 2021](2021-12-18-Norstat.html) | Norstat <br> Delfi |  |  |  |  |  |
 | [16 November–2 December 2021](2021-12-02-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3 | 3 | 3 | 3 | 2–4 |
 | [11–28 November 2021](2021-11-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–27 November 2021](2021-11-27-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15 October–5 November 2021](2021-11-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [18–28 October 2021](2021-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [15–22 October 2021](2021-10-22-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [17 September–3 October 2021](2021-10-03-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
 | [17–26 September 2021](2021-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -216,9 +226,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 13% | 100% |  |
-| 2 | 62% | 87% | Last Result, Median |
-| 3 | 24% | 24% |  |
+| 1 | 28% | 100% |  |
+| 2 | 40% | 72% | Last Result, Median |
+| 3 | 32% | 32% |  |
 | 4 | 0% | 0% |  |
 
 
