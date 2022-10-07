@@ -10,8 +10,8 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.3% | 11.9–21.1% | 11.5–21.7% | 11.1–22.1% | 10.5–23.0% |
-| [15–24 September 2022](2022-09-24-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 22.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 19.9% | 12.2–23.2% | 11.7–23.8% | 11.3–24.4% | 10.6–25.4% |
+| [15–24 September 2022](2022-09-24-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.2–26.0% |
 | [25 August–2 September 2022](2022-09-02-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 12.7% | 11.5–14.2% | 11.1–14.6% | 10.8–14.9% | 10.2–15.7% |
 | [18–28 July 2022](2022-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 14.8% | 13.5–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
 | [12–28 July 2022](2022-07-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 20.0% | 18.4–21.7% | 18.0–22.1% | 17.6–22.6% | 16.9–23.4% |
@@ -105,22 +105,24 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.6% | 100% |  |
-| 10.5–11.5% | 5% | 99.4% |  |
-| 11.5–12.5% | 15% | 94% |  |
-| 12.5–13.5% | 18% | 79% |  |
-| 13.5–14.5% | 9% | 62% |  |
-| 14.5–15.5% | 2% | 53% |  |
-| 15.5–16.5% | 0.4% | 50% | Median |
-| 16.5–17.5% | 0.9% | 50% | Last Result |
-| 17.5–18.5% | 5% | 49% |  |
-| 18.5–19.5% | 12% | 44% |  |
-| 19.5–20.5% | 15% | 32% |  |
-| 20.5–21.5% | 11% | 17% |  |
-| 21.5–22.5% | 5% | 6% |  |
-| 22.5–23.5% | 1.1% | 1.2% |  |
-| 23.5–24.5% | 0.2% | 0.2% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 9.5–10.5% | 0.4% | 100% |  |
+| 10.5–11.5% | 3% | 99.6% |  |
+| 11.5–12.5% | 10% | 96% |  |
+| 12.5–13.5% | 12% | 86% |  |
+| 13.5–14.5% | 6% | 74% |  |
+| 14.5–15.5% | 1.5% | 68% |  |
+| 15.5–16.5% | 0.3% | 67% |  |
+| 16.5–17.5% | 0.6% | 67% | Last Result |
+| 17.5–18.5% | 3% | 66% |  |
+| 18.5–19.5% | 8% | 63% |  |
+| 19.5–20.5% | 12% | 54% | Median |
+| 20.5–21.5% | 13% | 42% |  |
+| 21.5–22.5% | 13% | 29% |  |
+| 22.5–23.5% | 9% | 16% |  |
+| 23.5–24.5% | 5% | 7% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.3% | 0.4% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -132,7 +134,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [15–24 September 2022](2022-09-24-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
+| [15–24 September 2022](2022-09-24-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25 August–2 September 2022](2022-09-02-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–28 July 2022](2022-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–28 July 2022](2022-07-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -227,9 +229,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 41% | 100% |  |
-| 2 | 46% | 59% | Last Result, Median |
-| 3 | 13% | 13% |  |
+| 1 | 28% | 100% |  |
+| 2 | 36% | 72% | Last Result, Median |
+| 3 | 37% | 37% |  |
 | 4 | 0% | 0% |  |
 
 
