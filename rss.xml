@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 07 Oct 2022 23:23:51 +0200</pubDate>
+    <pubDate>Fri, 25 Nov 2022 23:21:20 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai, 26 October–8 November 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2022-11-08-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos regionų partija (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 1 seats&lt;/li&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2022-11-08-Baltijostyrimai-seats.png"
+        length="245367"
+        type="image/png"/>
+      <pubDate>Fri, 25 Nov 2022 23:21:20 +0100</pubDate>
+      <dc:date>2022-11-25T23:21:20.609039+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai, 26 October–8 November 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2022-11-08-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2022-11-08-Baltijostyrimai-coalitions-seats.png"
+        length="134438"
+        type="image/png"/>
+      <pubDate>Fri, 25 Nov 2022 23:21:20 +0100</pubDate>
+      <dc:date>2022-11-25T23:21:20.609039+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai, 26 October–8 November 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2022-11-08-Baltijostyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 13.6–18.0%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 10.5–14.5%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 15.5–20.2%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Lietuvos regionų partija (S&amp;amp;D): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (S&amp;amp;D): 14.0–18.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2022-11-08-Baltijostyrimai.png"
+        length="399280"
+        type="image/png"/>
+      <pubDate>Fri, 25 Nov 2022 23:21:20 +0100</pubDate>
+      <dc:date>2022-11-25T23:21:20.609039+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos rytas, 15–24 September 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2022-09-24-Vilmorus.html#seats</link>
@@ -2049,6 +2079,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42+02:00</dc:date>
     </item>
-    <dc:date>2022-10-07T23:23:51.387852+02:00</dc:date>
+    <dc:date>2022-11-25T23:21:20.609039+01:00</dc:date>
   </channel>
 </rss>
