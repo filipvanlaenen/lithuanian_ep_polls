@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.6% | 11.8–17.6% | 11.3–18.2% | 10.9–18.7% | 10.2–19.6% |
+| N/A | [Poll Average](average.html) | 16.1% | 14.7–17.6% | 14.3–18.1% | 14.0–18.4% | 13.3–19.2% |
+| [26 October–8 November 2022](2022-11-08-Baltijostyrimai.html) | Baltijos tyrimai | 16.1% | 14.7–17.6% | 14.3–18.1% | 14.0–18.5% | 13.3–19.2% |
+| [18–28 October 2022](2022-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 11.2% | N/A | N/A | N/A | N/A |
+| [11–16 October 2022](2022-10-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 11.4% | N/A | N/A | N/A | N/A |
+| [20–30 September 2022](2022-09-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 10.1% | N/A | N/A | N/A | N/A |
 | [15–24 September 2022](2022-09-24-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
 | [25 August–2 September 2022](2022-09-02-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 14.5% | 13.2–16.0% | 12.8–16.5% | 12.5–16.8% | 11.8–17.6% |
 | [18–28 July 2022](2022-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
@@ -113,20 +117,19 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 1.1% | 99.9% |  |
-| 10.5–11.5% | 6% | 98.8% |  |
-| 11.5–12.5% | 13% | 93% |  |
-| 12.5–13.5% | 15% | 80% |  |
-| 13.5–14.5% | 15% | 65% |  |
-| 14.5–15.5% | 14% | 50% | Median |
-| 15.5–16.5% | 13% | 36% |  |
-| 16.5–17.5% | 12% | 23% |  |
-| 17.5–18.5% | 8% | 11% |  |
-| 18.5–19.5% | 3% | 3% |  |
-| 19.5–20.5% | 0.5% | 0.6% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.9% | 100% |  |
+| 13.5–14.5% | 7% | 99.1% |  |
+| 14.5–15.5% | 23% | 92% |  |
+| 15.5–16.5% | 34% | 70% | Median |
+| 16.5–17.5% | 24% | 36% |  |
+| 17.5–18.5% | 9% | 11% |  |
+| 18.5–19.5% | 2% | 2% |  |
+| 19.5–20.5% | 0.2% | 0.2% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -137,7 +140,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
+| [26 October–8 November 2022](2022-11-08-Baltijostyrimai.html) | Baltijos tyrimai | 2 | 2 | 2 | 2 | 2 |
+| [18–28 October 2022](2022-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
+| [11–16 October 2022](2022-10-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas |  |  |  |  |  |
+| [20–30 September 2022](2022-09-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [15–24 September 2022](2022-09-24-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25 August–2 September 2022](2022-09-02-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–28 July 2022](2022-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -234,8 +241,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 30% | 100% |  |
-| 2 | 70% | 70% | Median |
+| 1 | 0.1% | 100% |  |
+| 2 | 99.8% | 99.9% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
