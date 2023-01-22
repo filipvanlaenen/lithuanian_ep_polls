@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.8% | 2.2–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [15–24 December 2022](2022-12-24-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
 | [8–15 December 2022](2022-12-15-Vilmorus.html) | Vilmorus | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [18–29 November 2022](2022-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
 | [10–19 November 2022](2022-11-19-Vilmorus.html) | Vilmorus | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
@@ -129,6 +130,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–24 December 2022](2022-12-24-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [8–15 December 2022](2022-12-15-Vilmorus.html) | Vilmorus | 0 | 0 | 0 | 0 | 0 |
 | [18–29 November 2022](2022-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [10–19 November 2022](2022-11-19-Vilmorus.html) | Vilmorus | 0 | 0 | 0 | 0 | 0–1 |

@@ -10,7 +10,8 @@ Last result: **12.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.1–6.7% | 2.9–7.1% | 2.7–7.4% | 2.4–8.0% |
+| N/A | [Poll Average](average.html) | 4.5% | 2.6–6.7% | 2.4–7.1% | 2.2–7.4% | 1.9–8.0% |
+| [15–24 December 2022](2022-12-24-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [8–15 December 2022](2022-12-15-Vilmorus.html) | Vilmorus | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [18–29 November 2022](2022-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3.6% | 2.9–4.4% | 2.7–4.7% | 2.6–4.9% | 2.3–5.3% |
 | [10–19 November 2022](2022-11-19-Vilmorus.html) | Vilmorus | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
@@ -112,10 +113,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.0% | 100% |  |
-| 2.5–3.5% | 22% | 99.0% |  |
-| 3.5–4.5% | 25% | 77% |  |
-| 4.5–5.5% | 15% | 53% | Median |
+| 1.5–2.5% | 8% | 100% |  |
+| 2.5–3.5% | 33% | 92% |  |
+| 3.5–4.5% | 9% | 59% | Median |
+| 4.5–5.5% | 12% | 50% |  |
 | 5.5–6.5% | 25% | 38% |  |
 | 6.5–7.5% | 11% | 13% |  |
 | 7.5–8.5% | 2% | 2% |  |
@@ -134,6 +135,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–24 December 2022](2022-12-24-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0 | 0 | 0 | 0 |
 | [8–15 December 2022](2022-12-15-Vilmorus.html) | Vilmorus | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [18–29 November 2022](2022-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0 | 0 | 0 | 0–1 |
 | [10–19 November 2022](2022-11-19-Vilmorus.html) | Vilmorus | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

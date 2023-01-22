@@ -10,7 +10,8 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.9% | 16.0–26.2% | 15.4–26.8% | 15.1–27.3% | 14.3–28.3% |
+| N/A | [Poll Average](average.html) | 21.4% | 16.9–26.2% | 16.4–26.8% | 15.9–27.3% | 15.2–28.3% |
+| [15–24 December 2022](2022-12-24-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 17.8% | 16.4–19.4% | 15.9–19.9% | 15.6–20.3% | 14.9–21.1% |
 | [8–15 December 2022](2022-12-15-Vilmorus.html) | Vilmorus | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
 | [18–29 November 2022](2022-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 16.9% | 15.4–18.5% | 15.0–18.9% | 14.7–19.3% | 14.0–20.1% |
 | [10–19 November 2022](2022-11-19-Vilmorus.html) | Vilmorus | 24.3% | 22.6–26.1% | 22.1–26.6% | 21.7–27.1% | 21.0–27.9% |
@@ -111,16 +112,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 0.8% | 99.9% |  |
-| 14.5–15.5% | 5% | 99.1% |  |
-| 15.5–16.5% | 13% | 94% |  |
-| 16.5–17.5% | 16% | 81% | Last Result |
-| 17.5–18.5% | 11% | 65% |  |
-| 18.5–19.5% | 4% | 54% |  |
-| 19.5–20.5% | 0.7% | 51% |  |
-| 20.5–21.5% | 0.3% | 50% | Median |
-| 21.5–22.5% | 1.4% | 50% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.1% | 100% |  |
+| 14.5–15.5% | 1.1% | 99.9% |  |
+| 15.5–16.5% | 6% | 98.9% |  |
+| 16.5–17.5% | 13% | 93% | Last Result |
+| 17.5–18.5% | 16% | 80% |  |
+| 18.5–19.5% | 10% | 64% |  |
+| 19.5–20.5% | 3% | 54% |  |
+| 20.5–21.5% | 0.9% | 51% | Median |
+| 21.5–22.5% | 1.5% | 50% |  |
 | 22.5–23.5% | 5% | 48% |  |
 | 23.5–24.5% | 11% | 43% |  |
 | 24.5–25.5% | 14% | 32% |  |
@@ -140,6 +141,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [15–24 December 2022](2022-12-24-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [8–15 December 2022](2022-12-15-Vilmorus.html) | Vilmorus | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [18–29 November 2022](2022-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2 | 2 | 2–3 |
 | [10–19 November 2022](2022-11-19-Vilmorus.html) | Vilmorus | 3 | 3 | 3 | 3–4 | 3–4 |
@@ -242,8 +244,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 50% | 100% | Last Result |
-| 3 | 46% | 50% | Median |
+| 2 | 47% | 100% | Last Result |
+| 3 | 49% | 53% | Median |
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
