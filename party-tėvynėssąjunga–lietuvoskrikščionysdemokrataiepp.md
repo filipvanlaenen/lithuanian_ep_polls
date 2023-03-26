@@ -10,7 +10,8 @@ Last result: **17.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.2% | 14.7–17.8% | 14.3–18.3% | 13.9–18.7% | 13.3–19.5% |
+| N/A | [Poll Average](average.html) | 15.8% | 13.6–17.7% | 13.1–18.2% | 12.7–18.7% | 11.9–19.5% |
+| [15–28 February 2023](2023-02-28-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 14.2% | 12.8–15.7% | 12.5–16.1% | 12.1–16.5% | 11.5–17.2% |
 | [18–27 February 2023](2023-02-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.5–19.1% | 13.9–19.9% |
 | [9–18 February 2023](2023-02-18-Vilmorus.html) | Vilmorus | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
 | [19–31 January 2023](2023-01-31-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 15.7% | 14.4–17.3% | 14.0–17.7% | 13.6–18.1% | 13.0–18.9% |
@@ -65,7 +66,7 @@ Last result: **17.4%** (General Election of 26 May 2019)
 | [17–28 June 2021](2021-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 20.8% | 19.3–22.6% | 18.8–23.0% | 18.4–23.5% | 17.7–24.3% |
 | [9–18 June 2021](2021-06-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 20.2% | 18.7–21.9% | 18.2–22.4% | 17.8–22.9% | 17.1–23.7% |
 | [20 May–2 June 2021](2021-06-02-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 17.3% | N/A | N/A | N/A | N/A |
-| [18–28 May 2021](2021-05-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23.5% | 21.9–25.3% | 21.4–25.8% | 21.0–26.3% | 20.3–27.1% |
+| [18–28 May 2021](2021-05-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23.6% | 21.9–25.3% | 21.4–25.8% | 21.0–26.3% | 20.3–27.1% |
 | [11–21 May 2021](2021-05-21-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 24.5% | 22.8–26.4% | 22.4–26.9% | 21.9–27.3% | 21.1–28.2% |
 | [19–28 April 2021](2021-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23.7% | 22.0–25.4% | 21.5–26.0% | 21.1–26.4% | 20.4–27.3% |
 | [8–17 April 2021](2021-04-17-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 29.2% | 27.3–31.1% | 26.8–31.6% | 26.4–32.1% | 25.5–33.0% |
@@ -79,7 +80,7 @@ Last result: **17.4%** (General Election of 26 May 2019)
 | [4–12 September 2020](2020-09-12-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 20.8% | 19.2–22.5% | 18.7–22.9% | 18.3–23.4% | 17.6–24.2% |
 | [26 August–4 September 2020](2020-09-04-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 21.7% | 20.1–23.5% | 19.7–24.0% | 19.3–24.4% | 18.5–25.2% |
 | [22 August–4 September 2020](2020-09-04-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 19.2% | 17.7–20.8% | 17.2–21.3% | 16.9–21.7% | 16.2–22.5% |
-| [29 July–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> LRT | 32.8% | 30.9–34.8% | 30.4–35.3% | 29.9–35.8% | 29.1–36.7% |
+| [29 July–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> LRT | 32.7% | 30.9–34.8% | 30.4–35.3% | 29.9–35.8% | 29.1–36.7% |
 | [16–30 July 2020](2020-07-30-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 19.2% | 17.7–20.9% | 17.2–21.4% | 16.9–21.8% | 16.2–22.6% |
 | [16–26 July 2020](2020-07-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.6–26.4% |
 | [10–18 July 2020](2020-07-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.5% | 23.6–27.1% | 23.1–27.6% | 22.7–28.0% | 21.9–28.9% |
@@ -90,19 +91,19 @@ Last result: **17.4%** (General Election of 26 May 2019)
 | [17–30 March 2020](2020-03-30-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 30.1% | 28.3–32.0% | 27.8–32.6% | 27.4–33.0% | 26.5–34.0% |
 | [6–13 March 2020](2020-03-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 29.0% | 27.1–30.9% | 26.6–31.4% | 26.2–31.9% | 25.3–32.8% |
 | [13–26 February 2020](2020-02-26-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 24.3% | 22.6–26.0% | 22.1–26.6% | 21.7–27.0% | 21.0–27.9% |
-| [18–25 February 2020](2020-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 27.7% | 25.9–29.5% | 25.4–30.1% | 25.0–30.5% | 24.2–31.4% |
-| [7–13 February 2020](2020-02-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 29.3% | 27.5–31.3% | 27.0–31.8% | 26.6–32.3% | 25.7–33.2% |
+| [18–25 February 2020](2020-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 27.6% | 25.9–29.5% | 25.4–30.1% | 25.0–30.5% | 24.2–31.4% |
+| [7–13 February 2020](2020-02-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 29.4% | 27.5–31.3% | 27.0–31.8% | 26.6–32.3% | 25.7–33.2% |
 | [20–28 January 2020](2020-01-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.7% | 25.0–28.5% | 24.5–29.1% | 24.1–29.5% | 23.3–30.4% |
 | [10–18 January 2020](2020-01-18-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 28.1% | 26.3–29.9% | 25.8–30.5% | 25.3–30.9% | 24.5–31.8% |
 | [10–21 December 2019](2019-12-21-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 23.8% | 22.2–25.6% | 21.7–26.1% | 21.3–26.5% | 20.5–27.4% |
 | [29 November–7 December 2019](2019-12-07-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.1% | 24.3–27.9% | 23.8–28.4% | 23.4–28.9% | 22.6–29.8% |
 | [19–29 November 2019](2019-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 27.5% | 25.8–29.4% | 25.3–29.9% | 24.9–30.4% | 24.0–31.3% |
 | [14–27 November 2019](2019-11-27-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.1% | 22.8–30.0% |
-| [8–16 November 2019](2019-11-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.9% | 25.1–28.7% | 24.6–29.2% | 24.2–29.7% | 23.4–30.6% |
+| [8–16 November 2019](2019-11-16-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.8% | 25.1–28.7% | 24.6–29.2% | 24.2–29.7% | 23.4–30.6% |
 | [15–29 October 2019](2019-10-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 24.2% | 22.5–26.0% | 22.1–26.5% | 21.6–27.0% | 20.9–27.8% |
 | [17–28 October 2019](2019-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.0% | 24.3–27.8% | 23.8–28.3% | 23.4–28.8% | 22.6–29.7% |
 | [4–13 October 2019](2019-10-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.7% | 25.0–28.6% | 24.5–29.2% | 24.1–29.6% | 23.2–30.5% |
-| [21 September–5 October 2019](2019-10-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 26.5% | 24.8–28.4% | 24.3–28.9% | 23.9–29.4% | 23.1–30.3% |
+| [21 September–5 October 2019](2019-10-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 26.6% | 24.8–28.4% | 24.3–28.9% | 23.9–29.4% | 23.1–30.3% |
 | [18–27 September 2019](2019-09-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.2% | 24.5–28.0% | 24.0–28.5% | 23.6–29.0% | 22.8–29.9% |
 | [6–14 September 2019](2019-09-14-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 23.2% | 21.6–25.0% | 21.1–25.5% | 20.7–26.0% | 19.9–26.8% |
 | [26 August–8 September 2019](2019-09-08-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.7–22.6% | 17.0–23.4% |
@@ -111,7 +112,7 @@ Last result: **17.4%** (General Election of 26 May 2019)
 | [5–13 July 2019](2019-07-13-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 25.6% | 23.9–27.5% | 23.4–28.0% | 23.0–28.5% | 22.2–29.4% |
 | [14–28 June 2019](2019-06-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 22.1% | 20.5–23.9% | 20.1–24.4% | 19.7–24.8% | 18.9–25.6% |
 | [18–27 June 2019](2019-06-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 26.9% | 25.2–28.8% | 24.7–29.3% | 24.3–29.8% | 23.5–30.6% |
-| [7–15 June 2019](2019-06-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.2% | 24.4–28.0% | 23.9–28.6% | 23.5–29.0% | 22.7–29.9% |
+| [7–15 June 2019](2019-06-15-Vilmorus.html) | Vilmorus <br> Lietuvos rytas | 26.1% | 24.4–28.0% | 23.9–28.6% | 23.5–29.0% | 22.7–29.9% |
 | [27 May–9 June 2019](2019-06-09-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 22.4% | 20.8–24.2% | 20.4–24.7% | 20.0–25.1% | 19.2–26.0% |
 
 ### Probability Mass Function
@@ -120,15 +121,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 1.0% | 99.9% |  |
-| 13.5–14.5% | 7% | 98.9% |  |
-| 14.5–15.5% | 21% | 92% |  |
-| 15.5–16.5% | 32% | 71% | Median |
-| 16.5–17.5% | 25% | 39% | Last Result |
-| 17.5–18.5% | 11% | 15% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.2% | 100% |  |
+| 11.5–12.5% | 2% | 99.8% |  |
+| 12.5–13.5% | 8% | 98% |  |
+| 13.5–14.5% | 15% | 91% |  |
+| 14.5–15.5% | 20% | 76% |  |
+| 15.5–16.5% | 24% | 56% | Median |
+| 16.5–17.5% | 19% | 32% | Last Result |
+| 17.5–18.5% | 9% | 12% |  |
 | 18.5–19.5% | 3% | 3% |  |
-| 19.5–20.5% | 0.4% | 0.5% |  |
+| 19.5–20.5% | 0.4% | 0.4% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -140,7 +143,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 1–3 |
+| [15–28 February 2023](2023-02-28-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 2 | 2 | 2 | 2 | 1–2 |
 | [18–27 February 2023](2023-02-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2 | 2 | 1–2 |
 | [9–18 February 2023](2023-02-18-Vilmorus.html) | Vilmorus | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [19–31 January 2023](2023-01-31-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 2 | 2 | 2 | 2 | 2–3 |
@@ -252,8 +256,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.4% | 100% |  |
-| 2 | 96% | 99.6% | Last Result, Median |
+| 1 | 0.6% | 100% |  |
+| 2 | 96% | 99.4% | Last Result, Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
