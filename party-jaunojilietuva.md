@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
+| [17–27 March 2023](2023-03-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
+| [9–18 March 2023](2023-03-18-Vilmorus.html) | Vilmorus | 0.0% | N/A | N/A | N/A | N/A |
 | [15–28 February 2023](2023-02-28-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [18–27 February 2023](2023-02-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
 | [9–18 February 2023](2023-02-18-Vilmorus.html) | Vilmorus | 0.0% | N/A | N/A | N/A | N/A |
@@ -136,6 +138,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–27 March 2023](2023-03-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
+| [9–18 March 2023](2023-03-18-Vilmorus.html) | Vilmorus |  |  |  |  |  |
 | [15–28 February 2023](2023-02-28-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 0 | 0 | 0 | 0 | 0 |
 | [18–27 February 2023](2023-02-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [9–18 February 2023](2023-02-18-Vilmorus.html) | Vilmorus |  |  |  |  |  |
