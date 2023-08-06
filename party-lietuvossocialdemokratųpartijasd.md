@@ -10,7 +10,8 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.0% | 17.3–24.6% | 16.7–25.3% | 16.2–25.9% | 15.3–27.0% |
+| N/A | [Poll Average](average.html) | 23.4% | 17.8–32.1% | 17.1–33.1% | 16.5–33.9% | 15.5–35.3% |
+| [17–19 July 2023](2023-07-19-Vilmorus.html) | Vilmorus | 31.1% | 28.8–33.6% | 28.2–34.3% | 27.6–34.9% | 26.5–36.1% |
 | [14–29 June 2023](2023-06-29-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 23.3% | 21.5–25.3% | 20.9–25.9% | 20.5–26.4% | 19.6–27.4% |
 | [19–28 June 2023](2023-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 18.5% | 16.7–20.5% | 16.2–21.1% | 15.8–21.6% | 15.0–22.6% |
 | [12–29 May 2023](2023-05-29-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 23.2% | 21.6–25.0% | 21.1–25.5% | 20.7–25.9% | 19.9–26.8% |
@@ -131,23 +132,31 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.1% | 100% |  |
-| 14.5–15.5% | 0.7% | 99.9% |  |
-| 15.5–16.5% | 3% | 99.2% |  |
-| 16.5–17.5% | 8% | 96% | Last Result |
-| 17.5–18.5% | 13% | 88% |  |
-| 18.5–19.5% | 13% | 75% |  |
-| 19.5–20.5% | 9% | 62% |  |
-| 20.5–21.5% | 8% | 53% | Median |
-| 21.5–22.5% | 10% | 46% |  |
-| 22.5–23.5% | 13% | 35% |  |
-| 23.5–24.5% | 12% | 22% |  |
-| 24.5–25.5% | 7% | 11% |  |
-| 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 0.8% | 0.9% |  |
-| 27.5–28.5% | 0.1% | 0.2% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 14.5–15.5% | 0.5% | 99.9% |  |
+| 15.5–16.5% | 2% | 99.5% |  |
+| 16.5–17.5% | 5% | 97% | Last Result |
+| 17.5–18.5% | 9% | 92% |  |
+| 18.5–19.5% | 8% | 83% |  |
+| 19.5–20.5% | 6% | 75% |  |
+| 20.5–21.5% | 5% | 69% |  |
+| 21.5–22.5% | 7% | 64% |  |
+| 22.5–23.5% | 9% | 57% | Median |
+| 23.5–24.5% | 8% | 48% |  |
+| 24.5–25.5% | 5% | 40% |  |
+| 25.5–26.5% | 2% | 36% |  |
+| 26.5–27.5% | 1.1% | 34% |  |
+| 27.5–28.5% | 2% | 33% |  |
+| 28.5–29.5% | 4% | 31% |  |
+| 29.5–30.5% | 6% | 27% |  |
+| 30.5–31.5% | 7% | 21% |  |
+| 31.5–32.5% | 6% | 14% |  |
+| 32.5–33.5% | 4% | 8% |  |
+| 33.5–34.5% | 2% | 3% |  |
+| 34.5–35.5% | 0.9% | 1.2% |  |
+| 35.5–36.5% | 0.3% | 0.4% |  |
+| 36.5–37.5% | 0.1% | 0.1% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -158,7 +167,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [17–19 July 2023](2023-07-19-Vilmorus.html) | Vilmorus | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [14–29 June 2023](2023-06-29-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [19–28 June 2023](2023-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [12–29 May 2023](2023-05-29-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 3 | 3 | 3 | 3 | 2–3 |
@@ -281,9 +291,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 47% | 100% | Last Result |
-| 3 | 49% | 53% | Median |
-| 4 | 4% | 4% |  |
-| 5 | 0% | 0% |  |
+| 2 | 31% | 100% | Last Result |
+| 3 | 35% | 69% | Median |
+| 4 | 32% | 33% |  |
+| 5 | 1.3% | 1.3% |  |
+| 6 | 0% | 0% | Majority |
 
 
