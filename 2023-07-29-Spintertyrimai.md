@@ -12,7 +12,7 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Lietuvos socialdemokratų partija (S&D) | 17.3% | 19.6% | 17.8–21.7% |17.3–22.3% |16.8–22.8% |16.0–23.8% |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 17.4% | 17.4% | 15.7–19.4% |15.2–20.0% |14.8–20.5% |14.0–21.4% |
-| Demokratų sąjunga „Vardan Lietuvos“ (S&D) | 0.0% | 12.4% | 10.9–14.2% |10.5–14.7% |10.2–15.1% |9.5–16.0% |
+| Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA) | 0.0% | 12.4% | 10.9–14.2% |10.5–14.7% |10.2–15.1% |9.5–16.0% |
 | Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | 6.6% | 12.2% | 10.7–13.9% |10.3–14.4% |9.9–14.8% |9.2–15.7% |
 | Liberalų Sąjūdis (RE) | 16.6% | 10.8% | 9.4–12.5% |9.1–13.0% |8.7–13.4% |8.1–14.2% |
 | Laisvės partija (RE) | 0.0% | 4.2% | 3.4–5.4% |3.2–5.7% |3.0–6.0% |2.6–6.6% |
@@ -34,7 +34,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 2 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai-(epp)">Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)</a> | 2 | 2 | 2 |2–3 |2–3 |2–3 |
-| <a href="#demokratų-sąjunga-„vardan-lietuvos“-(s&d)">Demokratų sąjunga „Vardan Lietuvos“ (S&D)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#demokratų-sąjunga-„vardan-lietuvos“-(greens/efa)">Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(greens/efa)">Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)</a> | 1 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#liberalų-sąjūdis-(re)">Liberalų Sąjūdis (RE)</a> | 2 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#laisvės-partija-(re)">Laisvės partija (RE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
@@ -66,11 +66,11 @@
 | 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
-### Demokratų sąjunga „Vardan Lietuvos“ (S&D)
+### Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Demokratų sąjunga „Vardan Lietuvos“ (S&D)](party-demokratųsąjunga„vardanlietuvos“sd.html) page.*
+*For a full overview of the results for this party, see the [Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)](party-demokratųsąjunga„vardanlietuvos“greensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-07-29-Spintertyrimai-seats-pmf-demokratųsąjunga„vardanlietuvos“sd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-07-29-Spintertyrimai-seats-pmf-demokratųsąjunga„vardanlietuvos“greensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
