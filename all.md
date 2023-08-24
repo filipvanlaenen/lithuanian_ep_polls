@@ -140,7 +140,7 @@ Only polls for which at least the sample size has been published are included in
 + **LRP:** Lietuvos regionų partija (S&D)
 + **LP:** Laisvės partija (RE)
 + **LT:** Partija „Laisvė ir teisingumas“ (RE)
-+ **DSVL:** Demokratų sąjunga „Vardan Lietuvos“ (S&D)
++ **DSVL:** Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)
 + **JL:** Jaunoji Lietuva (*)
 + **KS:** Krikščionių sąjunga (*)
 + **NS:** Nacionalinis Susivienijimas (*)
