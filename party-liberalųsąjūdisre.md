@@ -160,7 +160,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [20–29 July 2023](2023-07-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [17–19 July 2023](2023-07-19-Vilmorus.html) | Vilmorus | 1 | 1 | 1 | 0–1 | 0–1 |
+| [17–19 July 2023](2023-07-19-Vilmorus.html) | Vilmorus | 1 | 1 | 1 | 1 | 0–1 |
 | [14–29 June 2023](2023-06-29-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 1 | 1 | 1 | 1–2 | 1–2 |
 | [19–28 June 2023](2023-06-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–29 May 2023](2023-05-29-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -283,8 +283,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 87% | 98% | Median |
+| 0 | 0.9% | 100% |  |
+| 1 | 88% | 99.1% | Median |
 | 2 | 11% | 11% | Last Result |
 | 3 | 0% | 0% |  |
 
