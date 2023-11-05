@@ -10,7 +10,8 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.3% | 20.9–32.2% | 20.3–33.2% | 19.9–34.0% | 19.0–35.5% |
+| N/A | [Poll Average](average.html) | 25.5% | 21.7–30.6% | 21.2–31.5% | 20.7–32.1% | 19.9–33.4% |
+| [12–21 October 2023](2023-10-21-Vilmorus.html) | Vilmorus | 29.0% | 26.8–31.5% | 26.1–32.1% | 25.6–32.7% | 24.5–33.9% |
 | [18–26 September 2023](2023-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.6–26.4% |
 | [14–23 September 2023](2023-09-23-Vilmorus.html) | Vilmorus | 31.2% | 28.9–33.7% | 28.2–34.4% | 27.6–35.0% | 26.5–36.3% |
 | [24 August–5 September 2023](2023-09-05-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 21.8% | 20.1–23.5% | 19.7–24.0% | 19.3–24.4% | 18.6–25.2% |
@@ -137,27 +138,25 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 16.5–17.5% | 0% | 100% | Last Result |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 1.3% | 99.8% |  |
-| 19.5–20.5% | 5% | 98.6% |  |
-| 20.5–21.5% | 13% | 93% |  |
-| 21.5–22.5% | 18% | 80% |  |
-| 22.5–23.5% | 16% | 62% | Median |
-| 23.5–24.5% | 9% | 46% |  |
-| 24.5–25.5% | 3% | 37% |  |
-| 25.5–26.5% | 0.9% | 34% |  |
-| 26.5–27.5% | 0.7% | 33% |  |
-| 27.5–28.5% | 2% | 33% |  |
-| 28.5–29.5% | 4% | 31% |  |
-| 29.5–30.5% | 6% | 27% |  |
-| 30.5–31.5% | 7% | 22% |  |
-| 31.5–32.5% | 6% | 15% |  |
-| 32.5–33.5% | 4% | 8% |  |
-| 33.5–34.5% | 2% | 4% |  |
-| 34.5–35.5% | 1.0% | 1.4% |  |
-| 35.5–36.5% | 0.3% | 0.4% |  |
-| 36.5–37.5% | 0.1% | 0.1% |  |
-| 37.5–38.5% | 0% | 0% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.2% | 100% |  |
+| 19.5–20.5% | 2% | 99.8% |  |
+| 20.5–21.5% | 6% | 98% |  |
+| 21.5–22.5% | 13% | 92% |  |
+| 22.5–23.5% | 14% | 79% |  |
+| 23.5–24.5% | 10% | 65% |  |
+| 24.5–25.5% | 5% | 55% |  |
+| 25.5–26.5% | 4% | 50% | Median |
+| 26.5–27.5% | 6% | 46% |  |
+| 27.5–28.5% | 9% | 40% |  |
+| 28.5–29.5% | 11% | 31% |  |
+| 29.5–30.5% | 9% | 20% |  |
+| 30.5–31.5% | 6% | 11% |  |
+| 31.5–32.5% | 3% | 5% |  |
+| 32.5–33.5% | 1.1% | 2% |  |
+| 33.5–34.5% | 0.3% | 0.4% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -168,7 +167,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [12–21 October 2023](2023-10-21-Vilmorus.html) | Vilmorus | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [18–26 September 2023](2023-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–23 September 2023](2023-09-23-Vilmorus.html) | Vilmorus | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [24 August–5 September 2023](2023-09-05-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -296,10 +296,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 9% | 100% | Last Result |
-| 3 | 59% | 91% | Median |
-| 4 | 27% | 33% |  |
-| 5 | 6% | 6% |  |
+| 2 | 10% | 100% | Last Result |
+| 3 | 44% | 90% | Median |
+| 4 | 45% | 46% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% | Majority |
 
 
