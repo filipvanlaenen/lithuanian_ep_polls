@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Oct 2023 21:18:04 +0200</pubDate>
+    <pubDate>Sun, 05 Nov 2023 18:07:45 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Vilmorus, 12–21 October 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2023-10-21-Vilmorus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Laisvės partija (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos regionų partija (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (*): 0 seats&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2023-10-21-Vilmorus-seats.png"
+        length="374767"
+        type="image/png"/>
+      <pubDate>Sun, 05 Nov 2023 18:07:45 +0100</pubDate>
+      <dc:date>2023-11-05T18:07:45.915999+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus, 12–21 October 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2023-10-21-Vilmorus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2023-10-21-Vilmorus-coalitions-seats.png"
+        length="204122"
+        type="image/png"/>
+      <pubDate>Sun, 05 Nov 2023 18:07:45 +0100</pubDate>
+      <dc:date>2023-11-05T18:07:45.915999+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus, 12–21 October 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2023-10-21-Vilmorus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Laisvės partija (RE): 2.6–5.7%&lt;/li&gt;&lt;li&gt;Lietuvos regionų partija (S&amp;amp;D): 2.6–5.7%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA): 9.5–14.6%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 5.7–9.9%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 25.6–32.7%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 1.6–4.2%&lt;/li&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 9.8–14.9%&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (*): 0.8–2.7%&lt;/li&gt;&lt;li&gt;Centro partija „Gerovės Lietuva“ (ECR): 3.0–6.3%&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 2.2–5.1%&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 3.3–6.6%&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 12.4–18.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2023-10-21-Vilmorus.png"
+        length="434294"
+        type="image/png"/>
+      <pubDate>Sun, 05 Nov 2023 18:07:45 +0100</pubDate>
+      <dc:date>2023-11-05T18:07:45.915999+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–26 September 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2023-09-26-Spintertyrimai.html#seats</link>
@@ -2829,6 +2859,6 @@
       <pubDate>Mon, 22 Jul 2019 21:40:42 +0200</pubDate>
       <dc:date>2019-07-22T21:40:42+02:00</dc:date>
     </item>
-    <dc:date>2023-10-20T21:18:04.172389+02:00</dc:date>
+    <dc:date>2023-11-05T18:07:45.915999+01:00</dc:date>
   </channel>
 </rss>
