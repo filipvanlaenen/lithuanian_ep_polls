@@ -10,7 +10,8 @@ Last result: **6.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.9% | 9.5–14.8% | 9.1–15.4% | 8.7–15.8% | 8.1–16.7% |
+| N/A | [Poll Average](average.html) | 12.2% | 9.5–14.8% | 9.1–15.4% | 8.7–15.8% | 8.1–16.7% |
+| [9–19 November 2023](2023-11-19-Vilmorus.html) | Vilmorus | 12.2% | 10.7–14.0% | 10.2–14.5% | 9.9–15.0% | 9.2–15.9% |
 | [23 October–7 November 2023](2023-11-07-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [17–28 October 2023](2023-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [12–21 October 2023](2023-10-21-Vilmorus.html) | Vilmorus | 11.8% | 10.3–13.6% | 9.8–14.1% | 9.5–14.6% | 8.8–15.5% |
@@ -142,14 +143,14 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.1% | 100% | Last Result |
 | 7.5–8.5% | 2% | 99.9% |  |
 | 8.5–9.5% | 9% | 98% |  |
-| 9.5–10.5% | 17% | 89% |  |
-| 10.5–11.5% | 17% | 72% |  |
-| 11.5–12.5% | 14% | 55% | Median |
-| 12.5–13.5% | 14% | 41% |  |
-| 13.5–14.5% | 14% | 27% |  |
-| 14.5–15.5% | 9% | 13% |  |
+| 9.5–10.5% | 16% | 90% |  |
+| 10.5–11.5% | 15% | 74% |  |
+| 11.5–12.5% | 14% | 59% | Median |
+| 12.5–13.5% | 16% | 45% |  |
+| 13.5–14.5% | 16% | 29% |  |
+| 14.5–15.5% | 10% | 14% |  |
 | 15.5–16.5% | 3% | 4% |  |
-| 16.5–17.5% | 0.6% | 0.6% |  |
+| 16.5–17.5% | 0.6% | 0.7% |  |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
@@ -163,6 +164,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9–19 November 2023](2023-11-19-Vilmorus.html) | Vilmorus | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 October–7 November 2023](2023-11-07-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 2 | 2 | 2 | 2 | 1–2 |
 | [17–28 October 2023](2023-10-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 1–2 |
 | [12–21 October 2023](2023-10-21-Vilmorus.html) | Vilmorus | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -293,8 +295,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 43% | 100% | Last Result |
-| 2 | 57% | 57% | Median |
+| 1 | 41% | 100% | Last Result |
+| 2 | 59% | 59% | Median |
 | 3 | 0% | 0% |  |
 
 
