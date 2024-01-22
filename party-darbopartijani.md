@@ -10,7 +10,8 @@ Last result: **12.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 2.9–7.6% | 2.6–8.0% | 2.4–8.3% | 2.0–9.0% |
+| N/A | [Poll Average](average.html) | 5.9% | 2.9–7.7% | 2.6–8.1% | 2.4–8.4% | 2.0–9.1% |
+| [15–30 December 2023](2023-12-30-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 7.1% | 6.1–8.2% | 5.9–8.6% | 5.7–8.8% | 5.2–9.4% |
 | [15–23 December 2023](2023-12-23-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3.2% | 2.5–4.3% | 2.3–4.5% | 2.1–4.8% | 1.8–5.4% |
 | [22 November–2 December 2023](2023-12-02-Vilmorus.html) | Vilmorus | 5.9% | 4.9–7.3% | 4.6–7.8% | 4.3–8.1% | 3.9–8.8% |
 | [17–29 November 2023](2023-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
@@ -149,10 +150,10 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 18% | 96% |  |
 | 3.5–4.5% | 12% | 79% |  |
 | 4.5–5.5% | 11% | 67% |  |
-| 5.5–6.5% | 22% | 56% | Median |
-| 6.5–7.5% | 23% | 34% |  |
-| 7.5–8.5% | 10% | 11% |  |
-| 8.5–9.5% | 1.5% | 2% |  |
+| 5.5–6.5% | 20% | 56% | Median |
+| 6.5–7.5% | 23% | 36% |  |
+| 7.5–8.5% | 11% | 13% |  |
+| 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% | Last Result |
@@ -167,6 +168,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–30 December 2023](2023-12-30-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 1 | 1 | 1 | 1 | 1 |
 | [15–23 December 2023](2023-12-23-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0 | 0 | 0 | 0–1 |
 | [22 November–2 December 2023](2023-12-02-Vilmorus.html) | Vilmorus | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–29 November 2023](2023-11-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
