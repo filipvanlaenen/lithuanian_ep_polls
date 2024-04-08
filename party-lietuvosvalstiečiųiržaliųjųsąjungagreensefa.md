@@ -10,7 +10,9 @@ Last result: **6.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 6.6–15.1% | 6.2–15.6% | 5.9–16.1% | 5.4–17.0% |
+| N/A | [Poll Average](average.html) | 11.3% | 6.6–15.6% | 6.2–16.3% | 5.9–16.9% | 5.4–18.0% |
+| [15–23 March 2024](2024-03-23-Vilmorus.html) | Vilmorus | 14.8% | 13.2–16.7% | 12.7–17.2% | 12.3–17.7% | 11.6–18.6% |
+| [22 February–5 March 2024](2024-03-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 11.3% | 10.0–12.9% | 9.6–13.3% | 9.3–13.7% | 8.7–14.5% |
 | [18–25 February 2024](2024-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [8–17 February 2024](2024-02-17-Vilmorus.html) | Vilmorus | 13.6% | 11.9–15.4% | 11.5–16.0% | 11.1–16.4% | 10.4–17.4% |
 | [19–29 January 2024](2024-01-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 13.7% | 12.2–15.4% | 11.8–15.9% | 11.5–16.3% | 10.8–17.1% |
@@ -154,17 +156,18 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 8% | 99.2% |  |
 | 6.5–7.5% | 15% | 91% | Last Result |
 | 7.5–8.5% | 8% | 76% |  |
-| 8.5–9.5% | 1.2% | 68% |  |
-| 9.5–10.5% | 0.4% | 67% |  |
-| 10.5–11.5% | 2% | 66% |  |
-| 11.5–12.5% | 9% | 64% |  |
-| 12.5–13.5% | 18% | 55% | Median |
-| 13.5–14.5% | 19% | 36% |  |
-| 14.5–15.5% | 12% | 17% |  |
-| 15.5–16.5% | 4% | 6% |  |
-| 16.5–17.5% | 1.0% | 1.2% |  |
-| 17.5–18.5% | 0.2% | 0.2% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 8.5–9.5% | 3% | 68% |  |
+| 9.5–10.5% | 6% | 65% |  |
+| 10.5–11.5% | 11% | 59% | Median |
+| 11.5–12.5% | 10% | 48% |  |
+| 12.5–13.5% | 8% | 37% |  |
+| 13.5–14.5% | 9% | 29% |  |
+| 14.5–15.5% | 9% | 20% |  |
+| 15.5–16.5% | 7% | 10% |  |
+| 16.5–17.5% | 3% | 4% |  |
+| 17.5–18.5% | 0.9% | 1.0% |  |
+| 18.5–19.5% | 0.2% | 0.2% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -176,6 +179,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–23 March 2024](2024-03-23-Vilmorus.html) | Vilmorus | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22 February–5 March 2024](2024-03-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–25 February 2024](2024-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 0–1 |
 | [8–17 February 2024](2024-02-17-Vilmorus.html) | Vilmorus | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–29 January 2024](2024-01-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -317,8 +322,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% |  |
-| 1 | 53% | 99.6% | Last Result, Median |
-| 2 | 47% | 47% |  |
+| 1 | 59% | 99.6% | Last Result, Median |
+| 2 | 41% | 41% |  |
 | 3 | 0% | 0% |  |
 
 
