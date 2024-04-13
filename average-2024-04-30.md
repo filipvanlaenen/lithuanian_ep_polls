@@ -404,8 +404,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% |  |
-| 1 | 59% | 99.6% | Last Result, Median |
-| 2 | 41% | 41% |  |
+| 1 | 61% | 99.6% | Last Result, Median |
+| 2 | 39% | 39% |  |
 | 3 | 0% | 0% |  |
 
 ### Lietuvos Žaliųjų Partija (Greens/EFA)
@@ -434,8 +434,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result |
-| 1 | 50% | 50% | Median |
+| 0 | 47% | 100% | Last Result |
+| 1 | 53% | 53% | Median |
 | 2 | 0% | 0% |  |
 
 ### Laisvės partija (RE)
@@ -471,8 +471,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 9% | 100% | Last Result |
-| 1 | 33% | 91% |  |
-| 2 | 58% | 58% | Median |
+| 1 | 32% | 91% |  |
+| 2 | 59% | 59% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -532,8 +532,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 3% | 100% |  |
 | 2 | 32% | 97% | Last Result |
 | 3 | 18% | 66% |  |
-| 4 | 41% | 47% | Median |
-| 5 | 6% | 6% |  |
+| 4 | 40% | 47% | Median |
+| 5 | 7% | 7% |  |
 | 6 | 0% | 0% | Majority |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) – Lietuvos Žaliųjų Partija (Greens/EFA) – Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)
@@ -544,8 +544,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 9% | 100% | Last Result |
 | 2 | 26% | 91% |  |
-| 3 | 31% | 65% | Median |
-| 4 | 34% | 34% |  |
+| 3 | 32% | 65% | Median |
+| 4 | 33% | 33% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% | Majority |
 
@@ -605,5 +605,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 3
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
-+ **Error estimate:** 1.89%
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 1.69%

@@ -178,7 +178,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–23 March 2024](2024-03-23-Vilmorus.html) | Vilmorus | 1 | 1 | 1 | 1 | 1–2 |
+| [15–23 March 2024](2024-03-23-Vilmorus.html) | Vilmorus | 1 | 1 | 1 | 1 | 1 |
 | [22 February–5 March 2024](2024-03-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–25 February 2024](2024-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–17 February 2024](2024-02-17-Vilmorus.html) | Vilmorus | 1 | 1 | 1 | 0–1 | 0–1 |
