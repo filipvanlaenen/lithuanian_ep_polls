@@ -172,7 +172,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [15–23 March 2024](2024-03-23-Vilmorus.html) | Vilmorus | 0 | 0 | 0 | 0 | 0 |
-| [22 February–5 March 2024](2024-03-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0–1 |
+| [22 February–5 March 2024](2024-03-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0–1 | 0–1 |
 | [18–25 February 2024](2024-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [8–17 February 2024](2024-02-17-Vilmorus.html) | Vilmorus | 0 | 0 | 0 | 0 | 0 |
 | [19–29 January 2024](2024-01-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
@@ -313,8 +313,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Median |
-| 1 | 0.6% | 0.6% | Last Result |
+| 0 | 98% | 100% | Median |
+| 1 | 2% | 2% | Last Result |
 | 2 | 0% | 0% |  |
 
 
