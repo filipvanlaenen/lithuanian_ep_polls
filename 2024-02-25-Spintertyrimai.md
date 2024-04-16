@@ -48,8 +48,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% |  |
-| 2 | 92% | 92% | Last Result, Median |
+| 1 | 7% | 100% |  |
+| 2 | 93% | 93% | Last Result, Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -85,8 +85,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% |  |
-| 1 | 85% | 85% | Median |
+| 0 | 14% | 100% |  |
+| 1 | 86% | 86% | Median |
 | 2 | 0% | 0% | Last Result |
 
 ### Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)
@@ -97,8 +97,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 74% | 74% | Median |
+| 0 | 25% | 100% | Last Result |
+| 1 | 75% | 75% | Median |
 | 2 | 0% | 0% |  |
 
 ### Nemuno aušra (*)
@@ -109,8 +109,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Last Result, Median |
-| 1 | 17% | 17% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% |  |
 
 ### Laisvės partija (RE)
@@ -181,6 +181,6 @@
 ### Calculations
 
 + **Sample size:** 1017
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.87%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.53%
 
