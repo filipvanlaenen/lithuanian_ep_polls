@@ -10,13 +10,15 @@ Last result: **12.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.8% | 3.0–7.7% | 2.8–8.2% | 2.6–8.6% | 2.2–9.5% |
+| N/A | [Poll Average](average.html) | 6.9% | 3.6–8.6% | 3.2–9.1% | 3.0–9.4% | 2.5–10.1% |
+| [18–28 March 2024](2024-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3.9% | 3.1–5.0% | 2.8–5.4% | 2.6–5.7% | 2.3–6.3% |
+| [15–25 March 2024](2024-03-25-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [15–23 March 2024](2024-03-23-Vilmorus.html) | Vilmorus | 7.0% | 5.9–8.5% | 5.6–8.9% | 5.3–9.2% | 4.8–10.0% |
-| [22 February–5 March 2024](2024-03-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 5.8% | 4.9–7.1% | 4.6–7.4% | 4.4–7.7% | 4.0–8.3% |
-| [18–25 February 2024](2024-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3.2% | 2.6–4.1% | 2.5–4.3% | 2.3–4.5% | 2.1–5.0% |
+| [22 February–5 March 2024](2024-03-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 6.1% | N/A | N/A | N/A | N/A |
+| [18–25 February 2024](2024-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3.4% | 2.6–4.1% | 2.5–4.3% | 2.3–4.5% | 2.1–5.0% |
 | [8–17 February 2024](2024-02-17-Vilmorus.html) | Vilmorus | 7.3% | 6.2–8.8% | 5.8–9.2% | 5.5–9.6% | 5.0–10.4% |
-| [19–29 January 2024](2024-01-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 7.4% | 6.3–8.7% | 6.0–9.1% | 5.7–9.4% | 5.3–10.1% |
-| [19–26 January 2024](2024-01-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2.9% | 2.3–3.9% | 2.1–4.2% | 1.9–4.5% | 1.6–5.0% |
+| [19–29 January 2024](2024-01-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 7.6% | 6.3–8.7% | 6.0–9.1% | 5.7–9.4% | 5.3–10.1% |
+| [19–26 January 2024](2024-01-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3.1% | 2.3–3.9% | 2.1–4.2% | 1.9–4.5% | 1.6–5.0% |
 | [15–30 December 2023](2023-12-30-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 7.1% | 6.1–8.2% | 5.9–8.6% | 5.7–8.8% | 5.2–9.4% |
 | [15–23 December 2023](2023-12-23-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3.2% | 2.5–4.3% | 2.3–4.5% | 2.1–4.8% | 1.8–5.4% |
 | [22 November–2 December 2023](2023-12-02-Vilmorus.html) | Vilmorus | 5.9% | 4.9–7.3% | 4.6–7.8% | 4.3–8.1% | 3.9–8.8% |
@@ -152,16 +154,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 20% | 98% |  |
-| 3.5–4.5% | 12% | 78% |  |
-| 4.5–5.5% | 12% | 66% |  |
-| 5.5–6.5% | 23% | 54% | Median |
-| 6.5–7.5% | 19% | 32% |  |
-| 7.5–8.5% | 9% | 12% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.5% | 100% |  |
+| 2.5–3.5% | 9% | 99.5% |  |
+| 3.5–4.5% | 16% | 90% |  |
+| 4.5–5.5% | 8% | 74% |  |
+| 5.5–6.5% | 10% | 66% |  |
+| 6.5–7.5% | 21% | 56% | Median |
+| 7.5–8.5% | 23% | 35% |  |
+| 8.5–9.5% | 10% | 12% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% | Last Result |
 
 
@@ -174,8 +176,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–28 March 2024](2024-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [15–25 March 2024](2024-03-25-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1 | 1 | 1 | 1 |
 | [15–23 March 2024](2024-03-23-Vilmorus.html) | Vilmorus | 1 | 1 | 1 | 1 | 0–1 |
-| [22 February–5 March 2024](2024-03-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22 February–5 March 2024](2024-03-05-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
 | [18–25 February 2024](2024-02-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0 | 0 | 0 | 0 | 0 |
 | [8–17 February 2024](2024-02-17-Vilmorus.html) | Vilmorus | 1 | 1 | 1 | 1 | 0–1 |
 | [19–29 January 2024](2024-01-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 1 | 1 | 1 | 1 | 0–1 |
@@ -316,8 +320,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% |  |
-| 1 | 59% | 59% | Last Result, Median |
+| 0 | 31% | 100% |  |
+| 1 | 69% | 69% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
