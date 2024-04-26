@@ -34,7 +34,7 @@
 | <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 2 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai-(epp)">Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)</a> | 2 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(greens/efa)">Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#liberalų-sąjūdis-(re)">Liberalų Sąjūdis (RE)</a> | 2 | 1 | 1 |1 |1–2 |1–2 |
+| <a href="#liberalų-sąjūdis-(re)">Liberalų Sąjūdis (RE)</a> | 2 | 1 | 1 |1 |1 |1–2 |
 | <a href="#demokratų-sąjunga-„vardan-lietuvos“-(greens/efa)">Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#laisvės-partija-(re)">Laisvės partija (RE)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#nacionalinis-susivienijimas-(*)">Nacionalinis Susivienijimas (*)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
@@ -48,8 +48,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 29% | 100% | Last Result |
-| 3 | 71% | 71% | Median |
+| 2 | 31% | 100% | Last Result |
+| 3 | 69% | 69% | Median |
 | 4 | 0% | 0% |  |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
@@ -72,8 +72,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 81% | 100% | Last Result, Median |
-| 2 | 19% | 19% |  |
+| 1 | 80% | 100% | Last Result, Median |
+| 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
 ### Liberalų Sąjūdis (RE)
@@ -84,8 +84,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 97% | 100% | Median |
-| 2 | 3% | 3% | Last Result |
+| 1 | 98% | 100% | Median |
+| 2 | 2% | 2% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)
@@ -110,7 +110,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% | Last Result |
-| 1 | 99.7% | 99.8% | Median |
+| 1 | 99.8% | 99.8% | Median |
 | 2 | 0% | 0% |  |
 
 ### Nacionalinis Susivienijimas (*)
@@ -121,8 +121,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 15% | 15% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% |  |
 
 ### Darbo Partija (NI)
@@ -133,8 +133,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Median |
-| 1 | 7% | 7% | Last Result |
+| 0 | 92% | 100% | Median |
+| 1 | 8% | 8% | Last Result |
 | 2 | 0% | 0% |  |
 
 
@@ -165,8 +165,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Median |
-| 1 | 7% | 7% | Last Result |
+| 0 | 92% | 100% | Median |
+| 1 | 8% | 8% | Last Result |
 | 2 | 0% | 0% |  |
 
 
@@ -181,6 +181,6 @@
 ### Calculations
 
 + **Sample size:** 645
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.97%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.80%
 
