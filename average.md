@@ -27,7 +27,7 @@ Only polls for which at least the sample size has been published are included in
 + **LT:** Partija „Laisvė ir teisingumas“ (RE)
 + **TS-LKD:** Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
 + **LLRA:** Lietuvos lenkų rinkimų akcija (ECR)
-+ **LVŽS:** Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
++ **LVŽS:** Lietuvos valstiečių ir žaliųjų sąjunga (RE)
 + **TTS:** Tautos ir teisingumo sąjunga (centristai, tautininkai) (ESN)
 + **DP:** Darbo Partija (NI)
 + **TT:** Partija tvarka ir teisingumas (*)
@@ -56,7 +56,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partija-„laisvė-ir-teisingumas“-(re)">Partija „Laisvė ir teisingumas“ (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai-(epp)">Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)</a> | 0.0% | 15.6% | 14.2–17.1% |13.8–17.6% | 13.5–18.0% | 12.9–18.7% |
 | <a href="#lietuvos-lenkų-rinkimų-akcija-(ecr)">Lietuvos lenkų rinkimų akcija (ECR)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(greens/efa)">Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(re)">Lietuvos valstiečių ir žaliųjų sąjunga (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#tautos-ir-teisingumo-sąjunga-(centristai,-tautininkai)-(esn)">Tautos ir teisingumo sąjunga (centristai, tautininkai) (ESN)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#darbo-partija-(ni)">Darbo Partija (NI)</a> | 0.0% | 3.2% | 2.6–4.0% |2.4–4.2% | 2.2–4.4% | 2.0–4.9% |
 | <a href="#partija-tvarka-ir-teisingumas-(*)">Partija tvarka ir teisingumas (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
