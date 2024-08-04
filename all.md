@@ -22,7 +22,7 @@ Only polls for which at least the sample size has been published are included in
 + **LT:** Partija „Laisvė ir teisingumas“ (RE)
 + **TS-LKD:** Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
 + **LLRA:** Lietuvos lenkų rinkimų akcija (ECR)
-+ **LVŽS:** Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA)
++ **LVŽS:** Lietuvos valstiečių ir žaliųjų sąjunga (RE)
 + **TTS:** Tautos ir teisingumo sąjunga (centristai, tautininkai) (ESN)
 + **DP:** Darbo Partija (NI)
 + **TT:** Partija tvarka ir teisingumas (*)
