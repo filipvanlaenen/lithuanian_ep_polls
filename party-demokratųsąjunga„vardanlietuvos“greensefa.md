@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.0% | 9.7–15.0% | 9.3–15.6% | 8.9–16.0% | 8.3–16.9% |
+| N/A | [Poll Average](average.html) | 11.7% | 9.7–13.6% | 9.3–14.1% | 8.9–14.5% | 8.3–15.3% |
+| [7–9 August 2024](2024-08-09-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 12.8% | 11.6–14.3% | 11.2–14.7% | 10.9–15.1% | 10.3–15.8% |
 | [19–29 July 2024](2024-07-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 11.8% | 10.6–13.2% | 10.3–13.6% | 10.0–14.0% | 9.4–14.7% |
 | [11–21 July 2024](2024-07-21-Vilmorus.html) | Vilmorus | 10.2% | 9.1–11.5% | 8.7–11.9% | 8.5–12.2% | 8.0–12.9% |
 | [21 June–7 July 2024](2024-07-07-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 14.3% | 13.0–15.8% | 12.6–16.3% | 12.3–16.6% | 11.7–17.4% |
@@ -33,15 +34,13 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 1.0% | 100% |  |
 | 8.5–9.5% | 7% | 99.0% |  |
 | 9.5–10.5% | 16% | 92% |  |
-| 10.5–11.5% | 19% | 76% |  |
-| 11.5–12.5% | 16% | 57% | Median |
-| 12.5–13.5% | 13% | 41% |  |
-| 13.5–14.5% | 13% | 28% |  |
-| 14.5–15.5% | 10% | 15% |  |
-| 15.5–16.5% | 4% | 5% |  |
-| 16.5–17.5% | 0.9% | 1.0% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 10.5–11.5% | 22% | 76% |  |
+| 11.5–12.5% | 24% | 54% | Median |
+| 12.5–13.5% | 19% | 30% |  |
+| 13.5–14.5% | 8% | 11% |  |
+| 14.5–15.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.3% | 0.3% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -53,6 +52,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–9 August 2024](2024-08-09-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–29 July 2024](2024-07-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–21 July 2024](2024-07-21-Vilmorus.html) | Vilmorus | 1 | 1 | 1 | 1–2 | 1–2 |
 | [21 June–7 July 2024](2024-07-07-Baltijostyrimai.html) | Baltijos tyrimai <br> LRT | 2 | 2 | 2 | 2 | 2 |
@@ -67,9 +67,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 60% | 100% | Median |
-| 2 | 40% | 40% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 1 | 79% | 100% | Median |
+| 2 | 21% | 21% |  |
+| 3 | 0% | 0% |  |
 
 
