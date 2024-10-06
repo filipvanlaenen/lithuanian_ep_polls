@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.4–2.6% | 1.2–2.8% | 1.1–3.0% | 0.9–3.4% |
+| [16–25 September 2024](2024-09-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
+| [13–21 September 2024](2024-09-21-Vilmorus.html) | Vilmorus | 1.7% | 1.2–2.6% | 1.1–2.8% | 1.0–3.0% | 0.8–3.5% |
 | [7–9 August 2024](2024-08-09-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [19–29 July 2024](2024-07-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
 | [11–21 July 2024](2024-07-21-Vilmorus.html) | Vilmorus | 0.0% | N/A | N/A | N/A | N/A |
@@ -24,9 +26,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 74% | 89% | Median |
-| 2.5–3.5% | 15% | 15% |  |
+| 0.5–1.5% | 20% | 100% |  |
+| 1.5–2.5% | 67% | 80% | Median |
+| 2.5–3.5% | 12% | 13% |  |
 | 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -40,6 +42,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–25 September 2024](2024-09-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
+| [13–21 September 2024](2024-09-21-Vilmorus.html) | Vilmorus | 0 | 0 | 0 | 0 | 0 |
 | [7–9 August 2024](2024-08-09-Baltijostyrimai.html) | Baltijos tyrimai <br> Delfi | 0 | 0 | 0 | 0 | 0 |
 | [19–29 July 2024](2024-07-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [11–21 July 2024](2024-07-21-Vilmorus.html) | Vilmorus |  |  |  |  |  |
