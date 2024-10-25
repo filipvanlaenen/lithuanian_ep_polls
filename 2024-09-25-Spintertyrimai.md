@@ -50,8 +50,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 1.2% | 100% |  |
-| 3 | 98.8% | 98.8% | Median |
+| 2 | 1.3% | 100% |  |
+| 3 | 98.6% | 98.7% | Median |
 | 4 | 0% | 0% |  |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
@@ -126,8 +126,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 99.7% | 99.7% | Median |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 99.8% | 99.8% | Median |
 | 2 | 0% | 0% |  |
 
 ### Nacionalinis Susivienijimas (*)
@@ -177,6 +177,6 @@
 ### Calculations
 
 + **Sample size:** 1008
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.61%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.03%
 
