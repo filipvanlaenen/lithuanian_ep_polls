@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.1% | 15.7–18.7% | 15.2–19.1% | 14.9–19.5% | 14.2–20.3% |
+| N/A | [Poll Average](average.html) | 18.9% | 16.2–21.8% | 15.7–22.4% | 15.2–22.9% | 14.5–23.8% |
 | [12 November–1 December 2024](2024-12-01-Baltijostyrimai.html) | Baltijos tyrimai | 17.1% | 15.7–18.7% | 15.2–19.1% | 14.9–19.5% | 14.2–20.3% |
-| [7–16 November 2024](2024-11-16-Vilmorus.html) | Vilmorus | 20.7% | N/A | N/A | N/A | N/A |
+| [7–16 November 2024](2024-11-16-Vilmorus.html) | Vilmorus | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
 | [30 October–12 November 2024](2024-11-12-Baltijostyrimai.html) | Baltijos tyrimai | 20.3% | N/A | N/A | N/A | N/A |
 | [16–25 September 2024](2024-09-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
 | [13–21 September 2024](2024-09-21-Vilmorus.html) | Vilmorus | 16.7% | 15.0–18.7% | 14.6–19.2% | 14.1–19.7% | 13.4–20.7% |
@@ -42,16 +42,20 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 1.1% | 99.9% |  |
-| 14.5–15.5% | 7% | 98.9% |  |
-| 15.5–16.5% | 23% | 92% |  |
-| 16.5–17.5% | 33% | 69% | Median |
-| 17.5–18.5% | 25% | 37% |  |
-| 18.5–19.5% | 10% | 12% |  |
-| 19.5–20.5% | 2% | 2% |  |
-| 20.5–21.5% | 0.3% | 0.3% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.5% | 100% |  |
+| 14.5–15.5% | 4% | 99.4% |  |
+| 15.5–16.5% | 11% | 96% |  |
+| 16.5–17.5% | 16% | 85% |  |
+| 17.5–18.5% | 14% | 68% |  |
+| 18.5–19.5% | 12% | 54% | Median |
+| 19.5–20.5% | 14% | 42% |  |
+| 20.5–21.5% | 15% | 28% |  |
+| 21.5–22.5% | 9% | 13% |  |
+| 22.5–23.5% | 3% | 4% |  |
+| 23.5–24.5% | 0.7% | 0.8% |  |
+| 24.5–25.5% | 0.1% | 0.1% |  |
+| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -64,7 +68,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12 November–1 December 2024](2024-12-01-Baltijostyrimai.html) | Baltijos tyrimai | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [7–16 November 2024](2024-11-16-Vilmorus.html) | Vilmorus |  |  |  |  |  |
+| [7–16 November 2024](2024-11-16-Vilmorus.html) | Vilmorus | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 October–12 November 2024](2024-11-12-Baltijostyrimai.html) | Baltijos tyrimai |  |  |  |  |  |
 | [16–25 September 2024](2024-09-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2 | 2 | 2 |
 | [13–21 September 2024](2024-09-21-Vilmorus.html) | Vilmorus | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -85,8 +89,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 64% | 100% | Median |
-| 3 | 36% | 36% |  |
+| 2 | 50% | 100% | Median |
+| 3 | 50% | 50% |  |
 | 4 | 0% | 0% |  |
 
 
