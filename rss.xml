@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 22 Dec 2024 18:10:04 +0100</pubDate>
+    <pubDate>Mon, 23 Dec 2024 10:50:52 +0100</pubDate>
     <item>
       <title>Opinion Poll by Baltijos tyrimai, 12 November–1 December 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-01-Baltijostyrimai.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sun, 22 Dec 2024 18:10:04 +0100</pubDate>
       <dc:date>2024-12-22T18:10:04.260514+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus, 7–16 November 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-11-16-Vilmorus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (*): 0 seats&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 0 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Nemuno aušra (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-11-16-Vilmorus-seats.png"
+        length="294802"
+        type="image/png"/>
+      <pubDate>Mon, 23 Dec 2024 10:50:52 +0100</pubDate>
+      <dc:date>2024-12-23T10:50:52.411844+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus, 7–16 November 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-11-16-Vilmorus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-11-16-Vilmorus-coalitions-seats.png"
+        length="195442"
+        type="image/png"/>
+      <pubDate>Mon, 23 Dec 2024 10:50:52 +0100</pubDate>
+      <dc:date>2024-12-23T10:50:52.411844+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus, 7–16 November 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-11-16-Vilmorus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 9.0–12.9%&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 9.9–14.0%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 7.9–11.6%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 11.5–15.8%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 21.7–27.1%&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (*): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Partija „Laisvė ir teisingumas“ (RE): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Nemuno aušra (*): 18.3–23.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-11-16-Vilmorus.png"
+        length="343350"
+        type="image/png"/>
+      <pubDate>Mon, 23 Dec 2024 10:50:52 +0100</pubDate>
+      <dc:date>2024-12-23T10:50:52.411844+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 16–25 September 2024 – Seat Projections for the Parties</title>
@@ -279,6 +309,6 @@
       <pubDate>Sun, 04 Aug 2024 20:38:34 +0200</pubDate>
       <dc:date>2024-08-04T20:38:34.40647+02:00</dc:date>
     </item>
-    <dc:date>2024-12-22T18:10:04.260514+01:00</dc:date>
+    <dc:date>2024-12-23T10:50:52.411844+01:00</dc:date>
   </channel>
 </rss>
