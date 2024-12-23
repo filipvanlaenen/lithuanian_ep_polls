@@ -388,8 +388,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 44% | 100% |  |
-| 2 | 55% | 56% | Median |
+| 1 | 45% | 100% |  |
+| 2 | 54% | 55% | Median |
 | 3 | 1.3% | 1.3% |  |
 | 4 | 0% | 0% |  |
 
@@ -449,8 +449,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 28% | 100% | Last Result |
-| 1 | 25% | 72% | Median |
-| 2 | 47% | 47% |  |
+| 1 | 26% | 72% | Median |
+| 2 | 46% | 46% |  |
 | 3 | 0% | 0% |  |
 
 ### Partija „Laisvė ir teisingumas“ (RE)
@@ -474,8 +474,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 36% | 100% |  |
-| 2 | 63% | 64% | Median |
+| 1 | 32% | 100% |  |
+| 2 | 68% | 68% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -572,8 +572,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 50% | 100% | Median |
-| 3 | 50% | 50% |  |
+| 2 | 53% | 100% | Median |
+| 3 | 47% | 47% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -615,8 +615,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 50% | 100% | Median |
-| 3 | 50% | 50% |  |
+| 2 | 53% | 100% | Median |
+| 3 | 47% | 47% |  |
 | 4 | 0% | 0% |  |
 
 ### Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA) – Lietuvos Žaliųjų Partija (Greens/EFA)
@@ -626,8 +626,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 44% | 100% |  |
-| 2 | 55% | 56% | Median |
+| 1 | 45% | 100% |  |
+| 2 | 54% | 55% | Median |
 | 3 | 1.3% | 1.3% |  |
 | 4 | 0% | 0% |  |
 
@@ -649,8 +649,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 36% | 100% |  |
-| 2 | 63% | 64% | Median |
+| 1 | 32% | 100% |  |
+| 2 | 68% | 68% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -661,8 +661,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 27% | 100% | Last Result |
-| 1 | 26% | 73% | Median |
-| 2 | 47% | 47% |  |
+| 1 | 27% | 73% | Median |
+| 2 | 46% | 46% |  |
 | 3 | 0% | 0% |  |
 
 ### Darbo Partija (NI)
@@ -687,6 +687,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 2.59%
