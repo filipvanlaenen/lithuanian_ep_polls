@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1.2% | 0.8–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.4% |
 | [12 November–1 December 2024](2024-12-01-Baltijostyrimai.html) | Baltijos tyrimai | 1.2% | 0.8–1.8% | 0.7–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [7–16 November 2024](2024-11-16-Vilmorus.html) | Vilmorus | 0.0% | N/A | N/A | N/A | N/A |
-| [30 October–12 November 2024](2024-11-12-Baltijostyrimai.html) | Baltijos tyrimai | 1.5% | N/A | N/A | N/A | N/A |
+| [30 October–12 November 2024](2024-11-12-Baltijostyrimai.html) | Baltijos tyrimai | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.7% |
 | [16–25 September 2024](2024-09-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
 | [13–21 September 2024](2024-09-21-Vilmorus.html) | Vilmorus | 1.2% | 0.8–1.9% | 0.7–2.1% | 0.6–2.3% | 0.4–2.7% |
 | [6–20 September 2024](2024-09-20-Baltijostyrimai.html) | Baltijos tyrimai | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.2–3.1% | 1.1–3.5% |
@@ -47,7 +47,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [12 November–1 December 2024](2024-12-01-Baltijostyrimai.html) | Baltijos tyrimai | 0 | 0 | 0 | 0 | 0 |
 | [7–16 November 2024](2024-11-16-Vilmorus.html) | Vilmorus |  |  |  |  |  |
-| [30 October–12 November 2024](2024-11-12-Baltijostyrimai.html) | Baltijos tyrimai |  |  |  |  |  |
+| [30 October–12 November 2024](2024-11-12-Baltijostyrimai.html) | Baltijos tyrimai | 0 | 0 | 0 | 0 | 0 |
 | [16–25 September 2024](2024-09-25-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
 | [13–21 September 2024](2024-09-21-Vilmorus.html) | Vilmorus | 0 | 0 | 0 | 0 | 0 |
 | [6–20 September 2024](2024-09-20-Baltijostyrimai.html) | Baltijos tyrimai | 0 | 0 | 0 | 0 | 0 |
