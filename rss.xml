@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Dec 2024 13:43:38 +0100</pubDate>
+    <pubDate>Sat, 11 Jan 2025 21:06:22 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 13–20 December 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-20-Spintertyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Nemuno aušra (*): 2 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-20-Spintertyrimai-seats.png"
+        length="200278"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jan 2025 21:06:22 +0100</pubDate>
+      <dc:date>2025-01-11T21:06:22.784731+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 13–20 December 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-20-Spintertyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-20-Spintertyrimai-coalitions-seats.png"
+        length="161740"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jan 2025 21:06:22 +0100</pubDate>
+      <dc:date>2025-01-11T21:06:22.784731+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 13–20 December 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-20-Spintertyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 9.3–13.2%&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 15.1–19.8%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 7.5–11.1%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 9.7–13.6%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 16.1–20.9%&lt;/li&gt;&lt;li&gt;Nemuno aušra (*): 15.7–20.4%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 2.4–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-20-Spintertyrimai.png"
+        length="304914"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jan 2025 21:06:22 +0100</pubDate>
+      <dc:date>2025-01-11T21:06:22.784731+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai, 12 November–1 December 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-01-Baltijostyrimai.html#seats</link>
@@ -339,6 +369,6 @@
       <pubDate>Sun, 04 Aug 2024 20:38:34 +0200</pubDate>
       <dc:date>2024-08-04T20:38:34.40647+02:00</dc:date>
     </item>
-    <dc:date>2024-12-23T13:43:38.189217+01:00</dc:date>
+    <dc:date>2025-01-11T21:06:22.784731+01:00</dc:date>
   </channel>
 </rss>
