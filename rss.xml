@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 11 Jan 2025 21:06:22 +0100</pubDate>
+    <pubDate>Sun, 12 Jan 2025 15:21:13 +0100</pubDate>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 13–20 December 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-20-Spintertyrimai.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-20-Spintertyrimai-seats.png"
         length="200278"
         type="image/png"/>
-      <pubDate>Sat, 11 Jan 2025 21:06:22 +0100</pubDate>
-      <dc:date>2025-01-11T21:06:22.784731+01:00</dc:date>
+      <pubDate>Sun, 12 Jan 2025 15:21:13 +0100</pubDate>
+      <dc:date>2025-01-12T15:21:13.450792+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 13–20 December 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-20-Spintertyrimai-coalitions-seats.png"
         length="161740"
         type="image/png"/>
-      <pubDate>Sat, 11 Jan 2025 21:06:22 +0100</pubDate>
-      <dc:date>2025-01-11T21:06:22.784731+01:00</dc:date>
+      <pubDate>Sun, 12 Jan 2025 15:21:13 +0100</pubDate>
+      <dc:date>2025-01-12T15:21:13.450792+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 13–20 December 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2024-12-20-Spintertyrimai.png"
         length="304914"
         type="image/png"/>
-      <pubDate>Sat, 11 Jan 2025 21:06:22 +0100</pubDate>
-      <dc:date>2025-01-11T21:06:22.784731+01:00</dc:date>
+      <pubDate>Sun, 12 Jan 2025 15:21:13 +0100</pubDate>
+      <dc:date>2025-01-12T15:21:13.450792+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai, 12 November–1 December 2024 – Seat Projections for the Parties</title>
@@ -369,6 +369,6 @@
       <pubDate>Sun, 04 Aug 2024 20:38:34 +0200</pubDate>
       <dc:date>2024-08-04T20:38:34.40647+02:00</dc:date>
     </item>
-    <dc:date>2025-01-11T21:06:22.784731+01:00</dc:date>
+    <dc:date>2025-01-12T15:21:13.450792+01:00</dc:date>
   </channel>
 </rss>
