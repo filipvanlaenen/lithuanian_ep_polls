@@ -12,7 +12,7 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Lietuvos socialdemokratų partija (S&D) | 0.0% | 16.3% | 14.8–17.8% |14.4–18.3% |14.1–18.7% |13.4–19.4% |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 0.0% | 15.9% | 14.5–17.4% |14.1–17.9% |13.7–18.2% |13.1–19.0% |
-| Nemuno aušra (*) | 0.0% | 13.0% | 11.7–14.4% |11.4–14.8% |11.1–15.2% |10.5–15.9% |
+| Nemuno aušra (NI) | 0.0% | 13.0% | 11.7–14.4% |11.4–14.8% |11.1–15.2% |10.5–15.9% |
 | Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA) | 0.0% | 12.3% | 11.1–13.7% |10.7–14.1% |10.4–14.5% |9.8–15.2% |
 | Liberalų Sąjūdis (RE) | 0.0% | 11.8% | 10.6–13.2% |10.2–13.6% |9.9–13.9% |9.4–14.6% |
 | Lietuvos valstiečių ir žaliųjų sąjunga (ECR) | 0.0% | 9.1% | 8.0–10.4% |7.7–10.7% |7.5–11.1% |7.0–11.7% |
@@ -33,7 +33,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 0 | 2 | 2 |2 |2 |2 |
 | <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai-(epp)">Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)</a> | 0 | 2 | 2 |2 |2 |1–2 |
-| <a href="#nemuno-aušra-(*)">Nemuno aušra (*)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#nemuno-aušra-(ni)">Nemuno aušra (NI)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#demokratų-sąjunga-„vardan-lietuvos“-(greens/efa)">Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#liberalų-sąjūdis-(re)">Liberalų Sąjūdis (RE)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(ecr)">Lietuvos valstiečių ir žaliųjų sąjunga (ECR)</a> | 0 | 1 | 1 |1 |1 |1 |
@@ -62,21 +62,21 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.1% | 100% |  |
-| 2 | 98.9% | 98.9% | Median |
+| 1 | 0.9% | 100% |  |
+| 2 | 99.1% | 99.1% | Median |
 | 3 | 0% | 0% |  |
 
-### Nemuno aušra (*)
+### Nemuno aušra (NI)
 
-*For a full overview of the results for this party, see the [Nemuno aušra (*)](party-nemunoaušra.html) page.*
+*For a full overview of the results for this party, see the [Nemuno aušra (NI)](party-nemunoaušrani.html) page.*
 
-![Graph with seats probability mass function not yet produced](2025-01-29-Spintertyrimai-seats-pmf-nemunoaušra.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2025-01-29-Spintertyrimai-seats-pmf-nemunoaušrani.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 45% | 100% |  |
-| 2 | 55% | 55% | Median |
+| 1 | 41% | 100% |  |
+| 2 | 59% | 59% | Median |
 | 3 | 0% | 0% |  |
 
 ### Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)
@@ -88,8 +88,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 73% | 100% | Median |
-| 2 | 27% | 27% |  |
+| 1 | 76% | 100% | Median |
+| 2 | 24% | 24% |  |
 | 3 | 0% | 0% |  |
 
 ### Liberalų Sąjūdis (RE)
@@ -101,8 +101,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 83% | 100% | Median |
-| 2 | 17% | 17% |  |
+| 1 | 85% | 100% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (ECR)
@@ -160,8 +160,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.1% | 100% |  |
-| 2 | 98.9% | 98.9% | Median |
+| 1 | 0.9% | 100% |  |
+| 2 | 99.1% | 99.1% | Median |
 | 3 | 0% | 0% |  |
 
 
@@ -176,6 +176,6 @@
 ### Calculations
 
 + **Sample size:** 1009
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 0.79%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.85%
 
