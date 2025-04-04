@@ -10,8 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.2% | 10.4–18.3% | 10.0–19.0% | 9.6–19.5% | 9.1–20.5% |
-| [10–28 February 2025](2025-02-28-NorstatLT.html) | Norstat LT | 10.6% | 9.6–11.7% | 9.4–12.0% | 9.1–12.3% | 8.7–12.8% |
+| N/A | [Poll Average](average.html) | 16.1% | 11.8–18.6% | 11.3–19.2% | 10.9–19.7% | 10.2–20.6% |
 | [14–23 February 2025](2025-02-23-Vilmorus.html) | Vilmorus | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
 | [25 January–8 February 2025](2025-02-08-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 17.9% | 16.4–19.5% | 16.0–19.9% | 15.6–20.3% | 15.0–21.1% |
 | [18–29 January 2025](2025-01-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
@@ -42,21 +41,21 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 2% | 99.9% |  |
-| 9.5–10.5% | 10% | 98% |  |
-| 10.5–11.5% | 15% | 88% |  |
-| 11.5–12.5% | 12% | 73% |  |
-| 12.5–13.5% | 8% | 61% |  |
-| 13.5–14.5% | 4% | 53% | Median |
-| 14.5–15.5% | 6% | 49% |  |
-| 15.5–16.5% | 11% | 43% |  |
-| 16.5–17.5% | 13% | 32% |  |
-| 17.5–18.5% | 11% | 19% |  |
-| 18.5–19.5% | 6% | 8% |  |
-| 19.5–20.5% | 2% | 2% |  |
-| 20.5–21.5% | 0.4% | 0.4% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 1.1% | 99.9% |  |
+| 10.5–11.5% | 6% | 98.8% |  |
+| 11.5–12.5% | 12% | 93% |  |
+| 12.5–13.5% | 10% | 81% |  |
+| 13.5–14.5% | 6% | 71% |  |
+| 14.5–15.5% | 8% | 65% |  |
+| 15.5–16.5% | 15% | 57% | Median |
+| 16.5–17.5% | 17% | 42% |  |
+| 17.5–18.5% | 14% | 25% |  |
+| 18.5–19.5% | 8% | 11% |  |
+| 19.5–20.5% | 3% | 3% |  |
+| 20.5–21.5% | 0.5% | 0.6% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -69,7 +68,6 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [10–28 February 2025](2025-02-28-NorstatLT.html) | Norstat LT | 1 | 1 | 1 | 1 | 1 |
 | [14–23 February 2025](2025-02-23-Vilmorus.html) | Vilmorus | 2 | 2 | 2 | 2 | 1–2 |
 | [25 January–8 February 2025](2025-02-08-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–29 January 2025](2025-01-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -95,9 +93,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 44% | 100% |  |
-| 2 | 54% | 56% | Median |
-| 3 | 3% | 3% |  |
+| 1 | 25% | 100% |  |
+| 2 | 71% | 75% | Median |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 
