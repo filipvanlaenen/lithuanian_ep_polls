@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.6–2.8% | 1.5–2.9% | 1.4–3.1% | 1.2–3.5% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.6–2.8% | 1.5–2.9% | 1.3–3.1% | 1.2–3.5% |
+| [8–24 March 2025](2025-03-24-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.3–3.1% | 1.2–3.5% |
 | [14–23 February 2025](2025-02-23-Vilmorus.html) | Vilmorus | 0.0% | N/A | N/A | N/A | N/A |
 | [25 January–8 February 2025](2025-02-08-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.1% | 1.2–3.5% |
 | [18–29 January 2025](2025-01-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
@@ -36,7 +37,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 8% | 100% |  |
 | 1.5–2.5% | 73% | 92% | Median |
-| 2.5–3.5% | 19% | 19% |  |
+| 2.5–3.5% | 18% | 19% |  |
 | 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -50,6 +51,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–24 March 2025](2025-03-24-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 0 | 0 | 0 | 0 | 0 |
 | [14–23 February 2025](2025-02-23-Vilmorus.html) | Vilmorus |  |  |  |  |  |
 | [25 January–8 February 2025](2025-02-08-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 0 | 0 | 0 | 0 | 0 |
 | [18–29 January 2025](2025-01-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
