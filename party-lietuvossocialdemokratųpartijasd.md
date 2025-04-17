@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.2% | 15.7–23.4% | 15.1–24.0% | 14.7–24.5% | 13.9–25.4% |
+| N/A | [Poll Average](average.html) | 21.3% | 18.0–23.4% | 17.3–24.0% | 16.7–24.5% | 15.7–25.4% |
+| [18–28 March 2025](2025-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 18.7% | 16.9–20.7% | 16.4–21.3% | 16.0–21.8% | 15.2–22.8% |
 | [8–24 March 2025](2025-03-24-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.6% | 18.8–25.5% |
-| [14–23 February 2025](2025-02-23-Vilmorus.html) | Vilmorus | 22.1% | 20.5–23.9% | 20.0–24.4% | 19.6–24.8% | 18.9–25.6% |
+| [14–23 February 2025](2025-02-23-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas | 22.1% | 20.5–23.9% | 20.0–24.4% | 19.6–24.8% | 18.9–25.6% |
 | [25 January–8 February 2025](2025-02-08-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 22.6% | 21.0–24.3% | 20.5–24.8% | 20.1–25.2% | 19.4–26.1% |
 | [18–29 January 2025](2025-01-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 16.3% | 14.8–17.8% | 14.4–18.3% | 14.1–18.7% | 13.4–19.4% |
 | [13–20 December 2024](2024-12-20-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 18.4% | N/A | N/A | N/A | N/A |
@@ -47,16 +48,16 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 2% | 99.8% |  |
-| 14.5–15.5% | 7% | 98% |  |
-| 15.5–16.5% | 11% | 91% |  |
-| 16.5–17.5% | 9% | 80% |  |
-| 17.5–18.5% | 4% | 72% |  |
-| 18.5–19.5% | 2% | 68% |  |
-| 19.5–20.5% | 6% | 65% |  |
-| 20.5–21.5% | 15% | 59% | Median |
-| 21.5–22.5% | 20% | 44% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0.3% | 100% |  |
+| 15.5–16.5% | 2% | 99.6% |  |
+| 16.5–17.5% | 5% | 98% |  |
+| 17.5–18.5% | 8% | 93% |  |
+| 18.5–19.5% | 10% | 85% |  |
+| 19.5–20.5% | 12% | 75% |  |
+| 20.5–21.5% | 18% | 63% | Median |
+| 21.5–22.5% | 21% | 45% |  |
 | 22.5–23.5% | 15% | 24% |  |
 | 23.5–24.5% | 7% | 9% |  |
 | 24.5–25.5% | 2% | 2% |  |
@@ -73,8 +74,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [18–28 March 2025](2025-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [8–24 March 2025](2025-03-24-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [14–23 February 2025](2025-02-23-Vilmorus.html) | Vilmorus | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [14–23 February 2025](2025-02-23-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25 January–8 February 2025](2025-02-08-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 3 | 3 | 3 | 2–3 | 2–3 |
 | [18–29 January 2025](2025-01-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 2 | 2 | 2 | 2 |
 | [13–20 December 2024](2024-12-20-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
@@ -99,9 +101,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 59% | 99.9% | Median |
-| 3 | 41% | 41% |  |
+| 1 | 0% | 100% |  |
+| 2 | 55% | 100% | Median |
+| 3 | 45% | 45% |  |
 | 4 | 0% | 0% |  |
 
 
