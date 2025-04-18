@@ -13,7 +13,7 @@
 | Lietuvos socialdemokratų partija (S&D) | 0.0% | 22.0% | 20.4–23.7% |19.9–24.2% |19.5–24.6% |18.8–25.5% |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 0.0% | 15.3% | 13.9–16.8% |13.5–17.3% |13.2–17.6% |12.6–18.4% |
 | Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA) | 0.0% | 15.0% | 13.6–16.5% |13.3–16.9% |12.9–17.3% |12.3–18.1% |
-| Nemuno aušra (NI) | 0.0% | 13.2% | 11.9–14.7% |11.6–15.1% |11.3–15.5% |10.7–16.2% |
+| Nemuno aušra (S&D) | 0.0% | 13.2% | 11.9–14.7% |11.6–15.1% |11.3–15.5% |10.7–16.2% |
 | Lietuvos valstiečių ir žaliųjų sąjunga (ECR) | 0.0% | 8.3% | 7.3–9.6% |7.0–9.9% |6.8–10.2% |6.3–10.8% |
 | Liberalų Sąjūdis (RE) | 0.0% | 7.3% | 6.3–8.4% |6.0–8.7% |5.8–9.0% |5.4–9.6% |
 | Darbo Partija (NI) | 0.0% | 4.8% | 4.0–5.8% |3.8–6.1% |3.6–6.3% |3.3–6.8% |
@@ -37,7 +37,7 @@
 | <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai-(epp)">Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)</a> | 0 | 2 | 2 |2 |2 |1–2 |
 | <a href="#demokratų-sąjunga-„vardan-lietuvos“-(greens/efa)">Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)</a> | 0 | 2 | 2 |2 |2 |1–2 |
-| <a href="#nemuno-aušra-(ni)">Nemuno aušra (NI)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#nemuno-aušra-(s&d)">Nemuno aušra (S&D)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(ecr)">Lietuvos valstiečių ir žaliųjų sąjunga (ECR)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#liberalų-sąjūdis-(re)">Liberalų Sąjūdis (RE)</a> | 0 | 1 | 1 |1 |1 |1 |
 | <a href="#darbo-partija-(ni)">Darbo Partija (NI)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
@@ -56,8 +56,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 11% | 100% |  |
-| 3 | 89% | 89% | Median |
+| 2 | 13% | 100% |  |
+| 3 | 87% | 87% | Median |
 | 4 | 0% | 0% |  |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
@@ -84,19 +84,20 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
 | 2 | 98% | 98% | Median |
-| 3 | 0% | 0% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
-### Nemuno aušra (NI)
+### Nemuno aušra (S&D)
 
-*For a full overview of the results for this party, see the [Nemuno aušra (NI)](party-nemunoaušrani.html) page.*
+*For a full overview of the results for this party, see the [Nemuno aušra (S&D)](party-nemunoaušrasd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2025-03-24-Baltijostyrimai-seats-pmf-nemunoaušrani.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2025-03-24-Baltijostyrimai-seats-pmf-nemunoaušrasd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 15% | 100% |  |
-| 2 | 85% | 85% | Median |
+| 1 | 23% | 100% |  |
+| 2 | 77% | 77% | Median |
 | 3 | 0% | 0% |  |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (ECR)
@@ -130,8 +131,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 26% | 26% |  |
+| 0 | 65% | 100% | Last Result, Median |
+| 1 | 35% | 35% |  |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija (ECR)
@@ -185,35 +186,25 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Nemuno aušra (NI) – Darbo Partija (NI) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 1–3 |
-| Lietuvos socialdemokratų partija (S&D) – Lietuvos regionų partija (S&D) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Lietuvos socialdemokratų partija (S&D) – Nemuno aušra (S&D) – Lietuvos regionų partija (S&D) | 0 | 5 | 0% | 4–5 | 4–5 | 4–5 | 3–5 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 0 | 2 | 0% | 2 | 2 | 2 | 1–2 |
 | Liberalų Sąjūdis (RE) – Partija „Laisvė ir teisingumas“ (RE) – Laisvės partija (RE) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga (ECR) – Lietuvos lenkų rinkimų akcija (ECR) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
+| Darbo Partija (NI) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
-### Nemuno aušra (NI) – Darbo Partija (NI)
+### Lietuvos socialdemokratų partija (S&D) – Nemuno aušra (S&D) – Lietuvos regionų partija (S&D)
 
-![Graph with seats probability mass function not yet produced](2025-03-24-Baltijostyrimai-coalitions-seats-pmf-na–dp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 2% | 100% |  |
-| 2 | 86% | 98% | Median |
-| 3 | 13% | 13% |  |
-| 4 | 0% | 0% |  |
-
-### Lietuvos socialdemokratų partija (S&D) – Lietuvos regionų partija (S&D)
-
-![Graph with seats probability mass function not yet produced](2025-03-24-Baltijostyrimai-coalitions-seats-pmf-lsdp–lrp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2025-03-24-Baltijostyrimai-coalitions-seats-pmf-lsdp–na–lrp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 11% | 100% |  |
-| 3 | 89% | 89% | Median |
-| 4 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 2% | 100% |  |
+| 4 | 33% | 98% |  |
+| 5 | 65% | 65% | Median |
+| 6 | 0% | 0% | Majority |
 
 ### Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)
 
@@ -233,7 +224,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% | Last Result |
-| 1 | 99.8% | 99.8% | Median |
+| 1 | 99.7% | 99.8% | Median |
 | 2 | 0% | 0% |  |
 
 ### Lietuvos valstiečių ir žaliųjų sąjunga (ECR) – Lietuvos lenkų rinkimų akcija (ECR)
@@ -247,6 +238,16 @@
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
+### Darbo Partija (NI)
+
+![Graph with seats probability mass function not yet produced](2025-03-24-Baltijostyrimai-coalitions-seats-pmf-dp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 65% | 100% | Last Result, Median |
+| 1 | 35% | 35% |  |
+| 2 | 0% | 0% |  |
+
 
 ## Technical Information
 
@@ -259,6 +260,6 @@
 ### Calculations
 
 + **Sample size:** 1020
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 2.41%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.56%
 
