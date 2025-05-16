@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.3% | 9.9–22.4% | 9.4–23.1% | 8.9–23.6% | 8.2–24.7% |
+| N/A | [Poll Average](average.html) | 13.8% | 8.9–19.4% | 8.5–20.0% | 8.1–20.6% | 7.5–21.5% |
+| [19–29 April 2025](2025-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 9.3% | 8.2–10.6% | 7.9–11.0% | 7.7–11.3% | 7.2–11.9% |
+| [17–28 April 2025](2025-04-28-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas | 18.7% | 17.2–20.4% | 16.8–20.8% | 16.4–21.2% | 15.7–22.1% |
+| [5–19 April 2025](2025-04-19-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
 | [18–28 March 2025](2025-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 10.4% | 9.1–12.1% | 8.7–12.6% | 8.4–13.0% | 7.8–13.8% |
 | [8–24 March 2025](2025-03-24-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.3–15.5% | 10.7–16.2% |
 | [14–23 February 2025](2025-02-23-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
@@ -42,27 +45,24 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 1.1% | 99.9% |  |
-| 8.5–9.5% | 5% | 98.8% |  |
-| 9.5–10.5% | 10% | 93% |  |
-| 10.5–11.5% | 11% | 83% |  |
-| 11.5–12.5% | 11% | 72% |  |
-| 12.5–13.5% | 13% | 60% | Median |
-| 13.5–14.5% | 10% | 47% |  |
-| 14.5–15.5% | 3% | 37% |  |
-| 15.5–16.5% | 0.6% | 34% |  |
-| 16.5–17.5% | 0.1% | 33% |  |
-| 17.5–18.5% | 0.2% | 33% |  |
-| 18.5–19.5% | 1.2% | 33% |  |
-| 19.5–20.5% | 4% | 32% |  |
-| 20.5–21.5% | 9% | 27% |  |
-| 21.5–22.5% | 10% | 19% |  |
-| 22.5–23.5% | 6% | 9% |  |
-| 23.5–24.5% | 2% | 3% |  |
-| 24.5–25.5% | 0.5% | 0.6% |  |
-| 25.5–26.5% | 0.1% | 0.1% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.5% | 100% |  |
+| 7.5–8.5% | 5% | 99.5% |  |
+| 8.5–9.5% | 13% | 94% |  |
+| 9.5–10.5% | 11% | 81% |  |
+| 10.5–11.5% | 4% | 70% |  |
+| 11.5–12.5% | 4% | 67% |  |
+| 12.5–13.5% | 10% | 63% |  |
+| 13.5–14.5% | 12% | 54% | Median |
+| 14.5–15.5% | 7% | 42% |  |
+| 15.5–16.5% | 3% | 35% |  |
+| 16.5–17.5% | 5% | 33% |  |
+| 17.5–18.5% | 9% | 28% |  |
+| 18.5–19.5% | 10% | 19% |  |
+| 19.5–20.5% | 6% | 9% |  |
+| 20.5–21.5% | 2% | 3% |  |
+| 21.5–22.5% | 0.4% | 0.5% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -73,7 +73,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–29 April 2025](2025-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 1 |
+| [17–28 April 2025](2025-04-28-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas | 2 | 2 | 2 | 2 | 2 |
+| [5–19 April 2025](2025-04-19-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–28 March 2025](2025-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–24 March 2025](2025-03-24-Baltijostyrimai.html) | Baltijos tyrimai <br> Elta | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–23 February 2025](2025-02-23-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -101,9 +104,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 35% | 100% |  |
-| 2 | 56% | 65% | Median |
-| 3 | 9% | 9% |  |
+| 1 | 40% | 100% |  |
+| 2 | 60% | 60% | Median |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 
