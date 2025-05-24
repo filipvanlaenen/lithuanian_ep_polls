@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 16 May 2025 21:00:41 +0200</pubDate>
+    <pubDate>Sat, 24 May 2025 16:58:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos Rytas, 2–12 May 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-05-12-Vilmorus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nemuno aušra (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-05-12-Vilmorus-seats.png"
+        length="223399"
+        type="image/png"/>
+      <pubDate>Sat, 24 May 2025 16:58:48 +0200</pubDate>
+      <dc:date>2025-05-24T16:58:48.806494+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos Rytas, 2–12 May 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-05-12-Vilmorus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-05-12-Vilmorus-coalitions-seats.png"
+        length="158244"
+        type="image/png"/>
+      <pubDate>Sat, 24 May 2025 16:58:48 +0200</pubDate>
+      <dc:date>2025-05-24T16:58:48.806494+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Vilmorus for Lietuvos Rytas, 2–12 May 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-05-12-Vilmorus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nemuno aušra (S&amp;amp;D): 11.0–15.1%&lt;/li&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 17.6–22.6%&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 14.2–18.8%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 8.7–12.6%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 22.7–28.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-05-12-Vilmorus.png"
+        length="274087"
+        type="image/png"/>
+      <pubDate>Sat, 24 May 2025 16:58:48 +0200</pubDate>
+      <dc:date>2025-05-24T16:58:48.806494+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 19–29 April 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-04-29-Spintertyrimai.html#seats</link>
@@ -189,6 +219,6 @@
       <pubDate>Fri, 18 Apr 2025 18:12:47 +0200</pubDate>
       <dc:date>2025-04-18T18:12:47.129686+02:00</dc:date>
     </item>
-    <dc:date>2025-05-16T21:00:41.666985+02:00</dc:date>
+    <dc:date>2025-05-24T16:58:48.806494+02:00</dc:date>
   </channel>
 </rss>
