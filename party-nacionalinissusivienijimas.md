@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.7–2.6% |
+| [19–29 June 2025](2025-06-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
+| [11–22 June 2025](2025-06-22-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas | 0.0% | N/A | N/A | N/A | N/A |
 | [26 April–18 May 2025](2025-05-18-Spintertyrimai.html) | Spinter tyrimai | 0.0% | N/A | N/A | N/A | N/A |
 | [2–12 May 2025](2025-05-12-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas | 0.0% | N/A | N/A | N/A | N/A |
 | [19–29 April 2025](2025-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 0.0% | N/A | N/A | N/A | N/A |
@@ -56,6 +58,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19–29 June 2025](2025-06-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
+| [11–22 June 2025](2025-06-22-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas |  |  |  |  |  |
 | [26 April–18 May 2025](2025-05-18-Spintertyrimai.html) | Spinter tyrimai |  |  |  |  |  |
 | [2–12 May 2025](2025-05-12-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas |  |  |  |  |  |
 | [19–29 April 2025](2025-04-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi |  |  |  |  |  |
