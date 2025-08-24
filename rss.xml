@@ -8,16 +8,16 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Aug 2025 14:12:21 +0200</pubDate>
+    <pubDate>Sun, 24 Aug 2025 14:27:47 +0200</pubDate>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–25 July 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-07-25-Spintertyrimai.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Nemuno aušra (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-07-25-Spintertyrimai-seats.png"
-        length="340490"
+        length="313527"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 14:12:21 +0200</pubDate>
-      <dc:date>2025-08-23T14:12:21.189812+02:00</dc:date>
+      <pubDate>Sun, 24 Aug 2025 14:27:47 +0200</pubDate>
+      <dc:date>2025-08-24T14:27:47.891505+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–25 July 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-07-25-Spintertyrimai-coalitions-seats.png"
         length="186606"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 14:12:21 +0200</pubDate>
-      <dc:date>2025-08-23T14:12:21.189812+02:00</dc:date>
+      <pubDate>Sun, 24 Aug 2025 14:27:47 +0200</pubDate>
+      <dc:date>2025-08-24T14:27:47.891505+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–25 July 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-07-25-Spintertyrimai.png"
         length="322372"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 14:12:21 +0200</pubDate>
-      <dc:date>2025-08-23T14:12:21.189812+02:00</dc:date>
+      <pubDate>Sun, 24 Aug 2025 14:27:47 +0200</pubDate>
+      <dc:date>2025-08-24T14:27:47.891505+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 19–29 June 2025 – Seat Projections for the Parties</title>
@@ -339,6 +339,6 @@
       <pubDate>Fri, 18 Apr 2025 18:12:47 +0200</pubDate>
       <dc:date>2025-04-18T18:12:47.129686+02:00</dc:date>
     </item>
-    <dc:date>2025-08-23T14:12:21.189812+02:00</dc:date>
+    <dc:date>2025-08-24T14:27:47.891505+02:00</dc:date>
   </channel>
 </rss>
