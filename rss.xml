@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 Oct 2025 20:43:07 +0200</pubDate>
+    <pubDate>Sat, 25 Oct 2025 10:42:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 24 September–9 October 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-10-09-Baltijostyrimai.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-10-09-Baltijostyrimai-seats.png"
         length="334571"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 17:05:31 +0200</pubDate>
-      <dc:date>2025-10-24T17:05:31.498796+02:00</dc:date>
+      <pubDate>Fri, 24 Oct 2025 23:43:07 +0200</pubDate>
+      <dc:date>2025-10-24T23:43:07.678041+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 24 September–9 October 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-10-09-Baltijostyrimai-coalitions-seats.png"
         length="184140"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 17:05:31 +0200</pubDate>
-      <dc:date>2025-10-24T17:05:31.498796+02:00</dc:date>
+      <pubDate>Fri, 24 Oct 2025 23:43:07 +0200</pubDate>
+      <dc:date>2025-10-24T23:43:07.678041+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 24 September–9 October 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-10-09-Baltijostyrimai.png"
         length="349570"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 17:05:31 +0200</pubDate>
-      <dc:date>2025-10-24T17:05:31.498796+02:00</dc:date>
+      <pubDate>Fri, 24 Oct 2025 23:43:07 +0200</pubDate>
+      <dc:date>2025-10-24T23:43:07.678041+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 17–27 September 2025 – Seat Projections for the Parties</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-09-02-Baltijostyrimai-seats.png"
         length="376794"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 20:43:07 +0200</pubDate>
-      <dc:date>2025-10-24T20:43:07.590669+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 10:42:18 +0200</pubDate>
+      <dc:date>2025-10-25T10:42:18.623147+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 21 August–2 September 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-09-02-Baltijostyrimai-coalitions-seats.png"
         length="198278"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 20:43:07 +0200</pubDate>
-      <dc:date>2025-10-24T20:43:07.590669+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 10:42:18 +0200</pubDate>
+      <dc:date>2025-10-25T10:42:18.623147+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 21 August–2 September 2025 – Voting Intentions</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-09-02-Baltijostyrimai.png"
         length="394552"
         type="image/png"/>
-      <pubDate>Fri, 24 Oct 2025 20:43:07 +0200</pubDate>
-      <dc:date>2025-10-24T20:43:07.590669+02:00</dc:date>
+      <pubDate>Sat, 25 Oct 2025 10:42:18 +0200</pubDate>
+      <dc:date>2025-10-25T10:42:18.623147+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–25 July 2025 – Seat Projections for the Parties</title>
@@ -459,6 +459,6 @@
       <pubDate>Fri, 18 Apr 2025 18:12:47 +0200</pubDate>
       <dc:date>2025-04-18T18:12:47.129686+02:00</dc:date>
     </item>
-    <dc:date>2025-10-24T20:43:07.590669+02:00</dc:date>
+    <dc:date>2025-10-25T10:42:18.623147+02:00</dc:date>
   </channel>
 </rss>
