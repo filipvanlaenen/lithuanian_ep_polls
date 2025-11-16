@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.0% | 12.4–15.6% | 11.9–16.1% | 11.6–16.5% | 10.8–17.4% |
+| [16–28 October 2025](2025-10-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 14.4% | 13.1–15.9% | 12.7–16.4% | 12.4–16.7% | 11.8–17.5% |
 | [17–27 October 2025](2025-10-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.7% | 10.9–16.5% |
 | [24 September–9 October 2025](2025-10-09-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 14.4% | 13.1–16.0% | 12.7–16.4% | 12.4–16.8% | 11.8–17.5% |
 | [17–27 September 2025](2025-09-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 10.6% | 9.5–12.0% | 9.1–12.3% | 8.9–12.7% | 8.4–13.3% |
@@ -66,7 +67,7 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 21% | 32% |  |
 | 15.5–16.5% | 8% | 11% |  |
 | 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.3% | 0.4% |  |
+| 17.5–18.5% | 0.3% | 0.3% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -79,6 +80,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [16–28 October 2025](2025-10-28-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–27 October 2025](2025-10-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24 September–9 October 2025](2025-10-09-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2 | 2 | 2 | 1–2 | 1–2 |
 | [17–27 September 2025](2025-09-27-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -119,8 +121,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 22% | 100% |  |
-| 2 | 78% | 78% | Median |
+| 1 | 25% | 100% |  |
+| 2 | 75% | 75% | Median |
 | 3 | 0% | 0% |  |
 
 
