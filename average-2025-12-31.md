@@ -411,7 +411,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 1.2% | 100% |  |
 | 2 | 61% | 98.8% | Median |
-| 3 | 38% | 38% |  |
+| 3 | 37% | 37% |  |
 | 4 | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija (ECR)
@@ -435,8 +435,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 65% | 100% | Median |
-| 2 | 35% | 35% |  |
+| 1 | 64% | 100% | Median |
+| 2 | 36% | 36% |  |
 | 3 | 0% | 0% |  |
 
 ### Tautos ir teisingumo sąjunga (centristai, tautininkai) (ESN)
@@ -528,7 +528,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 1.2% | 100% |  |
 | 2 | 61% | 98.8% | Median |
-| 3 | 38% | 38% |  |
+| 3 | 37% | 37% |  |
 | 4 | 0% | 0% |  |
 
 ### Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA) – Lietuvos Žaliųjų Partija (Greens/EFA)
@@ -549,8 +549,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 64% | 100% | Median |
-| 2 | 33% | 36% |  |
+| 1 | 63% | 100% | Median |
+| 2 | 34% | 37% |  |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -595,6 +595,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 2.18%
