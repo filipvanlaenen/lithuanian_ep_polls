@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 21 Jan 2026 18:48:24 +0100</pubDate>
+    <pubDate>Wed, 21 Jan 2026 19:20:33 +0100</pubDate>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos Rytas, 12–30 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-12-30-Vilmorus.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-12-22-Spintertyrimai-seats.png"
         length="237606"
         type="image/png"/>
-      <pubDate>Wed, 21 Jan 2026 18:48:24 +0100</pubDate>
-      <dc:date>2026-01-21T18:48:24.013801+01:00</dc:date>
+      <pubDate>Wed, 21 Jan 2026 19:20:33 +0100</pubDate>
+      <dc:date>2026-01-21T19:20:33.716437+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 13–22 December 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-12-22-Spintertyrimai-coalitions-seats.png"
         length="154253"
         type="image/png"/>
-      <pubDate>Wed, 21 Jan 2026 18:48:24 +0100</pubDate>
-      <dc:date>2026-01-21T18:48:24.013801+01:00</dc:date>
+      <pubDate>Wed, 21 Jan 2026 19:20:33 +0100</pubDate>
+      <dc:date>2026-01-21T19:20:33.716437+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 13–22 December 2025 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-12-22-Spintertyrimai.png"
         length="315356"
         type="image/png"/>
-      <pubDate>Wed, 21 Jan 2026 18:48:24 +0100</pubDate>
-      <dc:date>2026-01-21T18:48:24.013801+01:00</dc:date>
+      <pubDate>Wed, 21 Jan 2026 19:20:33 +0100</pubDate>
+      <dc:date>2026-01-21T19:20:33.716437+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 11–29 November 2025 – Seat Projections for the Parties</title>
@@ -669,6 +669,6 @@
       <pubDate>Fri, 18 Apr 2025 18:12:47 +0200</pubDate>
       <dc:date>2025-04-18T18:12:47.129686+02:00</dc:date>
     </item>
-    <dc:date>2026-01-21T18:48:24.013801+01:00</dc:date>
+    <dc:date>2026-01-21T19:20:33.716437+01:00</dc:date>
   </channel>
 </rss>
