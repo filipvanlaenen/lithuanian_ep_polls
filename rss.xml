@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 Jan 2026 21:15:29 +0100</pubDate>
+    <pubDate>Tue, 10 Feb 2026 22:57:52 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 8–24 January 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-01-24-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nemuno aušra (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 0 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-01-24-Baltijostyrimai-seats.png"
+        length="370584"
+        type="image/png"/>
+      <pubDate>Tue, 10 Feb 2026 22:57:52 +0100</pubDate>
+      <dc:date>2026-02-10T22:57:52.74182+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 8–24 January 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-01-24-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-01-24-Baltijostyrimai-coalitions-seats.png"
+        length="182066"
+        type="image/png"/>
+      <pubDate>Tue, 10 Feb 2026 22:57:52 +0100</pubDate>
+      <dc:date>2026-02-10T22:57:52.74182+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 8–24 January 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-01-24-Baltijostyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nemuno aušra (S&amp;amp;D): 11.6–15.7%&lt;/li&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 12.1–16.2%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 12.6–16.8%&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 14.3–18.7%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 7.8–11.3%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 15.5–20.1%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 2.0–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-01-24-Baltijostyrimai.png"
+        length="353042"
+        type="image/png"/>
+      <pubDate>Tue, 10 Feb 2026 22:57:52 +0100</pubDate>
+      <dc:date>2026-02-10T22:57:52.74182+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos Rytas, 12–30 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-12-30-Vilmorus.html#seats</link>
@@ -699,6 +729,6 @@
       <pubDate>Fri, 18 Apr 2025 18:12:47 +0200</pubDate>
       <dc:date>2025-04-18T18:12:47.129686+02:00</dc:date>
     </item>
-    <dc:date>2026-01-23T21:15:29.537766+01:00</dc:date>
+    <dc:date>2026-02-10T22:57:52.74182+01:00</dc:date>
   </channel>
 </rss>
