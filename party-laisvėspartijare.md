@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 2.5–8.2% | 2.3–8.6% | 2.1–8.9% | 1.9–9.5% |
+| N/A | [Poll Average](average.html) | 4.6% | 2.5–7.3% | 2.3–7.7% | 2.1–8.0% | 1.9–8.6% |
+| [19–29 January 2026](2026-01-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [8–24 January 2026](2026-01-24-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
 | [12–30 December 2025](2025-12-30-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas | 0.0% | N/A | N/A | N/A | N/A |
 | [11–29 December 2025](2025-12-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2.7% | 2.1–3.4% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
@@ -61,13 +62,12 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 12% | 100% |  |
 | 2.5–3.5% | 32% | 88% |  |
 | 3.5–4.5% | 5% | 56% |  |
-| 4.5–5.5% | 0.4% | 50% | Median |
-| 5.5–6.5% | 6% | 50% |  |
-| 6.5–7.5% | 21% | 44% |  |
-| 7.5–8.5% | 18% | 23% |  |
-| 8.5–9.5% | 5% | 5% |  |
-| 9.5–10.5% | 0.5% | 0.5% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 4.5–5.5% | 3% | 50% | Median |
+| 5.5–6.5% | 19% | 47% |  |
+| 6.5–7.5% | 21% | 27% |  |
+| 7.5–8.5% | 6% | 7% |  |
+| 8.5–9.5% | 0.6% | 0.6% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -79,6 +79,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–29 January 2026](2026-01-29-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 1 | 1 | 1 | 0–1 |
 | [8–24 January 2026](2026-01-24-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0 |
 | [12–30 December 2025](2025-12-30-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas |  |  |  |  |  |
 | [11–29 December 2025](2025-12-29-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0 |
