@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 21 Mar 2026 23:23:58 +0100</pubDate>
+    <pubDate>Sun, 22 Mar 2026 14:32:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 19 February–2 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-03-02-Baltijostyrimai.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sat, 21 Mar 2026 23:23:58 +0100</pubDate>
       <dc:date>2026-03-21T23:23:58.629251+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 18–28 February 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-02-28-Spintertyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Nemuno aušra (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-02-28-Spintertyrimai-seats.png"
+        length="327678"
+        type="image/png"/>
+      <pubDate>Sun, 22 Mar 2026 13:31:01 +0100</pubDate>
+      <dc:date>2026-03-22T13:31:01.01819+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 18–28 February 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-02-28-Spintertyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-02-28-Spintertyrimai-coalitions-seats.png"
+        length="219523"
+        type="image/png"/>
+      <pubDate>Sun, 22 Mar 2026 13:31:01 +0100</pubDate>
+      <dc:date>2026-03-22T13:31:01.01819+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spinter tyrimai for Delfi, 18–28 February 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-02-28-Spintertyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 5.1–9.1%&lt;/li&gt;&lt;li&gt;Nemuno aušra (PfE): 9.3–14.3%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 7.6–12.2%&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 18.8–25.3%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 10.9–16.2%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 9.2–14.1%&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (*): 4.1–7.8%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 2.7–5.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-02-28-Spintertyrimai.png"
+        length="331582"
+        type="image/png"/>
+      <pubDate>Sun, 22 Mar 2026 13:31:01 +0100</pubDate>
+      <dc:date>2026-03-22T13:31:01.01819+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 19–29 January 2026 – Seat Projections for the Parties</title>
@@ -76,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-01-24-Baltijostyrimai-seats.png"
         length="382319"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 18:26:34 +0100</pubDate>
-      <dc:date>2026-03-21T18:26:34.444609+01:00</dc:date>
+      <pubDate>Sun, 22 Mar 2026 14:15:24 +0100</pubDate>
+      <dc:date>2026-03-22T14:15:24.485878+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 8–24 January 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-01-24-Baltijostyrimai-coalitions-seats.png"
         length="239683"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 18:26:34 +0100</pubDate>
-      <dc:date>2026-03-21T18:26:34.444609+01:00</dc:date>
+      <pubDate>Sun, 22 Mar 2026 14:15:24 +0100</pubDate>
+      <dc:date>2026-03-22T14:15:24.485878+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 8–24 January 2026 – Voting Intentions</title>
@@ -96,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-01-24-Baltijostyrimai.png"
         length="352936"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 18:26:34 +0100</pubDate>
-      <dc:date>2026-03-21T18:26:34.444609+01:00</dc:date>
+      <pubDate>Sun, 22 Mar 2026 14:15:24 +0100</pubDate>
+      <dc:date>2026-03-22T14:15:24.485878+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos Rytas, 12–30 December 2025 – Seat Projections for the Parties</title>
@@ -106,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-12-30-Vilmorus-seats.png"
         length="229764"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 18:32:18 +0100</pubDate>
-      <dc:date>2026-03-21T18:32:18.664051+01:00</dc:date>
+      <pubDate>Sun, 22 Mar 2026 14:32:50 +0100</pubDate>
+      <dc:date>2026-03-22T14:32:50.478738+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos Rytas, 12–30 December 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -116,8 +146,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-12-30-Vilmorus-coalitions-seats.png"
         length="181680"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 18:32:18 +0100</pubDate>
-      <dc:date>2026-03-21T18:32:18.664051+01:00</dc:date>
+      <pubDate>Sun, 22 Mar 2026 14:32:50 +0100</pubDate>
+      <dc:date>2026-03-22T14:32:50.478738+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vilmorus for Lietuvos Rytas, 12–30 December 2025 – Voting Intentions</title>
@@ -126,9 +156,9 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2025-12-30-Vilmorus.png"
         length="280976"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 18:32:18 +0100</pubDate>
-      <dc:date>2026-03-21T18:32:18.664051+01:00</dc:date>
+      <pubDate>Sun, 22 Mar 2026 14:32:50 +0100</pubDate>
+      <dc:date>2026-03-22T14:32:50.478738+01:00</dc:date>
     </item>
-    <dc:date>2026-03-21T23:23:58.629251+01:00</dc:date>
+    <dc:date>2026-03-22T14:32:50.478738+01:00</dc:date>
   </channel>
 </rss>
