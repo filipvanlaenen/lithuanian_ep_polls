@@ -9,9 +9,9 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | DSVL | LŽP | LSDP | LRP | LP | LRLS | LT | TS-LKD | LLRA | LVŽS | NA | TTS | DP | TT | LS | JL | KS | NS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 6–15% <br> 1–2 | N/A <br> N/A | 10–21% <br> 1–2 | N/A <br> N/A | 2–6% <br> 0–1 | 7–15% <br> 1–2 | N/A <br> N/A | 14–24% <br> 2–3 | 3–6% <br> 0–1 | 8–15% <br> 1–2 | 10–19% <br> 1–2 | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–8% <br> 0–1 |
+| N/A | Poll Average | 6–15% <br> 1–2 | N/A <br> N/A | 12–21% <br> 1–2 | N/A <br> N/A | 2–7% <br> 0–1 | 7–16% <br> 1–2 | N/A <br> N/A | 14–26% <br> 2–3 | 3–6% <br> 0–1 | 7–15% <br> 1–2 | 8–19% <br> 1–2 | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–1 |
+| [18–28 March 2026](2026-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 6–10% <br> 1 | N/A <br> N/A | 11–16% <br> 1–2 | N/A <br> N/A | 4–7% <br> 0–1 | 11–16% <br> 1–2 | N/A <br> N/A | 20–27% <br> 2–3 | N/A <br> N/A | 7–11% <br> 1 | 7–12% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–1 |
 | [19 February–2 March 2026](2026-03-02-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 10–15% <br> 1–2 | N/A <br> N/A | 15–21% <br> 2 | N/A <br> N/A | 2–5% <br> 0 | 7–11% <br> 1 | N/A <br> N/A | 13–19% <br> 1–2 | 3–6% <br> 0–1 | 11–16% <br> 1–2 | 11–16% <br> 1–2 | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [18–28 February 2026](2026-02-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5–9% <br> 0–1 | N/A <br> N/A | 9–14% <br> 1–2 | N/A <br> N/A | 3–6% <br> 0–1 | 11–16% <br> 1–2 | N/A <br> N/A | 19–25% <br> 2–3 | N/A <br> N/A | 8–12% <br> 1 | 9–14% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–8% <br> 0–1 |
 | [12–30 December 2025](2025-12-30-Vilmorus.html) | Vilmorus <br> Lietuvos Rytas | 12–16% <br> 1–2 | N/A <br> N/A | 17–22% <br> 2 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 1–2 | N/A <br> N/A | 19–24% <br> 2–3 | N/A <br> N/A | 10–14% <br> 1–2 | 15–19% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -49,24 +49,24 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#demokratų-sąjunga-„vardan-lietuvos“-(greens/efa)">Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)</a> | 0.0% | 12.1% | 6.4–14.5% |5.9–15.0% | 5.6–15.4% | 4.9–16.3% |
+| <a href="#demokratų-sąjunga-„vardan-lietuvos“-(greens/efa)">Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)</a> | 0.0% | 12.1% | 7.0–14.5% |6.5–15.0% | 6.2–15.4% | 5.5–16.3% |
 | <a href="#lietuvos-žaliųjų-partija-(greens/efa)">Lietuvos Žaliųjų Partija (Greens/EFA)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 0.0% | 17.5% | 10.8–20.1% |10.2–20.6% | 9.7–21.1% | 8.9–22.0% |
+| <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 0.0% | 17.5% | 12.9–20.1% |12.3–20.6% | 11.8–21.1% | 10.9–22.0% |
 | <a href="#lietuvos-regionų-partija-(s&d)">Lietuvos regionų partija (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#laisvės-partija-(re)">Laisvės partija (RE)</a> | 0.0% | 3.7% | 2.7–4.8% |2.5–5.2% | 2.3–5.5% | 2.0–6.1% |
-| <a href="#liberalų-sąjūdis-(re)">Liberalų Sąjūdis (RE)</a> | 0.0% | 11.1% | 7.9–14.1% |7.4–14.8% | 7.0–15.4% | 6.3–16.5% |
+| <a href="#laisvės-partija-(re)">Laisvės partija (RE)</a> | 0.0% | 4.3% | 2.8–6.2% |2.5–6.6% | 2.3–7.0% | 2.0–7.7% |
+| <a href="#liberalų-sąjūdis-(re)">Liberalų Sąjūdis (RE)</a> | 0.0% | 11.1% | 7.9–14.4% |7.4–15.1% | 7.0–15.6% | 6.3–16.7% |
 | <a href="#partija-„laisvė-ir-teisingumas“-(re)">Partija „Laisvė ir teisingumas“ (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai-(epp)">Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)</a> | 0.0% | 20.8% | 15.2–23.3% |14.5–24.0% | 14.0–24.5% | 13.1–25.7% |
+| <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai-(epp)">Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)</a> | 0.0% | 21.3% | 15.2–24.3% |14.5–25.2% | 14.0–25.8% | 13.1–27.1% |
 | <a href="#lietuvos-lenkų-rinkimų-akcija-(ecr)">Lietuvos lenkų rinkimų akcija (ECR)</a> | 0.0% | 4.1% | 3.2–5.1% |3.0–5.4% | 2.8–5.7% | 2.5–6.3% |
-| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(ecr)">Lietuvos valstiečių ir žaliųjų sąjunga (ECR)</a> | 0.0% | 11.9% | 9.1–14.1% |8.6–14.7% | 8.1–15.2% | 7.4–16.1% |
-| <a href="#nemuno-aušra-(pfe)">Nemuno aušra (PfE)</a> | 0.0% | 13.4% | 10.9–17.5% |10.3–18.1% | 9.9–18.6% | 9.1–19.5% |
+| <a href="#lietuvos-valstiečių-ir-žaliųjų-sąjunga-(ecr)">Lietuvos valstiečių ir žaliųjų sąjunga (ECR)</a> | 0.0% | 11.8% | 8.1–14.1% |7.5–14.7% | 7.1–15.2% | 6.4–16.1% |
+| <a href="#nemuno-aušra-(pfe)">Nemuno aušra (PfE)</a> | 0.0% | 13.1% | 8.6–17.5% |8.1–18.1% | 7.7–18.6% | 7.0–19.5% |
 | <a href="#tautos-ir-teisingumo-sąjunga-(centristai,-tautininkai)-(esn)">Tautos ir teisingumo sąjunga (centristai, tautininkai) (ESN)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#darbo-partija-(ni)">Darbo Partija (NI)</a> | 0.0% | 5.4% | 4.4–6.5% |4.1–6.8% | 3.9–7.2% | 3.5–7.8% |
 | <a href="#partija-tvarka-ir-teisingumas-(*)">Partija tvarka ir teisingumas (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#politinė-partija-“lietuvos-sąrašas”-(*)">Politinė partija “Lietuvos sąrašas” (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#jaunoji-lietuva-(*)">Jaunoji Lietuva (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#krikščionių-sąjunga-(*)">Krikščionių sąjunga (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#nacionalinis-susivienijimas-(*)">Nacionalinis Susivienijimas (*)</a> | 0.0% | 5.8% | 4.7–7.1% |4.4–7.4% | 4.2–7.8% | 3.7–8.5% |
+| <a href="#nacionalinis-susivienijimas-(*)">Nacionalinis Susivienijimas (*)</a> | 0.0% | 4.8% | 3.8–6.0% |3.6–6.3% | 3.4–6.6% | 3.0–7.3% |
 
 ### Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)
 
@@ -78,13 +78,13 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 10% | 98% |  |
-| 6.5–7.5% | 12% | 88% |  |
-| 7.5–8.5% | 7% | 76% |  |
-| 8.5–9.5% | 2% | 69% |  |
-| 9.5–10.5% | 2% | 67% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.5% | 100% |  |
+| 5.5–6.5% | 5% | 99.5% |  |
+| 6.5–7.5% | 11% | 95% |  |
+| 7.5–8.5% | 11% | 83% |  |
+| 8.5–9.5% | 5% | 73% |  |
+| 9.5–10.5% | 3% | 68% |  |
 | 10.5–11.5% | 7% | 64% |  |
 | 11.5–12.5% | 14% | 57% | Median |
 | 12.5–13.5% | 19% | 43% |  |
@@ -106,16 +106,16 @@ Only polls for which at least the sample size has been published are included in
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 1.3% | 99.9% |  |
-| 9.5–10.5% | 5% | 98.6% |  |
-| 10.5–11.5% | 12% | 93% |  |
-| 11.5–12.5% | 17% | 81% |  |
-| 12.5–13.5% | 16% | 64% | Median |
-| 13.5–14.5% | 10% | 48% |  |
-| 14.5–15.5% | 7% | 38% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 2% | 99.9% |  |
+| 7.5–8.5% | 7% | 98% |  |
+| 8.5–9.5% | 11% | 91% |  |
+| 9.5–10.5% | 9% | 80% |  |
+| 10.5–11.5% | 6% | 71% |  |
+| 11.5–12.5% | 8% | 64% |  |
+| 12.5–13.5% | 11% | 56% | Median |
+| 13.5–14.5% | 8% | 45% |  |
+| 14.5–15.5% | 7% | 37% |  |
 | 15.5–16.5% | 10% | 30% |  |
 | 16.5–17.5% | 11% | 20% |  |
 | 17.5–18.5% | 7% | 9% |  |
@@ -136,13 +136,13 @@ Only polls for which at least the sample size has been published are included in
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.7% | 100% |  |
-| 7.5–8.5% | 4% | 99.3% |  |
-| 8.5–9.5% | 10% | 95% |  |
-| 9.5–10.5% | 12% | 85% |  |
-| 10.5–11.5% | 16% | 73% |  |
-| 11.5–12.5% | 21% | 57% | Median |
+| 5.5–6.5% | 0.6% | 100% |  |
+| 6.5–7.5% | 4% | 99.3% |  |
+| 7.5–8.5% | 11% | 95% |  |
+| 8.5–9.5% | 11% | 84% |  |
+| 9.5–10.5% | 7% | 73% |  |
+| 10.5–11.5% | 11% | 66% |  |
+| 11.5–12.5% | 19% | 55% | Median |
 | 12.5–13.5% | 19% | 36% |  |
 | 13.5–14.5% | 11% | 17% |  |
 | 14.5–15.5% | 4% | 6% |  |
@@ -174,17 +174,18 @@ Only polls for which at least the sample size has been published are included in
 | 14.5–15.5% | 8% | 95% |  |
 | 15.5–16.5% | 10% | 87% |  |
 | 16.5–17.5% | 7% | 77% |  |
-| 17.5–18.5% | 4% | 70% |  |
-| 18.5–19.5% | 4% | 67% |  |
-| 19.5–20.5% | 9% | 63% |  |
-| 20.5–21.5% | 16% | 54% | Median |
-| 21.5–22.5% | 17% | 37% |  |
-| 22.5–23.5% | 12% | 20% |  |
-| 23.5–24.5% | 6% | 8% |  |
-| 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.5% | 0.6% |  |
-| 26.5–27.5% | 0.1% | 0.1% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 17.5–18.5% | 3% | 71% |  |
+| 18.5–19.5% | 2% | 67% |  |
+| 19.5–20.5% | 6% | 65% |  |
+| 20.5–21.5% | 12% | 59% | Median |
+| 21.5–22.5% | 15% | 47% |  |
+| 22.5–23.5% | 14% | 31% |  |
+| 23.5–24.5% | 9% | 18% |  |
+| 24.5–25.5% | 5% | 9% |  |
+| 25.5–26.5% | 2% | 3% |  |
+| 26.5–27.5% | 0.8% | 1.0% |  |
+| 27.5–28.5% | 0.2% | 0.2% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 ### Liberalų Sąjūdis (RE)
 
@@ -202,14 +203,14 @@ Only polls for which at least the sample size has been published are included in
 | 6.5–7.5% | 6% | 99.1% |  |
 | 7.5–8.5% | 12% | 93% |  |
 | 8.5–9.5% | 12% | 81% |  |
-| 9.5–10.5% | 12% | 70% |  |
-| 10.5–11.5% | 16% | 58% | Median |
-| 11.5–12.5% | 15% | 42% |  |
-| 12.5–13.5% | 12% | 28% |  |
-| 13.5–14.5% | 9% | 15% |  |
-| 14.5–15.5% | 5% | 7% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.4% | 0.5% |  |
+| 9.5–10.5% | 11% | 70% |  |
+| 10.5–11.5% | 15% | 58% | Median |
+| 11.5–12.5% | 14% | 43% |  |
+| 12.5–13.5% | 12% | 30% |  |
+| 13.5–14.5% | 10% | 18% |  |
+| 14.5–15.5% | 6% | 8% |  |
+| 15.5–16.5% | 2% | 3% |  |
+| 16.5–17.5% | 0.5% | 0.7% |  |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
@@ -227,23 +228,58 @@ Only polls for which at least the sample size has been published are included in
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 2% | 99.8% |  |
-| 9.5–10.5% | 6% | 98% |  |
-| 10.5–11.5% | 10% | 93% |  |
-| 11.5–12.5% | 9% | 83% |  |
-| 12.5–13.5% | 5% | 74% |  |
-| 13.5–14.5% | 2% | 69% |  |
-| 14.5–15.5% | 2% | 67% |  |
-| 15.5–16.5% | 5% | 65% |  |
-| 16.5–17.5% | 11% | 60% |  |
-| 17.5–18.5% | 16% | 49% | Median |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.2% | 100% |  |
+| 10.5–11.5% | 1.5% | 99.8% |  |
+| 11.5–12.5% | 5% | 98% |  |
+| 12.5–13.5% | 9% | 93% |  |
+| 13.5–14.5% | 9% | 84% |  |
+| 14.5–15.5% | 7% | 75% |  |
+| 15.5–16.5% | 7% | 68% |  |
+| 16.5–17.5% | 11% | 61% |  |
+| 17.5–18.5% | 17% | 49% | Median |
 | 18.5–19.5% | 17% | 33% |  |
 | 19.5–20.5% | 11% | 16% |  |
 | 20.5–21.5% | 4% | 6% |  |
 | 21.5–22.5% | 1.0% | 1.2% |  |
 | 22.5–23.5% | 0.2% | 0.2% |  |
 | 23.5–24.5% | 0% | 0% |  |
+
+### Nacionalinis Susivienijimas (*)
+
+*For a full overview of the results for this party, see the [Nacionalinis Susivienijimas (*)](party-nacionalinissusivienijimas.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 5% | 100% |  |
+| 3.5–4.5% | 33% | 95% |  |
+| 4.5–5.5% | 42% | 62% | Median |
+| 5.5–6.5% | 17% | 20% |  |
+| 6.5–7.5% | 3% | 3% |  |
+| 7.5–8.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0% | 0% |  |
+
+### Laisvės partija (RE)
+
+*For a full overview of the results for this party, see the [Laisvės partija (RE)](party-laisvėspartijare.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 6% | 100% |  |
+| 2.5–3.5% | 27% | 94% |  |
+| 3.5–4.5% | 22% | 67% | Median |
+| 4.5–5.5% | 22% | 45% |  |
+| 5.5–6.5% | 17% | 22% |  |
+| 6.5–7.5% | 5% | 6% |  |
+| 7.5–8.5% | 0.7% | 0.8% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija (ECR)
 
@@ -279,40 +315,6 @@ Only polls for which at least the sample size has been published are included in
 | 8.5–9.5% | 0% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
-### Laisvės partija (RE)
-
-*For a full overview of the results for this party, see the [Laisvės partija (RE)](party-laisvėspartijare.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 39% | 94% |  |
-| 3.5–4.5% | 39% | 55% | Median |
-| 4.5–5.5% | 13% | 16% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
-| 7.5–8.5% | 0% | 0% |  |
-
-### Nacionalinis Susivienijimas (*)
-
-*For a full overview of the results for this party, see the [Nacionalinis Susivienijimas (*)](party-nacionalinissusivienijimas.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 7% | 99.8% |  |
-| 4.5–5.5% | 32% | 93% |  |
-| 5.5–6.5% | 39% | 61% | Median |
-| 6.5–7.5% | 18% | 22% |  |
-| 7.5–8.5% | 4% | 4% |  |
-| 8.5–9.5% | 0.4% | 0.4% |  |
-| 9.5–10.5% | 0% | 0% |  |
-
 
 ## Seats
 
@@ -324,11 +326,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#demokratų-sąjunga-„vardan-lietuvos“-(greens/efa)">Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
+| <a href="#demokratų-sąjunga-„vardan-lietuvos“-(greens/efa)">Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#lietuvos-žaliųjų-partija-(greens/efa)">Lietuvos Žaliųjų Partija (Greens/EFA)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lietuvos-socialdemokratų-partija-(s&d)">Lietuvos socialdemokratų partija (S&D)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–3 |
 | <a href="#lietuvos-regionų-partija-(s&d)">Lietuvos regionų partija (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#laisvės-partija-(re)">Laisvės partija (RE)</a> | 0 | 0 | 0 |0–1 | 0–1 | 0–1 |
+| <a href="#laisvės-partija-(re)">Laisvės partija (RE)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#liberalų-sąjūdis-(re)">Liberalų Sąjūdis (RE)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#partija-„laisvė-ir-teisingumas“-(re)">Partija „Laisvė ir teisingumas“ (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#tėvynės-sąjunga–lietuvos-krikščionys-demokratai-(epp)">Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP)</a> | 0 | 2 | 2–3 |2–3 | 2–3 | 1–3 |
@@ -341,7 +343,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#politinė-partija-“lietuvos-sąrašas”-(*)">Politinė partija “Lietuvos sąrašas” (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#jaunoji-lietuva-(*)">Jaunoji Lietuva (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#krikščionių-sąjunga-(*)">Krikščionių sąjunga (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#nacionalinis-susivienijimas-(*)">Nacionalinis Susivienijimas (*)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#nacionalinis-susivienijimas-(*)">Nacionalinis Susivienijimas (*)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 
 ### Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA)
 
@@ -351,8 +353,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% | Last Result |
-| 1 | 67% | 99.0% | Median |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 68% | 99.6% | Median |
 | 2 | 32% | 32% |  |
 | 3 | 0% | 0% |  |
 
@@ -371,8 +373,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 30% | 100% |  |
-| 2 | 69% | 70% | Median |
+| 1 | 20% | 100% |  |
+| 2 | 79% | 80% | Median |
 | 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% |  |
 
@@ -390,8 +392,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 6% | 6% |  |
+| 0 | 71% | 100% | Last Result, Median |
+| 1 | 29% | 29% |  |
 | 2 | 0% | 0% |  |
 
 ### Liberalų Sąjūdis (RE)
@@ -403,8 +405,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 81% | 100% | Median |
-| 2 | 19% | 19% |  |
+| 1 | 84% | 100% | Median |
+| 2 | 16% | 16% |  |
 | 3 | 0% | 0% |  |
 
 ### Partija „Laisvė ir teisingumas“ (RE)
@@ -423,8 +425,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 1.0% | 100% |  |
-| 2 | 74% | 99.0% | Median |
-| 3 | 25% | 25% |  |
+| 2 | 68% | 99.0% | Median |
+| 3 | 31% | 31% |  |
 | 4 | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija (ECR)
@@ -448,8 +450,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 77% | 100% | Median |
-| 2 | 23% | 23% |  |
+| 1 | 78% | 100% | Median |
+| 2 | 22% | 22% |  |
 | 3 | 0% | 0% |  |
 
 ### Nemuno aušra (PfE)
@@ -461,8 +463,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 45% | 100% |  |
-| 2 | 55% | 55% | Median |
+| 1 | 49% | 100% |  |
+| 2 | 51% | 51% | Median |
 | 3 | 0% | 0% |  |
 
 ### Tautos ir teisingumo sąjunga (centristai, tautininkai) (ESN)
@@ -515,8 +517,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 78% | 78% | Median |
+| 0 | 68% | 100% | Last Result, Median |
+| 1 | 32% | 32% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -529,8 +531,8 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 1–3 |
-| Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA) – Lietuvos Žaliųjų Partija (Greens/EFA) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–2 |
-| Laisvės partija (RE) – Liberalų Sąjūdis (RE) – Partija „Laisvė ir teisingumas“ (RE) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
+| Laisvės partija (RE) – Liberalų Sąjūdis (RE) – Partija „Laisvė ir teisingumas“ (RE) | 0 | 1 | 0% | 1–2 | 1–3 | 1–3 | 1–3 |
+| Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA) – Lietuvos Žaliųjų Partija (Greens/EFA) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos lenkų rinkimų akcija (ECR) – Lietuvos valstiečių ir žaliųjų sąjunga (ECR) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos regionų partija (S&D) – Lietuvos socialdemokratų partija (S&D) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
 | Nemuno aušra (PfE) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -546,20 +548,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 1.0% | 100% |  |
-| 2 | 74% | 99.0% | Median |
-| 3 | 25% | 25% |  |
+| 2 | 68% | 99.0% | Median |
+| 3 | 31% | 31% |  |
 | 4 | 0% | 0% |  |
-
-### Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA) – Lietuvos Žaliųjų Partija (Greens/EFA)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-dsvl–lžp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% | Last Result |
-| 1 | 67% | 99.0% | Median |
-| 2 | 32% | 32% |  |
-| 3 | 0% | 0% |  |
 
 ### Laisvės partija (RE) – Liberalų Sąjūdis (RE) – Partija „Laisvė ir teisingumas“ (RE)
 
@@ -568,10 +559,21 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 78% | 100% | Median |
-| 2 | 21% | 22% |  |
-| 3 | 0.8% | 0.8% |  |
+| 1 | 71% | 100% | Median |
+| 2 | 22% | 29% |  |
+| 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
+
+### Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA) – Lietuvos Žaliųjų Partija (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-dsvl–lžp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 68% | 99.6% | Median |
+| 2 | 32% | 32% |  |
+| 3 | 0% | 0% |  |
 
 ### Lietuvos lenkų rinkimų akcija (ECR) – Lietuvos valstiečių ir žaliųjų sąjunga (ECR)
 
@@ -581,7 +583,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 75% | 100% | Median |
-| 2 | 25% | 25% |  |
+| 2 | 24% | 25% |  |
 | 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
@@ -592,8 +594,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 30% | 100% |  |
-| 2 | 69% | 70% | Median |
+| 1 | 20% | 100% |  |
+| 2 | 79% | 80% | Median |
 | 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% |  |
 
@@ -604,8 +606,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 45% | 100% |  |
-| 2 | 55% | 55% | Median |
+| 1 | 49% | 100% |  |
+| 2 | 51% | 51% | Median |
 | 3 | 0% | 0% |  |
 
 ### Darbo Partija (NI)
@@ -624,8 +626,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result |
-| 1 | 26% | 26% | Median |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 11% | 11% |  |
 | 2 | 0% | 0% |  |
 
 ### Tautos ir teisingumo sąjunga (centristai, tautininkai) (ESN)
