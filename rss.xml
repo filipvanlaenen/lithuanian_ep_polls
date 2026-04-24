@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 19 Apr 2026 16:18:09 +0200</pubDate>
+    <pubDate>Fri, 24 Apr 2026 19:56:20 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 19–30 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-03-30-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Nemuno aušra (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos regionų partija (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-03-30-Baltijostyrimai-seats.png"
+        length="384215"
+        type="image/png"/>
+      <pubDate>Fri, 24 Apr 2026 19:56:20 +0200</pubDate>
+      <dc:date>2026-04-24T19:56:20.242138+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 19–30 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-03-30-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-03-30-Baltijostyrimai-coalitions-seats.png"
+        length="233416"
+        type="image/png"/>
+      <pubDate>Fri, 24 Apr 2026 19:56:20 +0200</pubDate>
+      <dc:date>2026-04-24T19:56:20.242138+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 19–30 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-03-30-Baltijostyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 10.2–14.8%&lt;/li&gt;&lt;li&gt;Nemuno aušra (PfE): 10.5–15.3%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 10.7–15.4%&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 15.7–21.2%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 6.1–9.9%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 14.9–20.2%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 2.6–5.3%&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (*): 2.7–5.5%&lt;/li&gt;&lt;li&gt;Lietuvos regionų partija (S&amp;amp;D): 1.7–4.0%&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 3.6–6.7%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 1.8–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-03-30-Baltijostyrimai.png"
+        length="413954"
+        type="image/png"/>
+      <pubDate>Fri, 24 Apr 2026 19:56:20 +0200</pubDate>
+      <dc:date>2026-04-24T19:56:20.242138+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–28 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-03-28-Spintertyrimai.html#seats</link>
@@ -189,6 +219,6 @@
       <pubDate>Sun, 22 Mar 2026 14:32:50 +0100</pubDate>
       <dc:date>2026-03-22T14:32:50.478738+01:00</dc:date>
     </item>
-    <dc:date>2026-04-19T16:18:09.385216+02:00</dc:date>
+    <dc:date>2026-04-24T19:56:20.242138+02:00</dc:date>
   </channel>
 </rss>
