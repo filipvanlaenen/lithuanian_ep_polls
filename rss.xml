@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 17 May 2026 21:21:58 +0200</pubDate>
+    <pubDate>Wed, 27 May 2026 20:12:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 23 April–7 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-05-07-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Tautos ir teisingumo sąjunga (centristai, tautininkai) (ESN): 0 seats&lt;/li&gt;&lt;li&gt;Nemuno aušra (PfE): 2–3 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (*): 0 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Lietuvos regionų partija (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-05-07-Baltijostyrimai-seats.png"
+        length="334231"
+        type="image/png"/>
+      <pubDate>Wed, 27 May 2026 20:12:07 +0200</pubDate>
+      <dc:date>2026-05-27T20:12:07.067265+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 23 April–7 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-05-07-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-05-07-Baltijostyrimai-coalitions-seats.png"
+        length="189462"
+        type="image/png"/>
+      <pubDate>Wed, 27 May 2026 20:12:07 +0200</pubDate>
+      <dc:date>2026-05-27T20:12:07.067265+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 23 April–7 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-05-07-Baltijostyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 3.7–7.0%&lt;/li&gt;&lt;li&gt;Tautos ir teisingumo sąjunga (centristai, tautininkai) (ESN): 0.6–2.3%&lt;/li&gt;&lt;li&gt;Nemuno aušra (PfE): 13.9–19.5%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 11.9–17.2%&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 14.1–19.6%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 15.4–21.2%&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (*): 1.8–4.3%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 1.9–4.5%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 9.2–14.0%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 1.9–4.5%&lt;/li&gt;&lt;li&gt;Lietuvos regionų partija (S&amp;amp;D): 2.0–4.6%&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 3.6–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-05-07-Baltijostyrimai.png"
+        length="447626"
+        type="image/png"/>
+      <pubDate>Wed, 27 May 2026 20:12:07 +0200</pubDate>
+      <dc:date>2026-05-27T20:12:07.067265+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 18–28 April 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-04-28-Spintertyrimai.html#seats</link>
@@ -249,6 +279,6 @@
       <pubDate>Sun, 22 Mar 2026 14:32:50 +0100</pubDate>
       <dc:date>2026-03-22T14:32:50.478738+01:00</dc:date>
     </item>
-    <dc:date>2026-05-17T21:21:58.960016+02:00</dc:date>
+    <dc:date>2026-05-27T20:12:07.067265+02:00</dc:date>
   </channel>
 </rss>
