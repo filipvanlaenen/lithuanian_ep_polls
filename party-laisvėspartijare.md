@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 2.3–6.6% | 2.1–7.0% | 1.9–7.4% | 1.6–8.1% |
+| N/A | [Poll Average](average.html) | 4.3% | 2.5–6.6% | 2.2–7.0% | 2.1–7.4% | 1.7–8.1% |
+| [23 April–7 May 2026](2026-05-07-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2.9% | 2.2–3.9% | 2.1–4.2% | 1.9–4.5% | 1.6–5.0% |
 | [18–28 April 2026](2026-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5.7% | 4.7–7.0% | 4.4–7.4% | 4.1–7.7% | 3.7–8.4% |
 | [19–30 March 2026](2026-03-30-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2.7% | 2.1–3.6% | 1.9–3.9% | 1.8–4.1% | 1.5–4.6% |
 | [18–28 March 2026](2026-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5.3% | 4.4–6.6% | 4.1–7.0% | 3.9–7.3% | 3.4–8.0% |
@@ -63,10 +64,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 16% | 99.7% |  |
-| 2.5–3.5% | 28% | 84% |  |
-| 3.5–4.5% | 9% | 56% | Median |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 11% | 99.8% |  |
+| 2.5–3.5% | 28% | 89% |  |
+| 3.5–4.5% | 14% | 61% | Median |
 | 4.5–5.5% | 17% | 47% |  |
 | 5.5–6.5% | 20% | 30% |  |
 | 6.5–7.5% | 8% | 10% |  |
@@ -84,6 +85,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23 April–7 May 2026](2026-05-07-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0 |
 | [18–28 April 2026](2026-04-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–30 March 2026](2026-03-30-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0 |
 | [18–28 March 2026](2026-03-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
