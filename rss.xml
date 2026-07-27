@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 Jul 2026 23:16:15 +0200</pubDate>
+    <pubDate>Mon, 27 Jul 2026 11:53:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 28 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-06-28-Spintertyrimai.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-06-28-Spintertyrimai-seats.png"
         length="248739"
         type="image/png"/>
-      <pubDate>Sat, 25 Jul 2026 23:16:15 +0200</pubDate>
-      <dc:date>2026-07-25T23:16:15.700898+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 11:53:52 +0200</pubDate>
+      <dc:date>2026-07-27T11:53:52.180609+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 28 June 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-06-28-Spintertyrimai-coalitions-seats.png"
         length="191164"
         type="image/png"/>
-      <pubDate>Sat, 25 Jul 2026 23:16:15 +0200</pubDate>
-      <dc:date>2026-07-25T23:16:15.700898+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 11:53:52 +0200</pubDate>
+      <dc:date>2026-07-27T11:53:52.180609+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 28 June 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-06-28-Spintertyrimai.png"
         length="267735"
         type="image/png"/>
-      <pubDate>Sat, 25 Jul 2026 23:16:15 +0200</pubDate>
-      <dc:date>2026-07-25T23:16:15.700898+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 11:53:52 +0200</pubDate>
+      <dc:date>2026-07-27T11:53:52.180609+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Baltijos tyrimai for ELTA, 21–31 May 2026 – Seat Projections for the Parties</title>
@@ -369,6 +369,6 @@
       <pubDate>Sun, 22 Mar 2026 14:32:50 +0100</pubDate>
       <dc:date>2026-03-22T14:32:50.478738+01:00</dc:date>
     </item>
-    <dc:date>2026-07-25T23:16:15.700898+02:00</dc:date>
+    <dc:date>2026-07-27T11:53:52.180609+02:00</dc:date>
   </channel>
 </rss>
