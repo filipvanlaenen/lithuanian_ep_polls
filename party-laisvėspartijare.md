@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.0–6.1% | 2.7–6.5% | 2.5–6.8% | 2.2–7.5% |
+| N/A | [Poll Average](average.html) | 4.2% | 2.6–6.1% | 2.3–6.5% | 2.2–6.8% | 1.8–7.5% |
+| [20–31 August 2026](2026-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3.0% | 2.3–4.0% | 2.1–4.3% | 2.0–4.5% | 1.7–5.0% |
 | [21–31 July 2026](2026-07-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3.4% | 2.7–4.5% | 2.5–4.8% | 2.3–5.0% | 2.0–5.6% |
 | [18–28 July 2026](2026-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 5.3% | 4.3–6.5% | 4.1–6.8% | 3.9–7.1% | 3.5–7.8% |
 | [19–30 June 2026](2026-06-30-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3.7% | N/A | N/A | N/A | N/A |
@@ -70,12 +71,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 23% | 97% |  |
-| 3.5–4.5% | 28% | 74% | Median |
-| 4.5–5.5% | 26% | 46% |  |
-| 5.5–6.5% | 16% | 21% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 9% | 99.9% |  |
+| 2.5–3.5% | 29% | 91% |  |
+| 3.5–4.5% | 19% | 62% | Median |
+| 4.5–5.5% | 23% | 43% |  |
+| 5.5–6.5% | 16% | 20% |  |
 | 6.5–7.5% | 4% | 4% |  |
 | 7.5–8.5% | 0.4% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -90,6 +91,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–31 August 2026](2026-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0 | 0 | 0 |
 | [21–31 July 2026](2026-07-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [18–28 July 2026](2026-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–30 June 2026](2026-06-30-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA |  |  |  |  |  |
@@ -150,8 +152,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Last Result, Median |
-| 1 | 34% | 34% |  |
+| 0 | 70% | 100% | Last Result, Median |
+| 1 | 30% | 30% |  |
 | 2 | 0% | 0% |  |
 
 
