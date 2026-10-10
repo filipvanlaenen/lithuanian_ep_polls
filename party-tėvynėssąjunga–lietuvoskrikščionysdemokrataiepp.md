@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.3% | 16.5–24.4% | 16.0–25.1% | 15.5–25.7% | 14.6–26.8% |
+| N/A | [Poll Average](average.html) | 21.0% | 16.5–26.0% | 16.0–26.7% | 15.5–27.4% | 14.6–28.6% |
+| [16–26 September 2026](2026-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 24.5% | 22.5–26.7% | 21.9–27.4% | 21.4–27.9% | 20.5–29.0% |
 | [20–31 August 2026](2026-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 17.6% | 15.9–19.6% | 15.5–20.1% | 15.0–20.6% | 14.3–21.5% |
 | [21–31 July 2026](2026-07-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 19.3% | 17.5–21.2% | 17.0–21.8% | 16.6–22.3% | 15.7–23.3% |
 | [18–28 July 2026](2026-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 23.0% | 21.1–25.1% | 20.5–25.7% | 20.1–26.2% | 19.2–27.2% |
@@ -90,16 +91,18 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 13% | 90% |  |
 | 17.5–18.5% | 13% | 77% |  |
 | 18.5–19.5% | 9% | 64% |  |
-| 19.5–20.5% | 6% | 55% | Median |
-| 20.5–21.5% | 7% | 49% |  |
-| 21.5–22.5% | 11% | 42% |  |
-| 22.5–23.5% | 13% | 31% |  |
-| 23.5–24.5% | 10% | 19% |  |
-| 24.5–25.5% | 6% | 9% |  |
-| 25.5–26.5% | 2% | 3% |  |
-| 26.5–27.5% | 0.6% | 0.7% |  |
-| 27.5–28.5% | 0.1% | 0.1% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 19.5–20.5% | 4% | 55% |  |
+| 20.5–21.5% | 2% | 51% | Median |
+| 21.5–22.5% | 4% | 49% |  |
+| 22.5–23.5% | 8% | 45% |  |
+| 23.5–24.5% | 11% | 37% |  |
+| 24.5–25.5% | 11% | 25% |  |
+| 25.5–26.5% | 8% | 14% |  |
+| 26.5–27.5% | 4% | 6% |  |
+| 27.5–28.5% | 1.5% | 2% |  |
+| 28.5–29.5% | 0.4% | 0.5% |  |
+| 29.5–30.5% | 0.1% | 0.1% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -111,6 +114,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [16–26 September 2026](2026-09-26-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [20–31 August 2026](2026-08-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 2 | 2 | 2 | 2–3 | 2–3 |
 | [21–31 July 2026](2026-07-31-Baltijostyrimai.html) | Baltijos tyrimai <br> ELTA | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–28 July 2026](2026-07-28-Spintertyrimai.html) | Spinter tyrimai <br> Delfi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -174,8 +178,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 72% | 100% | Median |
-| 3 | 28% | 28% |  |
-| 4 | 0% | 0% |  |
+| 2 | 51% | 100% | Median |
+| 3 | 48% | 49% |  |
+| 4 | 0.2% | 0.2% |  |
+| 5 | 0% | 0% |  |
 
 
