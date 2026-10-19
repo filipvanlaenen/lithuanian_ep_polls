@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/lithuanian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 10 Oct 2026 23:33:48 +0200</pubDate>
+    <pubDate>Mon, 19 Oct 2026 18:20:58 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 23 September–5 October 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-10-05-Baltijostyrimai.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Tautos ir teisingumo sąjunga (centristai, tautininkai) (ESN): 0 seats&lt;/li&gt;&lt;li&gt;Nemuno aušra (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 0 seats&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 1 seats&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Lietuvos regionų partija (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-10-05-Baltijostyrimai-seats.png"
+        length="503241"
+        type="image/png"/>
+      <pubDate>Mon, 19 Oct 2026 18:20:58 +0200</pubDate>
+      <dc:date>2026-10-19T18:20:58.39164+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 23 September–5 October 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-10-05-Baltijostyrimai.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-10-05-Baltijostyrimai-coalitions-seats.png"
+        length="251588"
+        type="image/png"/>
+      <pubDate>Mon, 19 Oct 2026 18:20:58 +0200</pubDate>
+      <dc:date>2026-10-19T18:20:58.39164+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Baltijos tyrimai for ELTA, 23 September–5 October 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-10-05-Baltijostyrimai.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokratų sąjunga „Vardan Lietuvos“ (Greens/EFA): 4.7–8.1%&lt;/li&gt;&lt;li&gt;Tautos ir teisingumo sąjunga (centristai, tautininkai) (ESN): 0.8–2.6%&lt;/li&gt;&lt;li&gt;Nemuno aušra (PfE): 11.9–16.8%&lt;/li&gt;&lt;li&gt;Lietuvos valstiečių ir žaliųjų sąjunga (ECR): 11.5–16.4%&lt;/li&gt;&lt;li&gt;Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP): 18.0–23.8%&lt;/li&gt;&lt;li&gt;Lietuvos socialdemokratų partija (S&amp;amp;D): 13.8–19.1%&lt;/li&gt;&lt;li&gt;Laisvės partija (RE): 2.4–5.1%&lt;/li&gt;&lt;li&gt;Nacionalinis Susivienijimas (ECR): 5.0–8.6%&lt;/li&gt;&lt;li&gt;Liberalų Sąjūdis (RE): 5.9–9.7%&lt;/li&gt;&lt;li&gt;Lietuvos lenkų rinkimų akcija (ECR): 3.1–6.0%&lt;/li&gt;&lt;li&gt;Lietuvos regionų partija (S&amp;amp;D): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Darbo Partija (NI): 2.2–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-10-05-Baltijostyrimai.png"
+        length="441482"
+        type="image/png"/>
+      <pubDate>Mon, 19 Oct 2026 18:20:58 +0200</pubDate>
+      <dc:date>2026-10-19T18:20:58.39164+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Spinter tyrimai for Delfi, 16–26 September 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/lithuanian_ep_polls/2026-09-26-Spintertyrimai.html#seats</link>
@@ -129,6 +159,6 @@
       <pubDate>Sat, 05 Sep 2026 12:51:27 +0200</pubDate>
       <dc:date>2026-09-05T12:51:27.984583+02:00</dc:date>
     </item>
-    <dc:date>2026-10-10T23:33:48.391366+02:00</dc:date>
+    <dc:date>2026-10-19T18:20:58.39164+02:00</dc:date>
   </channel>
 </rss>
